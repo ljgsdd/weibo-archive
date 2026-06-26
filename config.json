@@ -2,17 +2,27 @@
     "user_id_list": ["1002568141"],
     "only_crawl_original": 0,
     "since_date": "2020-01-01",
+    "end_date": "",
     "start_page": 1,
+    "page_weibo_count": 20,
     "write_mode": ["csv", "json", "sqlite"],
+    "markdown_split_by": "day_by_month",
     "original_pic_download": 1,
+    "retweet_pic_download": 0,
     "original_video_download": 1,
+    "retweet_video_download": 0,
+    "original_live_photo_download": 0,
+    "retweet_live_photo_download": 0,
     "download_comment": 1,
-    "comment_max_download_count": 1000,
+    "comment_max_download_count": 100,
+    "comment_pic_download": 0,
     "download_repost": 0,
-    "repost_max_download_count": 1000,
+    "repost_max_download_count": 100,
+    "output_directory": "weibo",
     "user_id_as_folder_name": 0,
     "remove_html_tag": 1,
     "cookie": "PASTE_YOUR_COOKIE_HERE",
+    "sqlite_db_path": "weibodata.db",
     "mysql_config": {
         "host": "localhost",
         "port": 3306,
@@ -20,6 +30,41 @@
         "password": "123456",
         "charset": "utf8mb4"
     },
-    "mongodb_URI": "",
-    "sqlite_config": "weibo.db"
+    "store_binary_in_sqlite": 0,
+    "mongodb_URI": "mongodb://[username:password@]host[:port][/[defaultauthdb][?options]]",
+    "post_config": {
+        "api_url": "https://api.example.com",
+        "api_token": ""
+    },
+    "anti_ban_config": {
+        "enabled": true,
+        "max_weibo_per_session": 500,
+        "batch_size": 50,
+        "batch_delay": 30,
+        "request_delay_min": 8,
+        "request_delay_max": 15,
+        "max_session_time": 600,
+        "max_api_errors": 5,
+        "rest_time_min": 180,
+        "random_rest_probability": 0.01,
+        "user_agents": [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0",
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1",
+            "Mozilla/5.0 (Linux; Android 14; SM-S9180) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.113 Mobile Safari/537.36"
+        ],
+        "accept_languages": [
+            "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+            "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
+            "zh-TW,zh;q=0.9,en;q=0.8"
+        ],
+        "referer_list": [
+            "https://m.weibo.cn/",
+            "https://weibo.com/",
+            "https://www.weibo.com/"
+        ]
+    },
+    "write_time_in_exif": 1,
+    "change_file_time": 1
 }
