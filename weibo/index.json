@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4098,
+    "statuses_count": 4099,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -348,6 +348,18 @@
       "attitudes_count": 1329
     },
     {
+      "id": "5314047518180447",
+      "bid": "R5Trhyk6H",
+      "created_at": "Fri Jun 26 13:18:41 +0800 2026",
+      "text_excerpt": "无需担心！昨天说了无论月线如何都是好事，时间也说了几周？别怕，哥在！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 447,
+      "attitudes_count": 841
+    },
+    {
       "id": "5311528934836166",
       "bid": "R4PV3ki6G",
       "created_at": "Fri Jun 19 14:30:44 +0800 2026",
@@ -384,6 +396,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-26 15:33:03 UTC+8 (SCF)",
-  "total_count": 31
+  "last_updated": "2026-06-26 16:10:43 UTC+8 (SCF)",
+  "total_count": 32
 }
