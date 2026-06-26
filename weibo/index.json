@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4110,
+    "statuses_count": 4112,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -276,6 +276,30 @@
       "attitudes_count": 1418
     },
     {
+      "id": "5314237998039689",
+      "bid": "R5YovxJup",
+      "created_at": "Sat Jun 27 01:55:35 +0800 2026",
+      "text_excerpt": "给大家出一道题目，这根上影线，是不是技术派或股市书中的吊颈线？也叫高位放量出货？后面它会怎么走？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 37,
+      "attitudes_count": 36
+    },
+    {
+      "id": "5314233019663169",
+      "bid": "R5YgtExPz",
+      "created_at": "Sat Jun 27 01:35:48 +0800 2026",
+      "text_excerpt": "所以讲了这么多，要相信困难都是短暂的，人生最终是美好的，这世上没有过不去的坎，只是你心中的那道坎过不去而已！你没有俊哥来时的那么苦，又有何理由整天提心吊胆愁眉苦脸呢？对自己好一点，运气只光顾会笑的人！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 78,
+      "attitudes_count": 129
+    },
+    {
       "id": "5314231517839725",
       "bid": "R5Ye3wTtb",
       "created_at": "Sat Jun 27 01:29:50 +0800 2026",
@@ -528,6 +552,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-26 17:30:23 UTC+8 (SCF)",
-  "total_count": 43
+  "last_updated": "2026-06-26 18:00:15 UTC+8 (SCF)",
+  "total_count": 45
 }
