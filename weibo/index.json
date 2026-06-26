@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4105,
+    "statuses_count": 4110,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -276,6 +276,66 @@
       "attitudes_count": 1418
     },
     {
+      "id": "5314231517839725",
+      "bid": "R5Ye3wTtb",
+      "created_at": "Sat Jun 27 01:29:50 +0800 2026",
+      "text_excerpt": "老粉都知道我有自传呀，十年前浙江出版社出版的//<a href='/n/用户7431738170'>@用户7431738170</a>:俊哥你的传奇人生可以出自传了，我第一个买来天天读",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 4
+    },
+    {
+      "id": "5314230255617321",
+      "bid": "R5Yc1nzjX",
+      "created_at": "Sat Jun 27 01:24:49 +0800 2026",
+      "text_excerpt": "俊哥可能比半数人大一些，但我走过的路可能是你父辈都没有走过的路，吃过的苦可能是50后，60后都没有吃过的苦！小时候我要过邻居家的饭，吃过生产队的草，卖过棒冰，卖过山楂片、布鞋、小糖果…大学时开过游戏厅台球厅，留学时擦过鞋、端过盘，从小到大所有的学杂费全部我自己承担。后来做过老师，当过 ...<a href=\"/status/5314230255617321\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 59,
+      "attitudes_count": 86
+    },
+    {
+      "id": "5314227239649572",
+      "bid": "R5Y79Euig",
+      "created_at": "Sat Jun 27 01:12:50 +0800 2026",
+      "text_excerpt": "人哭着来到这个世界，又在哭声中离开这个世界，自始至终伴随着哭声。所以短短一生，尽量让自己在中间这一段多点笑声！来时和走时的哭你不能左右，但中间的笑你有权选择。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 65,
+      "attitudes_count": 102
+    },
+    {
+      "id": "5314226227773655",
+      "bid": "R5Y5wwChx",
+      "created_at": "Sat Jun 27 01:08:48 +0800 2026",
+      "text_excerpt": "是的，股市失利无需纠结于心，要相信塞翁失马焉知非福，股市是偏财，赢了多行善，亏了总比住院好，山穷水尽必定会柳暗花明//<a href='/n/旺旺拿铁-换燕麦奶'>@旺旺拿铁-换燕麦奶</a>:俊哥点醒了我 我只能得到我能得到的 <span class=\"url-icon\"><img alt=\"[抱抱]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/201810_baobao_mobil",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 41,
+      "attitudes_count": 99
+    },
+    {
+      "id": "5314224234695317",
+      "bid": "R5Y2jjHsV",
+      "created_at": "Sat Jun 27 01:00:54 +0800 2026",
+      "text_excerpt": "与其说我信佛，不如说我更信一个人的财富、姻缘是命中注定！属于你的就是你的，不是你的迟早还回去，股市也如此，平常心看待。特别是当今经济困难就业形势严峻的情况下，更因守住仁、义、礼、智、信，不同流合污，正确看待金钱与人生的意义。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 62,
+      "attitudes_count": 128
+    },
+    {
       "id": "5314221596480277",
       "bid": "R5XY3rbOB",
       "created_at": "Sat Jun 27 00:50:25 +0800 2026",
@@ -468,6 +528,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-26 17:00:20 UTC+8 (SCF)",
-  "total_count": 38
+  "last_updated": "2026-06-26 17:30:23 UTC+8 (SCF)",
+  "total_count": 43
 }
