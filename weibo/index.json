@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4112,
+    "statuses_count": 4099,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -274,6 +274,18 @@
       "reposts_count": 1,
       "comments_count": 693,
       "attitudes_count": 1418
+    },
+    {
+      "id": "5314559466538084",
+      "bid": "R66L0rqQY",
+      "created_at": "Sat Jun 27 23:12:59 +0800 2026",
+      "text_excerpt": "2023年2月，微博在全网首次提出人类将进入“第四次工业革命”AI时代！<br />这正如互联网时代开始初期，各行各业都喜欢把自己的产业企业往互联网上靠，都喜欢把企业后缀化名科技公司，实际上90%以上的企业，根本与科技毫无沾边，历史的车轮经过年代的风雨冲刷过后，留下印记的只不过屈指可数罢了。<br />如今AI的 ...<a href=\"/status/5314559466538084\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 117,
+      "attitudes_count": 218
     },
     {
       "id": "5314237998039689",
@@ -552,6 +564,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-26 18:00:15 UTC+8 (SCF)",
-  "total_count": 45
+  "last_updated": "2026-06-27 15:30:16 UTC+8 (SCF)",
+  "total_count": 46
 }
