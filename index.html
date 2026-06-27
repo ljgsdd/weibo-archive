@@ -71,7 +71,7 @@ footer a{color:#ff5722}
 </head>
 <body>
 <header>
-  <img class="avatar" id="avatar" alt="" onerror="this.style.display='none'">
+  <img class="avatar" id="avatar" alt="" referrerpolicy="no-referrer" onerror="this.style.display='none'">
   <h1 id="user-name">📚 微博归档</h1>
   <div class="meta" id="header-meta">加载中…</div>
   <div class="desc" id="user-desc"></div>
@@ -94,7 +94,7 @@ footer a{color:#ff5722}
 
 <div class="lightbox" id="lightbox">
   <div class="lb-tip">点击任意位置关闭</div>
-  <img id="lb-img" alt="">
+  <img id="lb-img" alt="" referrerpolicy="no-referrer">
 </div>
 
 <script>
@@ -123,7 +123,6 @@ function fixPicUrl(u){
   if(!u) return '';
   // 强制 https（避免 mixed content 被浏览器 block）
   if(u.startsWith('http://')) u = 'https://' + u.slice(7);
-  // 新浪图床 wx1~wx4 / ww1~ww4 / tva 都通用，不需要改域名
   return u;
 }
 function picsGrid(pics){
@@ -131,12 +130,13 @@ function picsGrid(pics){
   const cls = pics.length===1?'single':pics.length===2?'double':'';
   return `<div class="pics ${cls}">${pics.map(u=>{
     const url = fixPicUrl(u);
-    // 失败兜底：直链 → wsrv 代理 → images.weserv 代理 → 显示失效
+    const noProto = url.replace(/^https?:\/\//,'');
+    // 失败兜底：直链(无referer) → i0.wp.com(Jetpack代理) → images.weserv.nl → 显示失效
     const fallbacks = [
-      'https://wsrv.nl/?url=' + encodeURIComponent(url.replace(/^https?:\/\//,'')),
-      'https://images.weserv.nl/?url=' + encodeURIComponent(url.replace(/^https?:\/\//,''))
+      'https://i0.wp.com/' + noProto,
+      'https://images.weserv.nl/?url=' + encodeURIComponent(noProto)
     ];
-    return `<img loading="lazy" src="${esc(url)}" data-fb='${esc(JSON.stringify(fallbacks))}' onerror="(function(img){try{const fb=JSON.parse(img.dataset.fb||'[]');const i=parseInt(img.dataset.idx||'0',10);if(i<fb.length){img.dataset.idx=i+1;img.src=fb[i];return}}catch(e){}img.style.opacity=0.25;img.alt='图片已失效';img.removeAttribute('onerror')})(this)">`;
+    return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(url)}" data-fb='${esc(JSON.stringify(fallbacks))}' onerror="(function(img){try{const fb=JSON.parse(img.dataset.fb||'[]');const i=parseInt(img.dataset.idx||'0',10);if(i<fb.length){img.dataset.idx=i+1;img.src=fb[i];return}}catch(e){}img.style.opacity=0.25;img.alt='图片已失效';img.removeAttribute('onerror')})(this)">`;
   }).join('')}</div>`;
 }
 
