@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4099,
+    "statuses_count": 4100,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -274,6 +274,18 @@
       "reposts_count": 1,
       "comments_count": 693,
       "attitudes_count": 1418
+    },
+    {
+      "id": "5314580689718911",
+      "bid": "R67jeEMkD",
+      "created_at": "Sun Jun 28 00:37:19 +0800 2026",
+      "text_excerpt": "莫等，都睡，零点后如有发博不再删！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 102,
+      "attitudes_count": 183
     },
     {
       "id": "5314559466538084",
@@ -564,6 +576,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-27 15:30:16 UTC+8 (SCF)",
-  "total_count": 46
+  "last_updated": "2026-06-27 17:00:19 UTC+8 (SCF)",
+  "total_count": 47
 }
