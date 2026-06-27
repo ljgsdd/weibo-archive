@@ -18,6 +18,8 @@ header .desc{font-size:12px;opacity:.85;margin-top:8px;max-width:520px;margin-le
 .toolbar{max-width:720px;margin:0 auto;padding:12px 16px 0;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .toolbar input{flex:1;min-width:200px;padding:8px 12px;border:1px solid #ddd;border-radius:6px;font-size:14px;outline:none}
 .toolbar input:focus{border-color:#ff5722}
+.toolbar .sort-btn{padding:8px 12px;border:1px solid #ddd;background:#fff;border-radius:6px;font-size:13px;cursor:pointer;color:#555;white-space:nowrap}
+.toolbar .sort-btn:hover{border-color:#ff5722;color:#ff5722}
 .toolbar .stat{font-size:12px;color:#888}
 .container{max-width:720px;margin:0 auto;padding:12px 16px 0}
 .post{background:#fff;border-radius:10px;padding:14px 16px;margin-bottom:10px;box-shadow:0 1px 3px rgba(0,0,0,.05);cursor:pointer;transition:box-shadow .2s,transform .15s}
@@ -77,6 +79,7 @@ footer a{color:#ff5722}
 
 <div class="toolbar">
   <input type="search" id="search" placeholder="🔍 搜索文字内容…" autocomplete="off">
+  <button id="sort-btn" class="sort-btn" title="切换排序方向">⏷ 最新在上</button>
   <span class="stat" id="filter-stat"></span>
 </div>
 
@@ -116,10 +119,25 @@ function fmtTime(s){
   return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${hm}`;
 }
 
+function fixPicUrl(u){
+  if(!u) return '';
+  // 强制 https（避免 mixed content 被浏览器 block）
+  if(u.startsWith('http://')) u = 'https://' + u.slice(7);
+  // 新浪图床 wx1~wx4 / ww1~ww4 / tva 都通用，不需要改域名
+  return u;
+}
 function picsGrid(pics){
   if(!pics || !pics.length) return '';
   const cls = pics.length===1?'single':pics.length===2?'double':'';
-  return `<div class="pics ${cls}">${pics.map(u=>`<img loading="lazy" src="${esc(u)}" onerror="this.style.opacity=0.25;this.alt='图片已失效'">`).join('')}</div>`;
+  return `<div class="pics ${cls}">${pics.map(u=>{
+    const url = fixPicUrl(u);
+    // 失败兜底：直链 → wsrv 代理 → images.weserv 代理 → 显示失效
+    const fallbacks = [
+      'https://wsrv.nl/?url=' + encodeURIComponent(url.replace(/^https?:\/\//,'')),
+      'https://images.weserv.nl/?url=' + encodeURIComponent(url.replace(/^https?:\/\//,''))
+    ];
+    return `<img loading="lazy" src="${esc(url)}" data-fb='${esc(JSON.stringify(fallbacks))}' onerror="(function(img){try{const fb=JSON.parse(img.dataset.fb||'[]');const i=parseInt(img.dataset.idx||'0',10);if(i<fb.length){img.dataset.idx=i+1;img.src=fb[i];return}}catch(e){}img.style.opacity=0.25;img.alt='图片已失效';img.removeAttribute('onerror')})(this)">`;
+  }).join('')}</div>`;
 }
 
 const postCache = {};
@@ -169,6 +187,18 @@ async function togglePost(card,id){
 }
 
 let ALL = [];
+let DESC = true;  // true=最新在上, false=最旧在上
+
+function sortAll(){
+  ALL.sort((a,b)=>{
+    const ta = new Date(a.created_at).getTime();
+    const tb = new Date(b.created_at).getTime();
+    if(isNaN(ta) && isNaN(tb)) return 0;
+    if(isNaN(ta)) return 1;
+    if(isNaN(tb)) return -1;
+    return DESC ? tb - ta : ta - tb;
+  });
+}
 function render(list){
   const c = $('list');
   if(!list.length){c.innerHTML = '<div class="empty">没有匹配的内容</div>';return}
@@ -211,7 +241,8 @@ async function init(){
     const r = await fetch(INDEX_URL, {cache:'no-cache'});
     if(!r.ok) throw new Error('index.json HTTP ' + r.status);
     const idx = await r.json();
-    ALL = idx.weibos || [];
+    ALL = (idx.weibos || []).slice();
+    sortAll();
     const u = idx.user || {};
     if(u.avatar_hd){ $('avatar').src = u.avatar_hd; }
     $('user-name').textContent = u.screen_name ? '📚 ' + u.screen_name : '📚 微博归档';
@@ -233,6 +264,13 @@ async function init(){
 $('search').addEventListener('input', () => {
   clearTimeout(window._t);
   window._t = setTimeout(applyFilter, 150);
+});
+
+$('sort-btn').addEventListener('click', () => {
+  DESC = !DESC;
+  $('sort-btn').textContent = DESC ? '⏷ 最新在上' : '⏶ 最旧在上';
+  sortAll();
+  applyFilter();
 });
 
 document.addEventListener('click',e=>{
