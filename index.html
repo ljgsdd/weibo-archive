@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
+<meta name="referrer" content="no-referrer">
+<title>微博归档</title>
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;background:#f4f5f7;color:#222;line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:#ff5722;text-decoration:none}
+header{background:linear-gradient(135deg,#ff8c42,#ff5722);color:#fff;padding:28px 16px 22px;text-align:center;box-shadow:0 2px 10px rgba(0,0,0,.1)}
+header .avatar{width:64px;height:64px;border-radius:50%;border:3px solid #fff;display:block;margin:0 auto 10px;background:#fff;object-fit:cover}
+header h1{margin:0 0 6px;font-size:20px;font-weight:600}
+header .meta{font-size:12px;opacity:.95}
+header .desc{font-size:12px;opacity:.85;margin-top:8px;max-width:520px;margin-left:auto;margin-right:auto}
+.toolbar{max-width:720px;margin:0 auto;padding:12px 16px 0;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.toolbar input{flex:1;min-width:200px;padding:8px 12px;border:1px solid #ddd;border-radius:6px;font-size:14px;outline:none}
+.toolbar input:focus{border-color:#ff5722}
+.toolbar .stat{font-size:12px;color:#888}
+.container{max-width:720px;margin:0 auto;padding:12px 16px 0}
+.post{background:#fff;border-radius:10px;padding:14px 16px;margin-bottom:10px;box-shadow:0 1px 3px rgba(0,0,0,.05);cursor:pointer;transition:box-shadow .2s,transform .15s}
+.post:hover{box-shadow:0 4px 14px rgba(0,0,0,.08)}
+.post:active{transform:scale(.998)}
+.post .top{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.post .time{color:#999;font-size:12px}
+.post .tag{font-size:11px;background:#fff3e0;color:#e65100;padding:1px 6px;border-radius:3px;margin-left:6px}
+.post .excerpt{font-size:15px;word-break:break-word;color:#222}
+.post .excerpt :is(img){display:none}
+.post .meta{display:flex;gap:14px;margin-top:10px;font-size:12px;color:#999;align-items:center}
+.post .meta span{display:inline-flex;align-items:center;gap:3px}
+.post .toggle{margin-left:auto;color:#bbb;font-size:11px}
+.post.expanded .excerpt{display:none}
+.post.expanded .toggle{color:#ff5722}
+.post .full{display:none;margin-top:4px}
+.post.expanded .full{display:block}
+.post .full .text{font-size:15px;word-break:break-word;line-height:1.75}
+.post .full .text img.face,.post .full .text img[src*="emoji"],.post .full .text img[src*="face"]{display:inline-block;height:1.2em;vertical-align:-3px;width:auto}
+.pics{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:10px}
+.pics.single{grid-template-columns:1fr;max-width:360px}
+.pics.double{grid-template-columns:1fr 1fr;max-width:480px}
+.pics img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:4px;cursor:zoom-in;background:#eee;display:block}
+.pics.single img{aspect-ratio:auto;max-height:480px;object-fit:contain;background:#000}
+.video-block{margin-top:10px;border-radius:6px;overflow:hidden;background:#000;max-width:480px}
+.video-block video{width:100%;display:block;max-height:480px}
+.retweeted{background:#f7f8fa;border-left:3px solid #ff8c42;padding:10px 12px;margin-top:12px;border-radius:0 6px 6px 0;font-size:14px}
+.retweeted .rt-author{color:#ff5722;font-weight:500;margin-right:4px}
+.retweeted .rt-time{color:#aaa;font-size:11px;margin-left:6px}
+.retweeted .pics{margin-top:8px}
+.source-link{display:inline-block;margin-top:10px;font-size:12px;color:#aaa}
+.lightbox{position:fixed;inset:0;background:rgba(0,0,0,.94);display:none;align-items:center;justify-content:center;z-index:999;cursor:zoom-out;padding:20px}
+.lightbox.show{display:flex}
+.lightbox img{max-width:100%;max-height:100%;object-fit:contain}
+.lightbox .lb-tip{position:fixed;top:14px;right:18px;color:#fff;font-size:13px;opacity:.7}
+.loading,.empty{text-align:center;color:#999;padding:50px 16px;font-size:14px}
+.err{color:#d32f2f;padding:14px;background:#ffebee;border-radius:6px;margin:16px 0;font-size:13px;line-height:1.7}
+.err code{background:#fff;padding:1px 5px;border-radius:3px}
+footer{text-align:center;color:#bbb;font-size:12px;padding:24px 16px 32px}
+footer a{color:#ff5722}
+@media (max-width:480px){
+  header{padding:22px 12px 18px}
+  header .avatar{width:54px;height:54px}
+  header h1{font-size:18px}
+  .container,.toolbar{padding-left:10px;padding-right:10px}
+  .post{padding:12px 14px;border-radius:8px}
+}
+</style>
+</head>
+<body>
+<header>
+  <img class="avatar" id="avatar" alt="" onerror="this.style.display='none'">
+  <h1 id="user-name">📚 微博归档</h1>
+  <div class="meta" id="header-meta">加载中…</div>
+  <div class="desc" id="user-desc"></div>
+</header>
+
+<div class="toolbar">
+  <input type="search" id="search" placeholder="🔍 搜索文字内容…" autocomplete="off">
+  <span class="stat" id="filter-stat"></span>
+</div>
+
+<div class="container" id="list">
+  <div class="loading">⏳ 正在加载归档数据…</div>
+</div>
+
+<footer>
+  数据每 30 分钟自动更新自 <a href="https://github.com/ljgsdd/weibo-archive" target="_blank" rel="noopener">ljgsdd/weibo-archive</a>
+  · <a href="./weibo/index.json" target="_blank">查看原始 JSON</a>
+</footer>
+
+<div class="lightbox" id="lightbox">
+  <div class="lb-tip">点击任意位置关闭</div>
+  <img id="lb-img" alt="">
+</div>
+
+<script>
+const INDEX_URL = './weibo/index.json';
+const POST_DIR  = './weibo/posts/';
+
+const $ = id => document.getElementById(id);
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+
+function fmtTime(s){
+  if(!s) return '';
+  const d = new Date(s);
+  if(isNaN(d.getTime())) return s;
+  const pad = n => String(n).padStart(2,'0');
+  const today = new Date(); today.setHours(0,0,0,0);
+  const diffDays = Math.floor((today - new Date(d.getFullYear(),d.getMonth(),d.getDate()))/86400000);
+  const hm = `${pad(d.getHours())}:${pad(d.getMinutes())}`;
+  if(diffDays===0) return `今天 ${hm}`;
+  if(diffDays===1) return `昨天 ${hm}`;
+  if(diffDays<7)   return `${diffDays}天前 ${hm}`;
+  return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${hm}`;
+}
+
+function picsGrid(pics){
+  if(!pics || !pics.length) return '';
+  const cls = pics.length===1?'single':pics.length===2?'double':'';
+  return `<div class="pics ${cls}">${pics.map(u=>`<img loading="lazy" src="${esc(u)}" onerror="this.style.opacity=0.25;this.alt='图片已失效'">`).join('')}</div>`;
+}
+
+const postCache = {};
+async function loadPost(id){
+  if(postCache[id]) return postCache[id];
+  const r = await fetch(POST_DIR + id + '.json', {cache:'no-cache'});
+  if(!r.ok) throw new Error('HTTP ' + r.status);
+  return postCache[id] = await r.json();
+}
+
+function renderFull(p){
+  let html = `<div class="text">${p.text_html || esc(p.text_raw||'(无文字)')}</div>`;
+  if(p.video_url){
+    html += `<div class="video-block"><video controls preload="metadata" poster="${esc(p.video_cover||'')}" src="${esc(p.video_url)}"></video></div>`;
+  }
+  html += picsGrid(p.pics);
+  if(p.retweeted){
+    const rt = p.retweeted;
+    html += `<div class="retweeted">
+      <div><span class="rt-author">@${esc(rt.user_name||'原作者')}</span><span class="rt-time">${esc(fmtTime(rt.created_at))}</span></div>
+      <div class="text" style="margin-top:4px">${rt.text_html || esc(rt.text_raw||'')}</div>
+      ${picsGrid(rt.pics)}
+    </div>`;
+  }
+  if(p.url){
+    html += `<a class="source-link" href="${esc(p.url)}" target="_blank" rel="noopener">在微博查看原文 ↗</a>`;
+  }
+  if(p.source||p.region_name){
+    html += `<div class="source-link">${esc(p.region_name||'')}${p.source?' · 来自 '+esc(p.source):''}</div>`;
+  }
+  return html;
+}
+
+async function togglePost(card,id){
+  if(card.classList.contains('expanded')){card.classList.remove('expanded');return}
+  const fullEl = card.querySelector('.full');
+  card.classList.add('expanded');
+  if(fullEl.dataset.loaded) return;
+  fullEl.innerHTML = '<div class="loading" style="padding:18px;font-size:13px">加载详情中…</div>';
+  try{
+    const p = await loadPost(id);
+    fullEl.innerHTML = renderFull(p);
+    fullEl.dataset.loaded = '1';
+  }catch(e){
+    fullEl.innerHTML = `<div class="err">详情加载失败：${esc(e.message)}<br>可能是该条还在归档中，稍后刷新重试。</div>`;
+  }
+}
+
+let ALL = [];
+function render(list){
+  const c = $('list');
+  if(!list.length){c.innerHTML = '<div class="empty">没有匹配的内容</div>';return}
+  c.innerHTML = list.map(w=>{
+    const tags = [];
+    if(w.is_retweet) tags.push('<span class="tag">🔁 转发</span>');
+    if(w.has_video) tags.push('<span class="tag">🎬 视频</span>');
+    return `<div class="post" data-id="${esc(w.id)}">
+      <div class="top">
+        <div class="time">${esc(fmtTime(w.created_at))}${tags.join('')}</div>
+      </div>
+      <div class="excerpt">${w.text_excerpt ? esc(w.text_excerpt)+(w.text_excerpt.length>=240?'…':'') : '<span style="color:#bbb">（无文字内容）</span>'}</div>
+      <div class="meta">
+        ${w.pics_count?`<span>🖼️ ${w.pics_count}</span>`:''}
+        <span>💬 ${w.comments_count||0}</span>
+        <span>🔁 ${w.reposts_count||0}</span>
+        <span>❤️ ${w.attitudes_count||0}</span>
+        <span class="toggle">点击展开 ↓</span>
+      </div>
+      <div class="full"></div>
+    </div>`;
+  }).join('');
+  c.querySelectorAll('.post').forEach(card=>{
+    card.addEventListener('click',e=>{
+      if(['IMG','A','VIDEO','SOURCE'].includes(e.target.tagName)) return;
+      togglePost(card, card.dataset.id);
+    });
+  });
+}
+
+function applyFilter(){
+  const kw = $('search').value.trim().toLowerCase();
+  const filtered = !kw ? ALL : ALL.filter(w => (w.text_excerpt||'').toLowerCase().includes(kw));
+  $('filter-stat').textContent = kw ? `匹配 ${filtered.length} / ${ALL.length}` : `共 ${ALL.length} 条`;
+  render(filtered);
+}
+
+async function init(){
+  try{
+    const r = await fetch(INDEX_URL, {cache:'no-cache'});
+    if(!r.ok) throw new Error('index.json HTTP ' + r.status);
+    const idx = await r.json();
+    ALL = idx.weibos || [];
+    const u = idx.user || {};
+    if(u.avatar_hd){ $('avatar').src = u.avatar_hd; }
+    $('user-name').textContent = u.screen_name ? '📚 ' + u.screen_name : '📚 微博归档';
+    $('user-desc').textContent = u.description || '';
+    $('header-meta').textContent =
+      `已归档 ${idx.total_count||ALL.length} 条 · 博主共 ${u.statuses_count||'?'} 条微博 · 更新于 ${esc(idx.last_updated||'')}`;
+    applyFilter();
+  }catch(e){
+    $('list').innerHTML = `<div class="err">
+      <b>加载失败：${esc(e.message)}</b><br><br>
+      可能的原因：<br>
+      1. GitHub Pages 还没生效（首次部署需要 1-3 分钟，等等再刷新）<br>
+      2. <code>weibo/index.json</code> 还没生成（去 SCF 控制台点一次"测试"）<br>
+      3. 访问 GitHub 网络不稳定（手机数据流量重试一下）
+    </div>`;
+  }
+}
+
+$('search').addEventListener('input', () => {
+  clearTimeout(window._t);
+  window._t = setTimeout(applyFilter, 150);
+});
+
+document.addEventListener('click',e=>{
+  if(e.target.tagName==='IMG' && e.target.closest('.pics')){
+    $('lb-img').src = e.target.src;
+    $('lightbox').classList.add('show');
+  }
+});
+$('lightbox').addEventListener('click',()=>{
+  $('lightbox').classList.remove('show');
+  $('lb-img').src='';
+});
+document.addEventListener('keydown',e=>{
+  if(e.key==='Escape'){$('lightbox').classList.remove('show')}
+});
+
+init();
+</script>
+</body>
+</html>
