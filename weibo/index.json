@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4105,
+    "statuses_count": 4101,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -504,6 +504,18 @@
       "attitudes_count": 1546
     },
     {
+      "id": "5315167317658138",
+      "bid": "R6mzpw8em",
+      "created_at": "Mon Jun 29 15:28:22 +0800 2026",
+      "text_excerpt": "怀念那个时候吗？删粉十多次严格控制微博不超过500个粉丝……",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 60,
+      "attitudes_count": 134
+    },
+    {
       "id": "5315152359721750",
       "bid": "R6mbhEN4q",
       "created_at": "Mon Jun 29 14:28:56 +0800 2026",
@@ -648,6 +660,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-29 06:30:23 UTC+8 (SCF)",
-  "total_count": 53
+  "last_updated": "2026-06-29 07:30:17 UTC+8 (SCF)",
+  "total_count": 54
 }
