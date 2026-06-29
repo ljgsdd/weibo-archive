@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4101,
+    "statuses_count": 4102,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -504,6 +504,18 @@
       "attitudes_count": 1546
     },
     {
+      "id": "5315141317167421",
+      "bid": "R6lTtu4zz",
+      "created_at": "Mon Jun 29 13:45:03 +0800 2026",
+      "text_excerpt": "不发博少发博，等等上证吧只为它普涨的那一天。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 183,
+      "attitudes_count": 408
+    },
+    {
       "id": "5315102824991558",
       "bid": "R6kTokWx0",
       "created_at": "Mon Jun 29 11:12:06 +0800 2026",
@@ -600,6 +612,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-29 03:30:16 UTC+8 (SCF)",
-  "total_count": 49
+  "last_updated": "2026-06-29 06:00:21 UTC+8 (SCF)",
+  "total_count": 50
 }
