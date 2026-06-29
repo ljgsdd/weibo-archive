@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4101,
+    "statuses_count": 4099,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -504,6 +504,18 @@
       "attitudes_count": 1546
     },
     {
+      "id": "5315283635934546",
+      "bid": "R6pB1oTQu",
+      "created_at": "Mon Jun 29 23:10:35 +0800 2026",
+      "text_excerpt": "刚买了一个扫地机器，终于可以不用趴在地上擦地板了！语音系统我估计用的就是DS，其他软件就是常规版，这一领域国内优先于国外。<br />客厅才扫了一半，我说继续啊，她说：累了，充电呢……这么懒！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 109,
+      "attitudes_count": 209
+    },
+    {
       "id": "5315167317658138",
       "bid": "R6mzpw8em",
       "created_at": "Mon Jun 29 15:28:22 +0800 2026",
@@ -660,6 +672,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-29 07:30:17 UTC+8 (SCF)",
-  "total_count": 54
+  "last_updated": "2026-06-29 15:30:15 UTC+8 (SCF)",
+  "total_count": 55
 }
