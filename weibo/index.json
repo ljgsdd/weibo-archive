@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4099,
+    "statuses_count": 4101,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -142,6 +142,30 @@
       "reposts_count": 2,
       "comments_count": 705,
       "attitudes_count": 1321
+    },
+    {
+      "id": "5315318519956341",
+      "bid": "R6qvhFM69",
+      "created_at": "Tue Jun 30 01:29:12 +0800 2026",
+      "text_excerpt": "很多粉说那个号一个月一条预判下个月股市走势呢？是的，以前有，以后没了😔<br />你看那里摆摊一个月了，盆子里一分钱也没有。这里多少给扔几元。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 8,
+      "attitudes_count": 16
+    },
+    {
+      "id": "5315315475152970",
+      "bid": "R6qqnlCwq",
+      "created_at": "Tue Jun 30 01:17:05 +0800 2026",
+      "text_excerpt": "第4100条微博<br />我们来看下面两张图：<br />图一是中证1000指数，代表着大部分中小创。自24年9.18号发博“多买点、大胆买”（全网第一个发出牛市开启消息）以来，走出了连续8个季度阳线！这是A股历史上首次最长的指数阳。<br />图二是创业板指数，一样从24年9.18号以来，至今指数翻了1.8倍！<br />期间，A股个股阶段性或 ...<a href=\"/status/5315315475152970\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 49,
+      "attitudes_count": 75
     },
     {
       "id": "5312881457371006",
@@ -672,6 +696,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-29 15:30:15 UTC+8 (SCF)",
-  "total_count": 55
+  "last_updated": "2026-06-29 17:30:15 UTC+8 (SCF)",
+  "total_count": 57
 }
