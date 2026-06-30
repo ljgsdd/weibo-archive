@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4102,
+    "statuses_count": 4103,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -142,6 +142,18 @@
       "reposts_count": 2,
       "comments_count": 705,
       "attitudes_count": 1321
+    },
+    {
+      "id": "5315500605180043",
+      "bid": "R6veYlJz5",
+      "created_at": "Tue Jun 30 13:32:44 +0800 2026",
+      "text_excerpt": "好，我等下写，等我写出来你会发现花几万看都值得！！！那助威6元善款你愿不愿意？//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:一周前说市场个股接下去会突然涨停突然跌停，又说了无视月底前的上证指数走势，还说了后面是好事……都是有逻辑的，想不想听？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 318,
+      "attitudes_count": 505
     },
     {
       "id": "5315497201501460",
@@ -780,6 +792,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-30 05:30:15 UTC+8 (SCF)",
-  "total_count": 64
+  "last_updated": "2026-06-30 06:00:17 UTC+8 (SCF)",
+  "total_count": 65
 }
