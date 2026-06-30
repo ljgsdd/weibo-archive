@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4103,
+    "statuses_count": 4104,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -142,6 +142,18 @@
       "reposts_count": 2,
       "comments_count": 705,
       "attitudes_count": 1321
+    },
+    {
+      "id": "5315536775020674",
+      "bid": "R6wbjl46C",
+      "created_at": "Tue Jun 30 15:56:27 +0800 2026",
+      "text_excerpt": "授之以渔<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span>（预判逻辑揭秘）<br />我们先来回顾一下这个季度，在4.7号全网首次提出大盘经过“4-5周”调整后，4.10提出企稳后将出",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 105,
+      "attitudes_count": 204
     },
     {
       "id": "5315500605180043",
@@ -792,6 +804,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-30 06:00:17 UTC+8 (SCF)",
-  "total_count": 65
+  "last_updated": "2026-06-30 08:00:13 UTC+8 (SCF)",
+  "total_count": 66
 }
