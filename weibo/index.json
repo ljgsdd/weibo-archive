@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4105,
+    "statuses_count": 4107,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,30 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5315830931786361",
+      "bid": "R6DPL7uIh",
+      "created_at": "Wed Jul 01 11:25:20 +0800 2026",
+      "text_excerpt": "还记得有个人说六月没买对股一直亏，我给他的回复是？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 67,
+      "attitudes_count": 192
+    },
+    {
+      "id": "5315829370457728",
+      "bid": "R6DNf1V4I",
+      "created_at": "Wed Jul 01 11:19:08 +0800 2026",
+      "text_excerpt": "这条微博值6元不？今天都是低位股突然涨停，提前一周多说的吧这就是先知先觉，越到后面价值越高，不止6元<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 81,
+      "attitudes_count": 205
     },
     {
       "id": "5315822919618120",
@@ -852,6 +876,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-01 03:00:19 UTC+8 (SCF)",
-  "total_count": 70
+  "last_updated": "2026-07-01 03:30:15 UTC+8 (SCF)",
+  "total_count": 72
 }
