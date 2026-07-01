@@ -72,6 +72,18 @@
       "attitudes_count": 779
     },
     {
+      "id": "5316005728364013",
+      "bid": "R6InGz5Rr",
+      "created_at": "Wed Jul 01 22:59:55 +0800 2026",
+      "text_excerpt": "有多少多少人把低位股看成低价股，一字之差天壤之别！看错的来举个手🙋大学是不是在谈恋爱？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 1
+    },
+    {
       "id": "5315842537423377",
       "bid": "R6E8tv99T",
       "created_at": "Wed Jul 01 12:11:26 +0800 2026",
@@ -924,6 +936,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-01 04:30:14 UTC+8 (SCF)",
-  "total_count": 76
+  "last_updated": "2026-07-01 15:00:20 UTC+8 (SCF)",
+  "total_count": 77
 }
