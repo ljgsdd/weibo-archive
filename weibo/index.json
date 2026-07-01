@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4103,
+    "statuses_count": 4105,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,30 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5315822919618120",
+      "bid": "R6DCPEm6Y",
+      "created_at": "Wed Jul 01 10:53:30 +0800 2026",
+      "text_excerpt": "分享图片 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 98,
+      "attitudes_count": 254
+    },
+    {
+      "id": "5315818176907887",
+      "bid": "R6DvbsZ3x",
+      "created_at": "Wed Jul 01 10:34:39 +0800 2026",
+      "text_excerpt": "不忘初心，实事求是。<br />认真阅读前面的微博逐字逐句，涵盖了整个7月，哪有天天说股市的，全是忽悠的主。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 166,
+      "attitudes_count": 477
     },
     {
       "id": "5315669893845737",
@@ -828,6 +852,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-06-30 17:00:16 UTC+8 (SCF)",
-  "total_count": 68
+  "last_updated": "2026-07-01 03:00:19 UTC+8 (SCF)",
+  "total_count": 70
 }
