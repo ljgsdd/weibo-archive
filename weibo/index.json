@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4107,
+    "statuses_count": 4109,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -504,6 +504,30 @@
       "attitudes_count": 1038
     },
     {
+      "id": "5316177170797425",
+      "bid": "R6MQd3lrH",
+      "created_at": "Thu Jul 02 10:21:10 +0800 2026",
+      "text_excerpt": "老粉告诉他俊哥以前预判的美股？？//<a href='/n/沐风得禄'>@沐风得禄</a>:俊哥玩美股得是大神//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:所以你知道了吗：俊哥半夜是神，白天是人！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 55,
+      "attitudes_count": 125
+    },
+    {
+      "id": "5316175291747298",
+      "bid": "R6MNb7kye",
+      "created_at": "Thu Jul 02 10:13:42 +0800 2026",
+      "text_excerpt": "所以你知道了吗：俊哥半夜是神，白天是人！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 118,
+      "attitudes_count": 228
+    },
+    {
       "id": "5316168791623901",
       "bid": "R6MCH6OrX",
       "created_at": "Thu Jul 02 09:47:52 +0800 2026",
@@ -972,6 +996,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-02 02:00:19 UTC+8 (SCF)",
-  "total_count": 80
+  "last_updated": "2026-07-02 02:30:17 UTC+8 (SCF)",
+  "total_count": 82
 }
