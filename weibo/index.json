@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4109,
+    "statuses_count": 4111,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -504,6 +504,66 @@
       "attitudes_count": 1038
     },
     {
+      "id": "5316216790977214",
+      "bid": "R6NS746dw",
+      "created_at": "Thu Jul 02 12:58:36 +0800 2026",
+      "text_excerpt": "这时都是泄气的点位，价值微博不客气😉//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:什么时候？调整到月线回踩接近但不到5月线时～反弹！//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:我最后说下科技，大V月底上热搜让买大科技，即最高点！接下去她他们会一致看空，等都说没戏了，科技必定反弹时！//<a href='/n/吖是晓玉吖'>@吖是晓玉吖</a>:科技还有戏吗，昨天只走了一点",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 48,
+      "attitudes_count": 79
+    },
+    {
+      "id": "5316216520442209",
+      "bid": "R6NRG1R2p",
+      "created_at": "Thu Jul 02 12:57:31 +0800 2026",
+      "text_excerpt": "什么时候？调整到月线回踩接近但不到5月线时～反弹！//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:我最后说下科技，大V月底上热搜让买大科技，即最高点！接下去她他们会一致看空，等都说没戏了，科技必定反弹时！//<a href='/n/吖是晓玉吖'>@吖是晓玉吖</a>:科技还有戏吗，昨天只走了一点",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 50,
+      "attitudes_count": 95
+    },
+    {
+      "id": "5316215733749837",
+      "bid": "R6NQpfJvf",
+      "created_at": "Thu Jul 02 12:54:24 +0800 2026",
+      "text_excerpt": "我最后说下科技，大V月底上热搜让买大科技，即最高点！接下去她他们会一致看空，等都说没戏了，科技必定反弹时！//<a href='/n/吖是晓玉吖'>@吖是晓玉吖</a>:科技还有戏吗，昨天只走了一点",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 4,
+      "comments_count": 96,
+      "attitudes_count": 182
+    },
+    {
+      "id": "5316215088349572",
+      "bid": "R6NPmz26w",
+      "created_at": "Thu Jul 02 12:51:49 +0800 2026",
+      "text_excerpt": "这是市场的风向标，因为A股九亏一赢铁律不变，大V那儿人多，就是那个“九”，主力也看的懂了吧//<a href='/n/rui意进取'>@rui意进取</a>:<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" ",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 57,
+      "attitudes_count": 134
+    },
+    {
+      "id": "5316213802537183",
+      "bid": "R6NNiaE2j",
+      "created_at": "Thu Jul 02 12:46:44 +0800 2026",
+      "text_excerpt": "去浏览了一圈这个平台的财经博主，其实就是无业游民穿个裤衩一双拖鞋宅家发博的。基本都是跌了看跌涨了看涨，这些人的粉丝这个月会输的很惨很惨！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 11,
+      "comments_count": 113,
+      "attitudes_count": 304
+    },
+    {
       "id": "5316177170797425",
       "bid": "R6MQd3lrH",
       "created_at": "Thu Jul 02 10:21:10 +0800 2026",
@@ -996,6 +1056,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-02 02:30:17 UTC+8 (SCF)",
-  "total_count": 82
+  "last_updated": "2026-07-02 05:00:23 UTC+8 (SCF)",
+  "total_count": 87
 }
