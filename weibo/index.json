@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4108,
+    "statuses_count": 4107,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -504,6 +504,18 @@
       "attitudes_count": 1038
     },
     {
+      "id": "5316168791623901",
+      "bid": "R6MCH6OrX",
+      "created_at": "Thu Jul 02 09:47:52 +0800 2026",
+      "text_excerpt": "我这几天也是醉了每个卖出的股第二天必定大涨！而且是10%以上的大涨，一个还连拉两个20/%，昨天卖出的开盘又拉十几个……不看了了，不卖了！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 128,
+      "attitudes_count": 328
+    },
+    {
       "id": "5316042710843571",
       "bid": "R6Jll3xrZ",
       "created_at": "Thu Jul 02 01:26:51 +0800 2026",
@@ -960,6 +972,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-01 17:30:18 UTC+8 (SCF)",
-  "total_count": 79
+  "last_updated": "2026-07-02 02:00:19 UTC+8 (SCF)",
+  "total_count": 80
 }
