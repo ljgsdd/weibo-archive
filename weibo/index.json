@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4111,
+    "statuses_count": 4107,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1032,6 +1032,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5316519149177181",
+      "bid": "R6VJMCvp3",
+      "created_at": "Fri Jul 03 09:00:04 +0800 2026",
+      "text_excerpt": "Sorry，从今天起，夜不发博，如发不删！//<a href='/n/暖色调510'>@暖色调510</a>:昨晚特意1点多没睡，1点2点3点……时不时拿出手机来看看，以为俊哥会发微博，结果收了一个空，<span class=\"url-icon\"><img alt=\"[泪]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/87/201810_lei_mobile.png\" style=\"widt",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 0
+    },
+    {
       "id": "5286116619453212",
       "bid": "QA8hLDFda",
       "created_at": "Fri Apr 10 11:31:16 +0800 2026",
@@ -1056,6 +1068,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-02 05:00:23 UTC+8 (SCF)",
-  "total_count": 87
+  "last_updated": "2026-07-03 01:00:15 UTC+8 (SCF)",
+  "total_count": 88
 }
