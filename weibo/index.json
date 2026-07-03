@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4109,
+    "statuses_count": 4110,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1032,6 +1032,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5316564389988904",
+      "bid": "R6WUKFUzm",
+      "created_at": "Fri Jul 03 11:59:50 +0800 2026",
+      "text_excerpt": "看了下：高位股洗盘，低位股反弹，高位股不会瀑布下跌，低位股不会连续上涨，上证不代表个股，微盘不代表小盘。昨日说的5月线今天部分股已经验证，会越来越神奇的，就是那么回事。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 17
+    },
+    {
       "id": "5316554690397570",
       "bid": "R6WF71Fqq",
       "created_at": "Fri Jul 03 11:21:18 +0800 2026",
@@ -1116,6 +1128,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-03 03:30:16 UTC+8 (SCF)",
-  "total_count": 92
+  "last_updated": "2026-07-03 04:00:15 UTC+8 (SCF)",
+  "total_count": 93
 }
