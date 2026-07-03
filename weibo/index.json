@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4115,
+    "statuses_count": 4111,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1032,6 +1032,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5316597410431993",
+      "bid": "R6XM11OnD",
+      "created_at": "Fri Jul 03 14:11:03 +0800 2026",
+      "text_excerpt": "七月，这样的张跌比会比较多，不会像六月科技单边涨其他都下跌。什么时候开始的？就是我说的“接下去会突然涨停突破跌停”那天开始。把握好那篇千字文中每一个字。<br />周末愉快<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; hei",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 165,
+      "attitudes_count": 417
+    },
+    {
       "id": "5316591194736059",
       "bid": "R6XBZjS43",
       "created_at": "Fri Jul 03 13:46:21 +0800 2026",
@@ -1188,6 +1200,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-03 06:00:23 UTC+8 (SCF)",
-  "total_count": 98
+  "last_updated": "2026-07-03 06:30:14 UTC+8 (SCF)",
+  "total_count": 99
 }
