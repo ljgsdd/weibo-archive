@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4110,
+    "statuses_count": 4115,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1032,6 +1032,66 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5316591194736059",
+      "bid": "R6XBZjS43",
+      "created_at": "Fri Jul 03 13:46:21 +0800 2026",
+      "text_excerpt": "那时候手把手教，一天时间都不差，还记得吗？现在不会了<span class=\"url-icon\"><img alt=\"[伤心]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/201810_shangxin_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/AI_M_SG'>@AI_M_SG</a>:看到解套",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 93,
+      "attitudes_count": 204
+    },
+    {
+      "id": "5316590616708176",
+      "bid": "R6XB3s96o",
+      "created_at": "Fri Jul 03 13:44:03 +0800 2026",
+      "text_excerpt": "我觉得吧，7月，把握好节奏和仓位，这里指的仓位不是大V嘴巴里的控制仓位那种P话，而且择机重仓一把，这个月有解套机会！虽然个股机会比较难把握，但解套机会比六月大//<a href='/n/生命中的一道光亮'>@生命中的一道光亮</a>:太难得了俊哥。亏损的都回来了<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 86,
+      "attitudes_count": 190
+    },
+    {
+      "id": "5316589310182233",
+      "bid": "R6XyX0Lpf",
+      "created_at": "Fri Jul 03 13:38:52 +0800 2026",
+      "text_excerpt": "你告诉我这样的人怎么教？……//<a href='/n/用户7712482244'>@用户7712482244</a>:补哪些啊？<span class=\"url-icon\"><img alt=\"[哆啦A梦害怕]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e1/2022_dorashock_mobile.png\" style=\"width:1em; height:1em;\" /></spa",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 72,
+      "attitudes_count": 171
+    },
+    {
+      "id": "5316589086050215",
+      "bid": "R6XyApnW7",
+      "created_at": "Fri Jul 03 13:37:58 +0800 2026",
+      "text_excerpt": "难得听你说好消息//<a href='/n/生命中的一道光亮'>@生命中的一道光亮</a>:<span class=\"url-icon\"><img alt=\"[心]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/79/201810_xin_mobile.png\" style=\"width:1em; height:1em;\" /></span>俊哥真牛啊 昨天说的5月线 我今天早上买了 一天14",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 46,
+      "attitudes_count": 139
+    },
+    {
+      "id": "5316588208914742",
+      "bid": "R6XxaBp8a",
+      "created_at": "Fri Jul 03 13:34:28 +0800 2026",
+      "text_excerpt": "活着的都去补上呼吸！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 5,
+      "comments_count": 175,
+      "attitudes_count": 352
+    },
+    {
       "id": "5316564389988904",
       "bid": "R6WUKFUzm",
       "created_at": "Fri Jul 03 11:59:50 +0800 2026",
@@ -1128,6 +1188,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-03 04:00:15 UTC+8 (SCF)",
-  "total_count": 93
+  "last_updated": "2026-07-03 06:00:23 UTC+8 (SCF)",
+  "total_count": 98
 }
