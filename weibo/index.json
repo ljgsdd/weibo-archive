@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4107,
+    "statuses_count": 4109,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1032,6 +1032,30 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5316546371257809",
+      "bid": "R6WrH5hdf",
+      "created_at": "Fri Jul 03 10:48:14 +0800 2026",
+      "text_excerpt": "前面微博说过，要想拿到翻倍股，就要经受得住拿了整整一个月结果跌5%的结局，这样的个股永远不会出现在大V的法眼和微博中，都是走出来了发现然后播报，再然后接盘！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 96,
+      "attitudes_count": 285
+    },
+    {
+      "id": "5316544823296767",
+      "bid": "R6WpcdPDF",
+      "created_at": "Fri Jul 03 10:42:05 +0800 2026",
+      "text_excerpt": "什么时候说的二周时间？这里指的是半数以上个股。七月行情都写在前面微博了个股数量控制三个以下，同时说过的看一个博主、主播亏10%看二个20%这个月会应验出来。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 113,
+      "attitudes_count": 317
+    },
+    {
       "id": "5316519149177181",
       "bid": "R6VJMCvp3",
       "created_at": "Fri Jul 03 09:00:04 +0800 2026",
@@ -1068,6 +1092,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-03 01:00:15 UTC+8 (SCF)",
-  "total_count": 88
+  "last_updated": "2026-07-03 03:00:18 UTC+8 (SCF)",
+  "total_count": 90
 }
