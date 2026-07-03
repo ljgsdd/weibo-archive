@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4111,
+    "statuses_count": 4109,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1032,6 +1032,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5316653552239745",
+      "bid": "R6Zez9oEV",
+      "created_at": "Fri Jul 03 17:54:08 +0800 2026",
+      "text_excerpt": "是谁啊？私信我<span class=\"url-icon\"><img alt=\"[怒]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/90/201810_nu_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[怒]\" src=\"https://face.t.sinajs.c",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 11,
+      "attitudes_count": 36
+    },
+    {
       "id": "5316597410431993",
       "bid": "R6XM11OnD",
       "created_at": "Fri Jul 03 14:11:03 +0800 2026",
@@ -1200,6 +1212,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-03 06:30:14 UTC+8 (SCF)",
-  "total_count": 99
+  "last_updated": "2026-07-03 10:00:17 UTC+8 (SCF)",
+  "total_count": 100
 }
