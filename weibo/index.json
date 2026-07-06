@@ -432,6 +432,18 @@
       "attitudes_count": 916
     },
     {
+      "id": "5317840643032360",
+      "bid": "R7u7ecIR2",
+      "created_at": "Tue Jul 07 00:31:13 +0800 2026",
+      "text_excerpt": "一起加油！<br />感谢菩提树下那道光（还是俊哥）真爱粉<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 83,
+      "attitudes_count": 179
+    },
+    {
       "id": "5303570289131976",
       "bid": "R1uSwCjDW",
       "created_at": "Thu May 28 15:25:55 +0800 2026",
@@ -1332,6 +1344,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-06 07:00:14 UTC+8 (SCF)",
-  "total_count": 110
+  "last_updated": "2026-07-06 17:00:17 UTC+8 (SCF)",
+  "total_count": 111
 }
