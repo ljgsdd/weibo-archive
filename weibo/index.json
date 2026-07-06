@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4115,
+    "statuses_count": 4116,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1008,6 +1008,18 @@
       "attitudes_count": 1231
     },
     {
+      "id": "5317650453368133",
+      "bid": "R7pate8cJ",
+      "created_at": "Mon Jul 06 11:55:28 +0800 2026",
+      "text_excerpt": "这里有一种概率回本法，就是如果你手里有5个股，每个股亏5%这方法没有用，回不了，只有一个股，这方法回本概率99.9%！<br />这就是我上个月底前说的本月个股数量不得超过多少？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 72,
+      "attitudes_count": 121
+    },
+    {
       "id": "5317649363895564",
       "bid": "R7p8IglpG",
       "created_at": "Mon Jul 06 11:51:08 +0800 2026",
@@ -1308,6 +1320,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-06 03:55:44 UTC+8 (SCF)",
-  "total_count": 108
+  "last_updated": "2026-07-06 04:00:12 UTC+8 (SCF)",
+  "total_count": 109
 }
