@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4113,
+    "statuses_count": 4111,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5318199672579694",
+      "bid": "R7DsjaP5Y",
+      "created_at": "Wed Jul 08 00:17:52 +0800 2026",
+      "text_excerpt": "股市难，炒股更难，预判股市难上加难！当很多人把希望寄托在一个人身上时，他便承受了不该承受的压力，甚至痛苦；当很多人把一个人的言语当成信仰时，却往往处处都是暗流涌动。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 61,
+      "attitudes_count": 112
     },
     {
       "id": "5316005728364013",
@@ -1452,6 +1464,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-07 16:00:21 UTC+8 (SCF)",
-  "total_count": 120
+  "last_updated": "2026-07-07 16:30:17 UTC+8 (SCF)",
+  "total_count": 121
 }
