@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4111,
+    "statuses_count": 4112,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5318215918158113",
+      "bid": "R7DSvyeit",
+      "created_at": "Wed Jul 08 01:22:24 +0800 2026",
+      "text_excerpt": "你说每次都能说反，也是本事，莫非打错字了高开低走说成了低开高走？如把买入大科技喊在了最高点<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 14,
+      "attitudes_count": 36
     },
     {
       "id": "5318199672579694",
@@ -1464,6 +1476,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-07 16:30:17 UTC+8 (SCF)",
-  "total_count": 121
+  "last_updated": "2026-07-07 17:30:15 UTC+8 (SCF)",
+  "total_count": 122
 }
