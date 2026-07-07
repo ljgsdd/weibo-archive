@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4115,
+    "statuses_count": 4111,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -430,6 +430,18 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5318185206418281",
+      "bid": "R7D4YqVGF",
+      "created_at": "Tue Jul 07 23:20:23 +0800 2026",
+      "text_excerpt": "七月一周，欧美指数不再同步，亚太指数不再同步，港股A股不再同步，估计会延续整个月。在老股民或大V嘴中的“五穷六绝七翻身”，事实是五稳六飞七落幕，特别是科创和创业板涵盖科技等领域在五六月走出了近800个翻倍股，为今年上半年乃至全年最大的一波行情。<br />所以，股市从来没有谚语，更不存在魔咒！<br /> ...<a href=\"/status/5318185206418281\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 86,
+      "attitudes_count": 157
     },
     {
       "id": "5318073714215047",
@@ -1416,6 +1428,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-07 08:00:24 UTC+8 (SCF)",
-  "total_count": 117
+  "last_updated": "2026-07-07 15:30:18 UTC+8 (SCF)",
+  "total_count": 118
 }
