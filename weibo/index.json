@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4110,
+    "statuses_count": 4111,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -430,6 +430,18 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5318065596139278",
+      "bid": "R7zY3pL6C",
+      "created_at": "Tue Jul 07 15:25:06 +0800 2026",
+      "text_excerpt": "很多个股和指数关联度不大，昨天说的跌1.5%加倍回本那个亏-5%问题不大，也是概率。我说让你加倍你明天不涨，然而又来哭天喊地<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span><span c",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 40,
+      "attitudes_count": 91
     },
     {
       "id": "5318053778688741",
@@ -1356,6 +1368,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-07 07:00:15 UTC+8 (SCF)",
-  "total_count": 112
+  "last_updated": "2026-07-07 07:30:16 UTC+8 (SCF)",
+  "total_count": 113
 }
