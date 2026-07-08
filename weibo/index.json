@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4116,
+    "statuses_count": 4114,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -742,6 +742,18 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5318568541684033",
+      "bid": "R7N3g745P",
+      "created_at": "Thu Jul 09 00:43:37 +0800 2026",
+      "text_excerpt": "所有人都知道杭州，很多人也知道钱塘江，但极少数人知道江对岸的那座城，他们隶属于杭州，却讲着与杭州人完全不同的方言，吃着与杭州人截然不同的口味，过着与杭州人迥然不同的生活。这座城的三分之一土地，曾经是钱塘江的江底和滩涂，是一代代人用土箕、用双肩，在江水最低位的大冬天季节，一担一担挑 ...<a href=\"/status/5318568541684033\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 34,
+      "attitudes_count": 80
     },
     {
       "id": "5316216790977214",
@@ -1572,6 +1584,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-08 08:30:16 UTC+8 (SCF)",
-  "total_count": 130
+  "last_updated": "2026-07-08 17:00:16 UTC+8 (SCF)",
+  "total_count": 131
 }
