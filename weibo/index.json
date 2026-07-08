@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4112,
+    "statuses_count": 4113,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5318347874897202",
+      "bid": "R7HjlkxZ8",
+      "created_at": "Wed Jul 08 10:06:46 +0800 2026",
+      "text_excerpt": "分享图片 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 113,
+      "attitudes_count": 264
     },
     {
       "id": "5318215918158113",
@@ -1476,6 +1488,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-07 17:30:15 UTC+8 (SCF)",
-  "total_count": 122
+  "last_updated": "2026-07-08 02:30:14 UTC+8 (SCF)",
+  "total_count": 123
 }
