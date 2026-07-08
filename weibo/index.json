@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4114,
+    "statuses_count": 4115,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,30 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5318419022875137",
+      "bid": "R7Ja6c3Xb",
+      "created_at": "Wed Jul 08 14:49:29 +0800 2026",
+      "text_excerpt": "问错地方了去问广西大V，他不是说今年锂电池元年吗？//<a href='/n/张张家的小盆友'>@张张家的小盆友</a>:俊哥，好想请教下您锂电池今天是受了什么大灾要这么砸？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 43,
+      "attitudes_count": 152
+    },
+    {
+      "id": "5318417248685229",
+      "bid": "R7J7eArql",
+      "created_at": "Wed Jul 08 14:42:26 +0800 2026",
+      "text_excerpt": "中国股市完成了90%以上上市公司的融资之责，实现了95%以上上市即暴富的发财之梦，却带给了99%投资者的一生坎坷之路。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 142,
+      "attitudes_count": 408
     },
     {
       "id": "5318381798425614",
@@ -1512,6 +1536,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-08 04:30:15 UTC+8 (SCF)",
-  "total_count": 125
+  "last_updated": "2026-07-08 07:00:18 UTC+8 (SCF)",
+  "total_count": 127
 }
