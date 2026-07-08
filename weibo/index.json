@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4114,
+    "statuses_count": 4116,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,30 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5318439029969589",
+      "bid": "R7JGmFPxP",
+      "created_at": "Wed Jul 08 16:08:59 +0800 2026",
+      "text_excerpt": "第一位去银行拉存款吧，第二位小寒同志我看可以培养一下明天到组织部报到？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 109,
+      "attitudes_count": 194
+    },
+    {
+      "id": "5318437176084513",
+      "bid": "R7JDnpwRj",
+      "created_at": "Wed Jul 08 16:01:37 +0800 2026",
+      "text_excerpt": "其实这是一道考核题。再高的学历有效期只在入职三年，未来的大半辈子都需要靠情商去生存<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img a",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 95,
+      "attitudes_count": 243
     },
     {
       "id": "5318435693136827",
@@ -1548,6 +1572,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-08 08:00:13 UTC+8 (SCF)",
-  "total_count": 128
+  "last_updated": "2026-07-08 08:30:16 UTC+8 (SCF)",
+  "total_count": 130
 }
