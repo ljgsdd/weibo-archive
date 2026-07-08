@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4115,
+    "statuses_count": 4114,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5318435693136827",
+      "bid": "R7JAZda1Z",
+      "created_at": "Wed Jul 08 15:55:44 +0800 2026",
+      "text_excerpt": "港股和恒科为啥涨那么多？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 58,
+      "attitudes_count": 140
     },
     {
       "id": "5318419022875137",
@@ -1536,6 +1548,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-08 07:00:18 UTC+8 (SCF)",
-  "total_count": 127
+  "last_updated": "2026-07-08 08:00:13 UTC+8 (SCF)",
+  "total_count": 128
 }
