@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4115,
+    "statuses_count": 4116,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -742,6 +742,30 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5318768945271199",
+      "bid": "R7Sgum7hl",
+      "created_at": "Thu Jul 09 13:59:57 +0800 2026",
+      "text_excerpt": "以后一定要重视我涂指甲油大拇指画的线 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 12
+    },
+    {
+      "id": "5318767399669229",
+      "bid": "R7SdZEzpj",
+      "created_at": "Thu Jul 09 13:53:49 +0800 2026",
+      "text_excerpt": "五月线～值不值2元一个字？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 118,
+      "attitudes_count": 201
     },
     {
       "id": "5318745975164171",
@@ -1620,6 +1644,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-09 04:30:18 UTC+8 (SCF)",
-  "total_count": 134
+  "last_updated": "2026-07-09 06:00:27 UTC+8 (SCF)",
+  "total_count": 136
 }
