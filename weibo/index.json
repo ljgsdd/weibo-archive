@@ -1548,6 +1548,30 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5318934769437079",
+      "bid": "R7WzWDB0X",
+      "created_at": "Fri Jul 10 00:58:53 +0800 2026",
+      "text_excerpt": "我突然记起在1999年的时候，那时刚当上地产公司老总（国企），一次强台风强暴雨把还没建好的小区地下室全部淹了！地下室里住着民工和他们的小孩，我是夜里大概十点多赶到现场，二话不说带头扎进了水里，游进地下室和同事们把民工孩子全部救了出来。我印象很深，全身湿漉漉回到家里已是凌晨两三点了，还 ...<a href=\"/status/5318934769437079\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 8,
+      "attitudes_count": 22
+    },
+    {
+      "id": "5318931887687590",
+      "bid": "R7WviwfTo",
+      "created_at": "Fri Jul 10 00:47:26 +0800 2026",
+      "text_excerpt": "囤米，囤油，囤药……至于吗？在物资供应和物流配送如此发达的今天，只能体现出一些人的劣根性。我还有好多好多连花清瘟和布洛芬，谁要？ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 56
+    },
+    {
       "id": "5316653552239745",
       "bid": "R6Zez9oEV",
       "created_at": "Fri Jul 03 17:54:08 +0800 2026",
@@ -1728,6 +1752,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-09 11:30:17 UTC+8 (SCF)",
-  "total_count": 143
+  "last_updated": "2026-07-09 17:00:21 UTC+8 (SCF)",
+  "total_count": 145
 }
