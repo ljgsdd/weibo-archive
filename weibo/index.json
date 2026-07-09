@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4119,
+    "statuses_count": 4115,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -742,6 +742,18 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5318789506010011",
+      "bid": "R7SNEpdtF",
+      "created_at": "Thu Jul 09 15:21:39 +0800 2026",
+      "text_excerpt": "涨了4.5%啊，看到买入指数都吃饼了！这时间点，这小手指，这指甲油，还有谁？？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 123,
+      "attitudes_count": 204
     },
     {
       "id": "5318774997651046",
@@ -1680,6 +1692,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-09 06:30:27 UTC+8 (SCF)",
-  "total_count": 139
+  "last_updated": "2026-07-09 07:30:16 UTC+8 (SCF)",
+  "total_count": 140
 }
