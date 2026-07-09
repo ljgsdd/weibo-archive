@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4115,
+    "statuses_count": 4117,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -742,6 +742,30 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5318848883462648",
+      "bid": "R7UlqewNa",
+      "created_at": "Thu Jul 09 19:17:36 +0800 2026",
+      "text_excerpt": "我们如果这样做，孩子18岁后打开账户一看：爸，股票代码找不到了……<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 89,
+      "attitudes_count": 113
+    },
+    {
+      "id": "5318847664226348",
+      "bid": "R7UjshJsU",
+      "created_at": "Thu Jul 09 19:12:44 +0800 2026",
+      "text_excerpt": "他给美国的孩子都强制建了个底仓，若干年后全民炒股，还用自己名字命名账户，让所有人记住他的恩惠，多坏啊<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-ic",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 35,
+      "attitudes_count": 109
     },
     {
       "id": "5318844176404198",
@@ -1704,6 +1728,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-09 11:00:18 UTC+8 (SCF)",
-  "total_count": 141
+  "last_updated": "2026-07-09 11:30:17 UTC+8 (SCF)",
+  "total_count": 143
 }
