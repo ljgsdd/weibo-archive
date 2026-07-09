@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4116,
+    "statuses_count": 4119,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -742,6 +742,42 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5318774997651046",
+      "bid": "R7Sqfw6nY",
+      "created_at": "Thu Jul 09 14:24:00 +0800 2026",
+      "text_excerpt": "对还有叫老师的，互联网上到处叫老师，把老师这个神圣的称谓严重扭曲，太恶心了<span class=\"url-icon\"><img alt=\"[吐]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4f/201810_tu_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/晨曦_557'>@晨曦_557</a>:还有",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 60,
+      "attitudes_count": 136
+    },
+    {
+      "id": "5318774116843663",
+      "bid": "R7SoPsIlF",
+      "created_at": "Thu Jul 09 14:20:29 +0800 2026",
+      "text_excerpt": "我最后说一次，凡是评论666,888,999,6969，等数字的，秒杀！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 120,
+      "attitudes_count": 295
+    },
+    {
+      "id": "5318773127251882",
+      "bid": "R7SneuqxQ",
+      "created_at": "Thu Jul 09 14:16:34 +0800 2026",
+      "text_excerpt": "拉黑了！//<a href='/n/壬木益'>@壬木益</a>:666//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:五月线～值不值2元一个字？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 65,
+      "attitudes_count": 151
     },
     {
       "id": "5318768945271199",
@@ -1644,6 +1680,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-09 06:00:27 UTC+8 (SCF)",
-  "total_count": 136
+  "last_updated": "2026-07-09 06:30:27 UTC+8 (SCF)",
+  "total_count": 139
 }
