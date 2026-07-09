@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4114,
+    "statuses_count": 4115,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -742,6 +742,30 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5318745975164171",
+      "bid": "R7RFrlFr5",
+      "created_at": "Thu Jul 09 12:28:41 +0800 2026",
+      "text_excerpt": "三种人：一，继续发～属于被深套对后续期望的。二，停更～心中有爱心把握的。三，删前面继续发～贪得无厌毫无良心的……",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 28,
+      "attitudes_count": 92
+    },
+    {
+      "id": "5318742869542347",
+      "bid": "R7RAqE2oP",
+      "created_at": "Thu Jul 09 12:16:20 +0800 2026",
+      "text_excerpt": "上证指数追我微博数需要一段时间了，我是停止发博等它呢，还是以前的删掉一些呢？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 146,
+      "attitudes_count": 291
     },
     {
       "id": "5318730705019224",
@@ -1596,6 +1620,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-09 03:30:12 UTC+8 (SCF)",
-  "total_count": 132
+  "last_updated": "2026-07-09 04:30:18 UTC+8 (SCF)",
+  "total_count": 134
 }
