@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4118,
+    "statuses_count": 4117,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1548,6 +1548,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5319092128976462",
+      "bid": "R80FKBFbE",
+      "created_at": "Fri Jul 10 11:24:10 +0800 2026",
+      "text_excerpt": "预判从未错过，人心早已哇凉。曾经两千互动，如今百余喘息。要知后事如何，补上所有未赞。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 301,
+      "attitudes_count": 529
+    },
+    {
       "id": "5318937311971924",
       "bid": "R7WE38gZe",
       "created_at": "Fri Jul 10 01:08:59 +0800 2026",
@@ -1764,6 +1776,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-09 17:30:12 UTC+8 (SCF)",
-  "total_count": 146
+  "last_updated": "2026-07-10 03:30:16 UTC+8 (SCF)",
+  "total_count": 147
 }
