@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4119,
+    "statuses_count": 4120,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1548,6 +1548,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5319146101281102",
+      "bid": "R824O5ngW",
+      "created_at": "Fri Jul 10 14:58:38 +0800 2026",
+      "text_excerpt": "7月的五月线反弹、低位股线圈反弹等已经预判验证！每个月都想要，都要说挺累的，还不能顾及所有。后面行情没人能看得准、没人能预判得了，都只有涨了看涨跌了看跌地直播。我也回忆不起来了<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; heig",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 70,
+      "attitudes_count": 175
+    },
+    {
       "id": "5319124843759571",
       "bid": "R81wwfM2f",
       "created_at": "Fri Jul 10 13:34:10 +0800 2026",
@@ -1836,6 +1848,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-10 06:00:19 UTC+8 (SCF)",
-  "total_count": 152
+  "last_updated": "2026-07-10 07:00:19 UTC+8 (SCF)",
+  "total_count": 153
 }
