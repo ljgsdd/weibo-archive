@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4121,
+    "statuses_count": 4119,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1548,6 +1548,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5319124843759571",
+      "bid": "R81wwfM2f",
+      "created_at": "Fri Jul 10 13:34:10 +0800 2026",
+      "text_excerpt": "今天算吗？第几次？准不准？ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 231,
+      "attitudes_count": 418
+    },
+    {
       "id": "5319104094542357",
       "bid": "R80Z3j3FP",
       "created_at": "Fri Jul 10 12:11:43 +0800 2026",
@@ -1824,6 +1836,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-10 04:30:16 UTC+8 (SCF)",
-  "total_count": 151
+  "last_updated": "2026-07-10 06:00:19 UTC+8 (SCF)",
+  "total_count": 152
 }
