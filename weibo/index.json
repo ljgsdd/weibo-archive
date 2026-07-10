@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4119,
+    "statuses_count": 4121,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1548,6 +1548,30 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5319104094542357",
+      "bid": "R80Z3j3FP",
+      "created_at": "Fri Jul 10 12:11:43 +0800 2026",
+      "text_excerpt": "一下子就百人了控制百人，一月五十w一年六百W，如果放开，年入千万，看到这里的价值了吧！//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:下周开通付费阅读，五千一月。//<a href='/n/虚焕一生'>@虚焕一生</a>:免费的对于他们来说最廉价//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:你看看，这种全网首发价值千万的微博，才二百互动！那些大V用力啊死鬼居然四五百人回应，所以这个社会...<a href=\"/status/5",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 129,
+      "attitudes_count": 288
+    },
+    {
+      "id": "5319101288289214",
+      "bid": "R80UwyMp0",
+      "created_at": "Fri Jul 10 12:00:34 +0800 2026",
+      "text_excerpt": "是的，仅这一条预判，用心的人就可以马上回本！//<a href='/n/虚焕一生'>@虚焕一生</a>:很多科技都是在5附近反弹不下15个点",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 124,
+      "attitudes_count": 307
+    },
+    {
       "id": "5319100600684877",
       "bid": "R80Tq2Sap",
       "created_at": "Fri Jul 10 11:57:50 +0800 2026",
@@ -1800,6 +1824,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-10 04:00:17 UTC+8 (SCF)",
-  "total_count": 149
+  "last_updated": "2026-07-10 04:30:16 UTC+8 (SCF)",
+  "total_count": 151
 }
