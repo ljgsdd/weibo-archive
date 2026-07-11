@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4123,
+    "statuses_count": 4125,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1248,6 +1248,42 @@
       "attitudes_count": 65
     },
     {
+      "id": "5319484929738182",
+      "bid": "R8aTiERls",
+      "created_at": "Sat Jul 11 13:25:01 +0800 2026",
+      "text_excerpt": "除了股市可以瞎吹，专业不能吹，粉丝中有很多博士，教授很多很多//<a href='/n/hero齐天大圣'>@hero齐天大圣</a>:本行的竖个大拇指：专业<span class=\"url-icon\"><img alt=\"[收到]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/2022_get_mobile.png\" style=\"width:1em; height:1em;\" /><",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 30,
+      "attitudes_count": 69
+    },
+    {
+      "id": "5319483737773290",
+      "bid": "R8aRnwCbE",
+      "created_at": "Sat Jul 11 13:20:17 +0800 2026",
+      "text_excerpt": "混泥土在7天28天经过二次水化作用后，形成c20-35的强度，使用70年，所以建筑上施工一周内对混泥土的养护最重要，赶工期的比如以前恒大的多少都会对使用造成影响。//<a href='/n/虚焕一生'>@虚焕一生</a>:但是这样混凝土墙面不会开裂吗，时间长是不是就会漏水",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 41,
+      "attitudes_count": 64
+    },
+    {
+      "id": "5319481439291924",
+      "bid": "R8aNFCZfK",
+      "created_at": "Sat Jul 11 13:11:09 +0800 2026",
+      "text_excerpt": "建筑上为啥要用钢筋？除了与混泥土形成强烈的组合结构体以外，更重要的是钢筋有柔性，有韧性，所以所有建筑都有柔性。在遇到地震或强台风时，房屋的宽厚比会形成建筑的层间位移角，触发建筑保护性摇摆。如果全是刚性，遇震遇风即倒。简单地说，在共振限度内产生的摇晃，是建筑安全的保证。这样说易懂？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 81,
+      "attitudes_count": 167
+    },
+    {
       "id": "5319476696055933",
       "bid": "R8aG1ppql",
       "created_at": "Sat Jul 11 12:52:17 +0800 2026",
@@ -1884,6 +1920,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-11 05:00:20 UTC+8 (SCF)",
-  "total_count": 156
+  "last_updated": "2026-07-11 05:30:20 UTC+8 (SCF)",
+  "total_count": 159
 }
