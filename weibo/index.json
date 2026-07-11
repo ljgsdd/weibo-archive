@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4120,
+    "statuses_count": 4123,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1248,6 +1248,42 @@
       "attitudes_count": 65
     },
     {
+      "id": "5319476696055933",
+      "bid": "R8aG1ppql",
+      "created_at": "Sat Jul 11 12:52:17 +0800 2026",
+      "text_excerpt": "那次地震，小区里的人没感觉，我家都摇成这样了……",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 53,
+      "attitudes_count": 67
+    },
+    {
+      "id": "5319475697026968",
+      "bid": "R8aEptu2c",
+      "created_at": "Sat Jul 11 12:48:20 +0800 2026",
+      "text_excerpt": "告诉小区所以业主，天塌下来俺顶着<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/一定要听学霸的话'>@一定要听学霸的话</a>:俊哥，记得你推荐多层，你咋住这么",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 61,
+      "attitudes_count": 90
+    },
+    {
+      "id": "5319472896544367",
+      "bid": "R8azTrsuj",
+      "created_at": "Sat Jul 11 12:37:12 +0800 2026",
+      "text_excerpt": "前天三级，昨天二级，今天提升到一级！<br />刚回家，住在128米高处的我有点摇摇晃晃。台风每年都有，以前都是雷声大雨点小，这次真的来了么？名字也没有像以前那么温柔了，还带了个“威”字……看今夜吧！ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 144,
+      "attitudes_count": 193
+    },
+    {
       "id": "5302282628892511",
       "bid": "R0XnEBjlB",
       "created_at": "Mon May 25 02:09:13 +0800 2026",
@@ -1848,6 +1884,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-10 07:00:19 UTC+8 (SCF)",
-  "total_count": 153
+  "last_updated": "2026-07-11 05:00:20 UTC+8 (SCF)",
+  "total_count": 156
 }
