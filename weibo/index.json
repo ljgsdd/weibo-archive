@@ -1068,6 +1068,18 @@
       "attitudes_count": 183
     },
     {
+      "id": "5319659454728172",
+      "bid": "R8fqNjQ0Q",
+      "created_at": "Sun Jul 12 00:58:31 +0800 2026",
+      "text_excerpt": "根据摆幅预计楼层中线顶位偏移在10-15cm <a  href=\"https://video.weibo.com/show?fid=1034:5319659352948918\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_defa",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": true,
+      "reposts_count": 0,
+      "comments_count": 15,
+      "attitudes_count": 21
+    },
+    {
       "id": "5317252452452850",
       "bid": "R7eOxai66",
       "created_at": "Sun Jul 05 09:33:57 +0800 2026",
@@ -1932,6 +1944,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-11 13:30:15 UTC+8 (SCF)",
-  "total_count": 160
+  "last_updated": "2026-07-11 17:00:17 UTC+8 (SCF)",
+  "total_count": 161
 }
