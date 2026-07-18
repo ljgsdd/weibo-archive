@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4122,
+    "statuses_count": 4121,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1260,6 +1260,18 @@
       "attitudes_count": 65
     },
     {
+      "id": "5322107196277153",
+      "bid": "R9h6LqkYp",
+      "created_at": "Sat Jul 18 19:04:58 +0800 2026",
+      "text_excerpt": "原来，你还在这里。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 435,
+      "attitudes_count": 531
+    },
+    {
       "id": "5319603846909294",
       "bid": "R8dZ6sZqe",
       "created_at": "Sat Jul 11 21:17:33 +0800 2026",
@@ -1944,6 +1956,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-11 17:00:17 UTC+8 (SCF)",
-  "total_count": 161
+  "last_updated": "2026-07-18 11:30:16 UTC+8 (SCF)",
+  "total_count": 162
 }
