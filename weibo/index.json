@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4121,
+    "statuses_count": 4122,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1260,6 +1260,18 @@
       "attitudes_count": 65
     },
     {
+      "id": "5322180351235580",
+      "bid": "R9j0L5bqI",
+      "created_at": "Sat Jul 18 23:55:40 +0800 2026",
+      "text_excerpt": "停博一周，市场一片哀嚎，一切在预料之中。微博均在，一起回忆一下过去的预判唤醒到处张望、极易健忘乱喷的人：<br />一，六月底很多粉丝被连续上热搜的某大V忽悠买入大科技，却到这里来求救！微博提出，不会“瀑布式下跌”，并提前提出“出货会有过程”——5月线会反弹。事实是在7月某天正好五月线触碰科技 ...<a href=\"/status/5322180351235580\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 90,
+      "attitudes_count": 136
+    },
+    {
       "id": "5322107196277153",
       "bid": "R9h6LqkYp",
       "created_at": "Sat Jul 18 19:04:58 +0800 2026",
@@ -1956,6 +1968,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-18 11:30:16 UTC+8 (SCF)",
-  "total_count": 162
+  "last_updated": "2026-07-18 16:00:28 UTC+8 (SCF)",
+  "total_count": 163
 }
