@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4123,
+    "statuses_count": 4127,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1068,6 +1068,54 @@
       "attitudes_count": 183
     },
     {
+      "id": "5322211566813595",
+      "bid": "R9jP6sAwH",
+      "created_at": "Sun Jul 19 01:59:42 +0800 2026",
+      "text_excerpt": "这一波操作：合肥国资委赚大了！机构赚大了！阿里赚大了！兆易赚大了！机构赚大了！配股赚大了！券商赚大了！股东赚大了！这波操作上万亿赚来的钱，是谁的？？？？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 1,
+      "attitudes_count": 10
+    },
+    {
+      "id": "5322210082030926",
+      "bid": "R9jMI8wkS",
+      "created_at": "Sun Jul 19 01:53:48 +0800 2026",
+      "text_excerpt": "为什么合肥国资委敢投上百亿长鑫？为什么连续两年亏损几百亿还敢继续投？为什么兆易从50涨了十几倍？为什么在这二个月会走出科技行情？又为什么在长鑫上市之时科技到顶？<br />你品，你细品，一切都是有预谋有计划地进行着！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 43,
+      "attitudes_count": 56
+    },
+    {
+      "id": "5322208958220286",
+      "bid": "R9jKTyutg",
+      "created_at": "Sun Jul 19 01:49:20 +0800 2026",
+      "text_excerpt": "香，不是烟！哎//<a href='/n/用户9140052928'>@用户9140052928</a>:烟抽完了，终于记起来了<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span><span",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 20,
+      "attitudes_count": 30
+    },
+    {
+      "id": "5322206839833740",
+      "bid": "R9jHtFgcI",
+      "created_at": "Sun Jul 19 01:40:55 +0800 2026",
+      "text_excerpt": "审核啥？哪个字不被允许？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 45,
+      "attitudes_count": 61
+    },
+    {
       "id": "5322189416694479",
       "bid": "R9jfns5xt",
       "created_at": "Sun Jul 19 00:31:41 +0800 2026",
@@ -1980,6 +2028,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-18 17:00:20 UTC+8 (SCF)",
-  "total_count": 164
+  "last_updated": "2026-07-18 18:00:21 UTC+8 (SCF)",
+  "total_count": 168
 }
