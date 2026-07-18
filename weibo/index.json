@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4122,
+    "statuses_count": 4123,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1068,6 +1068,18 @@
       "attitudes_count": 183
     },
     {
+      "id": "5322189416694479",
+      "bid": "R9jfns5xt",
+      "created_at": "Sun Jul 19 00:31:41 +0800 2026",
+      "text_excerpt": "去年4月初提出市场将在10号前后暴力反弹！<br />8号凌晨千字文写下〈跌2%加倍仓位解套法〉！<br />9号开盘9:43分，上证指数正好下跌-2%，此时此刻，视频所示……这就是经典的3040点预判，此次超百人解套！ ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": true,
+      "reposts_count": 0,
+      "comments_count": 115,
+      "attitudes_count": 253
+    },
+    {
       "id": "5319659454728172",
       "bid": "R8fqNjQ0Q",
       "created_at": "Sun Jul 12 00:58:31 +0800 2026",
@@ -1968,6 +1980,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-18 16:00:28 UTC+8 (SCF)",
-  "total_count": 163
+  "last_updated": "2026-07-18 17:00:20 UTC+8 (SCF)",
+  "total_count": 164
 }
