@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4122,
+    "statuses_count": 4123,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1608,6 +1608,18 @@
       "attitudes_count": 1231
     },
     {
+      "id": "5322641462264440",
+      "bid": "R9v0u9v5e",
+      "created_at": "Mon Jul 20 06:27:57 +0800 2026",
+      "text_excerpt": "今年<a  href=\"https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%23&extparam=%23%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%23&luicode=20000174&launchid=100",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 8,
+      "attitudes_count": 31
+    },
+    {
       "id": "5322592556417216",
       "bid": "R9tJBqVpu",
       "created_at": "Mon Jul 20 03:13:37 +0800 2026",
@@ -2076,6 +2088,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-19 19:30:14 UTC+8 (SCF)",
-  "total_count": 172
+  "last_updated": "2026-07-19 22:30:13 UTC+8 (SCF)",
+  "total_count": 173
 }
