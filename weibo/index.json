@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4124,
+    "statuses_count": 4123,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1608,6 +1608,18 @@
       "attitudes_count": 1231
     },
     {
+      "id": "5322558271393077",
+      "bid": "R9sQj5QoZ",
+      "created_at": "Mon Jul 20 00:57:23 +0800 2026",
+      "text_excerpt": "春去秋来——春天买入，7月落幕，秋天再来。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 29,
+      "attitudes_count": 57
+    },
+    {
       "id": "5317691240090321",
       "bid": "R7qeg0nuN",
       "created_at": "Mon Jul 06 14:37:32 +0800 2026",
@@ -2052,6 +2064,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-19 02:30:14 UTC+8 (SCF)",
-  "total_count": 170
+  "last_updated": "2026-07-19 17:00:17 UTC+8 (SCF)",
+  "total_count": 171
 }
