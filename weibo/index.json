@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4123,
+    "statuses_count": 4122,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1608,6 +1608,18 @@
       "attitudes_count": 1231
     },
     {
+      "id": "5322592556417216",
+      "bid": "R9tJBqVpu",
+      "created_at": "Mon Jul 20 03:13:37 +0800 2026",
+      "text_excerpt": "这个周末，网络持续发酵的莫过于网红大V任某某，大数据显示，今年其卖课收入预计在9000万-2亿，带来的结果是某些粉丝倾家荡产！<br />图一，21年预判了恒大的结局。<br />图二，23年微博多次预判离岸人民币汇率走势，与首席经济学家的PK（老粉都知道）<br />图三，剑有所指。<br />这一场对“财经大V”的清算，才刚刚开始。 ...<a href=\"/status/5322592556417216\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 25,
+      "attitudes_count": 37
+    },
+    {
       "id": "5322558271393077",
       "bid": "R9sQj5QoZ",
       "created_at": "Mon Jul 20 00:57:23 +0800 2026",
@@ -2064,6 +2076,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-19 17:00:17 UTC+8 (SCF)",
-  "total_count": 171
+  "last_updated": "2026-07-19 19:30:14 UTC+8 (SCF)",
+  "total_count": 172
 }
