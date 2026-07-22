@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4123,
+    "statuses_count": 4127,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5323499499684452",
+      "bid": "R9RkpEDmQ",
+      "created_at": "Wed Jul 22 15:17:29 +0800 2026",
+      "text_excerpt": "回顾七月，市场迷离，印证了六月底说的“接下来没人看得懂没人能预判”的走势，因为那时正是全网V们举旗呐喊大科技之时。这个月的两次战役，一是“五月线反弹”二是昨日一战，虽是常规经典也是火中取栗。祝各位安好<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 301,
+      "attitudes_count": 917
     },
     {
       "id": "5318439029969589",
@@ -550,6 +562,30 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5323075345454097",
+      "bid": "R9GiimSRj",
+      "created_at": "Tue Jul 21 11:12:03 +0800 2026",
+      "text_excerpt": "昨天下午2:45分日盘指数最低点发博。<br />准不准？投个票～ ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 5,
+      "comments_count": 615,
+      "attitudes_count": 1202
+    },
+    {
+      "id": "5323073633913467",
+      "bid": "R9Gfxgq4r",
+      "created_at": "Tue Jul 21 11:05:15 +0800 2026",
+      "text_excerpt": "双创上午反弹6-8%！！！//<a href='/n/SOLongMeat'>@SOLongMeat</a>:这个级别反弹，全网有几个人有实力有胆气给提前预告啊！只俊哥一人啊！黑子枉为人焉！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 232,
+      "attitudes_count": 672
     },
     {
       "id": "5318191296550125",
@@ -1608,6 +1644,18 @@
       "attitudes_count": 1231
     },
     {
+      "id": "5322759670597720",
+      "bid": "R9y592vuE",
+      "created_at": "Mon Jul 20 14:17:40 +0800 2026",
+      "text_excerpt": "“A股港股走势不再一致”，回过头看反弹了快2000点了！常规预判～",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 202,
+      "attitudes_count": 657
+    },
+    {
       "id": "5322641462264440",
       "bid": "R9v0u9v5e",
       "created_at": "Mon Jul 20 06:27:57 +0800 2026",
@@ -2088,6 +2136,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-19 22:30:13 UTC+8 (SCF)",
-  "total_count": 173
+  "last_updated": "2026-07-22 14:56:21 UTC+8 (SCF)",
+  "total_count": 177
 }
