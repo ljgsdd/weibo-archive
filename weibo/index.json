@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4128,
+    "statuses_count": 4129,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -778,6 +778,18 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5323668322256343",
+      "bid": "R9VII9sYD",
+      "created_at": "Thu Jul 23 02:28:20 +0800 2026",
+      "text_excerpt": "今日消息：2026中•韩国际音乐大赛一等奖。<br />为国争光了<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[哈哈]",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 10,
+      "attitudes_count": 13
     },
     {
       "id": "5323657951839012",
@@ -2148,6 +2160,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-22 18:00:09 UTC+8 (SCF)",
-  "total_count": 178
+  "last_updated": "2026-07-22 18:30:07 UTC+8 (SCF)",
+  "total_count": 179
 }
