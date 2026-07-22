@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4127,
+    "statuses_count": 4128,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -778,6 +778,18 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5323657951839012",
+      "bid": "R9VrZ7Ipu",
+      "created_at": "Thu Jul 23 01:47:07 +0800 2026",
+      "text_excerpt": "《原来我们过的不是特别的好》（来自<a href='/n/酷狗音乐'>@酷狗音乐</a>）<a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fm.kugou.com%2Fshare%2Fsong.html%3Fchain%3D3lGuL9bG3V3\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 24,
+      "attitudes_count": 34
     },
     {
       "id": "5318848883462648",
@@ -2136,6 +2148,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-22 14:56:21 UTC+8 (SCF)",
-  "total_count": 177
+  "last_updated": "2026-07-22 18:00:09 UTC+8 (SCF)",
+  "total_count": 178
 }
