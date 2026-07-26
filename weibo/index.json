@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4128,
+    "statuses_count": 4130,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1128,6 +1128,30 @@
       "attitudes_count": 183
     },
     {
+      "id": "5325011290164445",
+      "bid": "RauEN0GMl",
+      "created_at": "Sun Jul 26 19:24:48 +0800 2026",
+      "text_excerpt": "第一句龙脉秦岭，第二句十三朝都，第三句千古秦腔，第四句关中故事。//<a href='/n/游泳的鱼coolboy-009'>@游泳的鱼coolboy-009</a>:跟俊哥悄悄说一声您这首即兴诗里面竟然有我的姓氏<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" st",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 43,
+      "attitudes_count": 88
+    },
+    {
+      "id": "5325008697297446",
+      "bid": "RauABuCoK",
+      "created_at": "Sun Jul 26 19:14:30 +0800 2026",
+      "text_excerpt": "巍巍秦岭山脉，缓缓历史长河。<br />悠悠千古绝唱，戚戚人间沧桑。 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 119,
+      "attitudes_count": 258
+    },
+    {
       "id": "5322335160896593",
       "bid": "R9n2s3Lfb",
       "created_at": "Sun Jul 19 10:10:49 +0800 2026",
@@ -2172,6 +2196,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-24 13:30:06 UTC+8 (SCF)",
-  "total_count": 180
+  "last_updated": "2026-07-26 11:30:09 UTC+8 (SCF)",
+  "total_count": 182
 }
