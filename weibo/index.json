@@ -1692,6 +1692,30 @@
       "attitudes_count": 1231
     },
     {
+      "id": "5325305067606487",
+      "bid": "RaCiCvUNh",
+      "created_at": "Mon Jul 27 14:52:10 +0800 2026",
+      "text_excerpt": "如今回过头想想，当初全民排队打疫苗，全民必须扫码出行，最后全民再感染一遍……真是笑话！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 97,
+      "attitudes_count": 196
+    },
+    {
+      "id": "5325303301805086",
+      "bid": "RaCfM7zAi",
+      "created_at": "Mon Jul 27 14:45:09 +0800 2026",
+      "text_excerpt": "这么准的预判没多少人气，这里有没有气？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 209,
+      "attitudes_count": 481
+    },
+    {
       "id": "5325296396929306",
       "bid": "RaC4Dt4D0",
       "created_at": "Mon Jul 27 14:17:43 +0800 2026",
@@ -2232,6 +2256,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-27 06:30:20 UTC+8 (SCF)",
-  "total_count": 185
+  "last_updated": "2026-07-27 07:00:13 UTC+8 (SCF)",
+  "total_count": 187
 }
