@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4131,
+    "statuses_count": 4130,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -562,6 +562,18 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5325555605964125",
+      "bid": "RaIOIp1xz",
+      "created_at": "Tue Jul 28 07:27:43 +0800 2026",
+      "text_excerpt": "看看大V的嘴脸和发博技巧：<br />昨天下午都涨了，才说早上的低点是二次反击点。（图一）过了一小时改口说低点早盘就分析了（图二）<span class=\"url-icon\"><img alt=\"[二哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/2018_erha_mobile.png\" style=\"width:1em; height:1em;\" /></span><br />如",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 42,
+      "attitudes_count": 86
     },
     {
       "id": "5323075345454097",
@@ -2256,6 +2268,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-27 07:00:13 UTC+8 (SCF)",
-  "total_count": 187
+  "last_updated": "2026-07-27 23:30:05 UTC+8 (SCF)",
+  "total_count": 188
 }
