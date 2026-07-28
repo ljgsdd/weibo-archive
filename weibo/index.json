@@ -564,6 +564,18 @@
       "attitudes_count": 916
     },
     {
+      "id": "5325624107339492",
+      "bid": "RaKBcuNkU",
+      "created_at": "Tue Jul 28 11:59:55 +0800 2026",
+      "text_excerpt": "有黑子说我删掉的都是预判错误的，留下准确的<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[允悲]\" src=\"http",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 4
+    },
+    {
       "id": "5325616452995517",
       "bid": "RaKoRczgN",
       "created_at": "Tue Jul 28 11:29:30 +0800 2026",
@@ -2352,6 +2364,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 03:30:07 UTC+8 (SCF)",
-  "total_count": 195
+  "last_updated": "2026-07-28 04:00:10 UTC+8 (SCF)",
+  "total_count": 196
 }
