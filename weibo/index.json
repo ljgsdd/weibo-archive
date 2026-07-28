@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4130,
+    "statuses_count": 4133,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -562,6 +562,42 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5325562725797085",
+      "bid": "RaJ0cok5n",
+      "created_at": "Tue Jul 28 07:56:01 +0800 2026",
+      "text_excerpt": "恭喜🎉这是一位去年在此许愿的粉丝，当初我给了她定心丸<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/欢乐Song-vvv1'>@欢乐Song-vvv1</a>:",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 45,
+      "attitudes_count": 100
+    },
+    {
+      "id": "5325560735597111",
+      "bid": "RaIWZnu3Z",
+      "created_at": "Tue Jul 28 07:48:06 +0800 2026",
+      "text_excerpt": "凡是被本博点过名的人，＿＿＿。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 101,
+      "attitudes_count": 239
+    },
+    {
+      "id": "5325558236053600",
+      "bid": "RaISXpoOI",
+      "created_at": "Tue Jul 28 07:38:09 +0800 2026",
+      "text_excerpt": "20号我说月底前有二次普涨，事实是21号，27号，大V马上抄去变成二次反击点，可恶的是太多V抄去卖钱，各种付费订阅收费群！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 57,
+      "attitudes_count": 200
     },
     {
       "id": "5325555605964125",
@@ -2268,6 +2304,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-27 23:30:05 UTC+8 (SCF)",
-  "total_count": 188
+  "last_updated": "2026-07-28 00:00:11 UTC+8 (SCF)",
+  "total_count": 191
 }
