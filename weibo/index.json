@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4131,
+    "statuses_count": 4130,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -562,6 +562,18 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5325573064753837",
+      "bid": "RaJgSjWGN",
+      "created_at": "Tue Jul 28 08:37:06 +0800 2026",
+      "text_excerpt": "我们不知道这世上到底有没有神存在，也不知道这世上到底有没有佛显灵。但我们一定知道这世上除了自身和外界的因素之外，冥冥之中有一种力量在帮助着自己，我们可以称之谓精神，亦或是信仰，这种力量，在万念俱灰、孤立无援时，支撑起希望，照亮前行路。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 181,
+      "attitudes_count": 449
     },
     {
       "id": "5325568824577410",
@@ -2316,6 +2328,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 00:30:05 UTC+8 (SCF)",
-  "total_count": 192
+  "last_updated": "2026-07-28 01:00:11 UTC+8 (SCF)",
+  "total_count": 193
 }
