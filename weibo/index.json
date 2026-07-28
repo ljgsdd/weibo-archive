@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4132,
+    "statuses_count": 4134,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -562,6 +562,42 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5325804969919218",
+      "bid": "RaPiUFCro",
+      "created_at": "Tue Jul 28 23:58:36 +0800 2026",
+      "text_excerpt": "不，我认为你是赞助6元的原因//<a href='/n/诸相非相LL'>@诸相非相LL</a>:就因听了大v的，五浪已到来，结果半月吃掉了半年的收益<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 18,
+      "attitudes_count": 27
+    },
+    {
+      "id": "5325804282056116",
+      "bid": "RaPhO8CTa",
+      "created_at": "Tue Jul 28 23:55:52 +0800 2026",
+      "text_excerpt": "月初发博“后面的行情没人看得懂”！既然敢这样说，说明市场会走极端（突然普涨突然暴跌），“我也回忆不起来了”是因为无任怎么说都不能众其所好！股市三十年，其他都有待改进，唯独2个名词取得极其正确：一是A股，任何股都逃不了A型走势。二是散户，人散财也散！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 41,
+      "attitudes_count": 89
+    },
+    {
+      "id": "5325800951779726",
+      "bid": "RaPcr7sZg",
+      "created_at": "Tue Jul 28 23:42:38 +0800 2026",
+      "text_excerpt": "七月，有很多人被科技伤了而且有些还是肉没吃到，自己的肉快没了。我再给你回忆一下本博对本次科技行情的预判：<br />图一二：4.10发博宣布股市企稳，指出从今天起会出现很多翻倍股！既然说很多翻倍股，那就是中线行情开启，需要足够的耐心去持有！<br />图三四：历时五六月，微博多次提出“趋势股”，不改趋势股 ...<a href=\"/status/5325800951779726\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 5,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 117,
+      "attitudes_count": 226
     },
     {
       "id": "5325638732092944",
@@ -2376,6 +2412,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 05:00:09 UTC+8 (SCF)",
-  "total_count": 197
+  "last_updated": "2026-07-28 16:00:22 UTC+8 (SCF)",
+  "total_count": 200
 }
