@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4131,
+    "statuses_count": 4132,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -562,6 +562,18 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5325638732092944",
+      "bid": "RaKYN8Mta",
+      "created_at": "Tue Jul 28 12:58:02 +0800 2026",
+      "text_excerpt": "预判错了吗？眼瞎的？//<a href='/n/熊江涛0410'>@熊江涛0410</a>:航空股，还记得不",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 38,
+      "attitudes_count": 71
     },
     {
       "id": "5325624107339492",
@@ -2364,6 +2376,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 04:00:10 UTC+8 (SCF)",
-  "total_count": 196
+  "last_updated": "2026-07-28 05:00:09 UTC+8 (SCF)",
+  "total_count": 197
 }
