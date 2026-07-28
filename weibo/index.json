@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4133,
+    "statuses_count": 4131,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -562,6 +562,18 @@
       "reposts_count": 1,
       "comments_count": 120,
       "attitudes_count": 916
+    },
+    {
+      "id": "5325568824577410",
+      "bid": "RaJa2jcNc",
+      "created_at": "Tue Jul 28 08:20:15 +0800 2026",
+      "text_excerpt": "一愿一虔诚，一念一菩提。今天十五我得去庙里替大家还愿，估计得跪拜四个小时以上<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 160,
+      "attitudes_count": 277
     },
     {
       "id": "5325562725797085",
@@ -2304,6 +2316,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 00:00:11 UTC+8 (SCF)",
-  "total_count": 191
+  "last_updated": "2026-07-28 00:30:05 UTC+8 (SCF)",
+  "total_count": 192
 }
