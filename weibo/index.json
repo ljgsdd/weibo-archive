@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4137,
+    "statuses_count": 4134,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5325893838570004",
+      "bid": "RaRCfzXrS",
+      "created_at": "Wed Jul 29 05:51:44 +0800 2026",
+      "text_excerpt": "人最幸福的事是什么？<br />人最幸福的事是此刻被尿憋醒，一看时间还早，去洗手间舍不得把眼睛睁大，生怕自己醒来！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 14,
+      "attitudes_count": 27
     },
     {
       "id": "5325818420007301",
@@ -2472,6 +2484,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 17:00:19 UTC+8 (SCF)",
-  "total_count": 205
+  "last_updated": "2026-07-28 22:00:06 UTC+8 (SCF)",
+  "total_count": 206
 }
