@@ -564,6 +564,18 @@
       "attitudes_count": 916
     },
     {
+      "id": "5325616452995517",
+      "bid": "RaKoRczgN",
+      "created_at": "Tue Jul 28 11:29:30 +0800 2026",
+      "text_excerpt": "很多很多人都在做基金，请翻阅一下我前几年的微博，对于基金，预判准确率100%。可查阅<br />在新的市场环境下，基金早就不是以前的基金，今年也一样，亏的概率大于90%，点到为止。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 16,
+      "attitudes_count": 62
+    },
+    {
       "id": "5325601365033252",
       "bid": "RaK0wl7nu",
       "created_at": "Tue Jul 28 10:29:32 +0800 2026",
@@ -2340,6 +2352,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 02:30:06 UTC+8 (SCF)",
-  "total_count": 194
+  "last_updated": "2026-07-28 03:30:07 UTC+8 (SCF)",
+  "total_count": 195
 }
