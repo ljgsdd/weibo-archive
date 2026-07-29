@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4134,
+    "statuses_count": 4137,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,42 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5326001124938154",
+      "bid": "RaUpikIDE",
+      "created_at": "Wed Jul 29 12:58:03 +0800 2026",
+      "text_excerpt": "你说市场不好吗？监管看到的是指数没有大跌，个股还有大部分上涨呢！管什么？<br />只是哪些被忽悠进五六月暴涨科技股的散户在说不好，这里月初说的低位股，不好吗？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 45,
+      "attitudes_count": 108
+    },
+    {
+      "id": "5325999942404244",
+      "bid": "RaUnoa5s8",
+      "created_at": "Wed Jul 29 12:53:21 +0800 2026",
+      "text_excerpt": "你是大V那儿看多了吧？这是他们看不准的推辞！我说七月落幕，被监控了没？//<a href='/n/他们不叠被子'>@他们不叠被子</a>:现在看空的微博都被监控了，不能说不能说",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 49,
+      "attitudes_count": 117
+    },
+    {
+      "id": "5325996461133184",
+      "bid": "RaUhM4KNa",
+      "created_at": "Wed Jul 29 12:39:31 +0800 2026",
+      "text_excerpt": "自说了韩股9385未来几年大顶，它倒跌得越来越流畅了！港股本次底部也猜对了～ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 97,
+      "attitudes_count": 288
     },
     {
       "id": "5325985321062962",
@@ -2532,6 +2568,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-29 04:00:08 UTC+8 (SCF)",
-  "total_count": 210
+  "last_updated": "2026-07-29 05:00:10 UTC+8 (SCF)",
+  "total_count": 213
 }
