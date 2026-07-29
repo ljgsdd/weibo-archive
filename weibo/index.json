@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4137,
+    "statuses_count": 4136,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5326050390180281",
+      "bid": "RaVGL0KTL",
+      "created_at": "Wed Jul 29 16:13:48 +0800 2026",
+      "text_excerpt": "七月初提出的“低位股”，会亥姆霍兹式反弹上涨，今天的四千多收红个股有90%是这类股。在科技下跌的七月里，月线收红的九成是这个！<br />好了，翻篇。天机透露得过多了<span class=\"url-icon\"><img alt=\"[祈祷]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/2025_pray_mobile.png\" style=\"width:1em; height:1em;",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 119,
+      "attitudes_count": 282
     },
     {
       "id": "5326027620352697",
@@ -2592,6 +2604,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-29 07:00:17 UTC+8 (SCF)",
-  "total_count": 215
+  "last_updated": "2026-07-29 08:30:06 UTC+8 (SCF)",
+  "total_count": 216
 }
