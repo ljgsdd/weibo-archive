@@ -72,6 +72,30 @@
       "attitudes_count": 779
     },
     {
+      "id": "5325978936805716",
+      "bid": "RaTPvsytC",
+      "created_at": "Wed Jul 29 11:29:53 +0800 2026",
+      "text_excerpt": "这里不说，他们都看不懂！只有瞎蒙，前天说上证冲3886，下跌马上改口。今天说创业板稳了，估计下午就改口，反正粉丝的记忆只有7秒！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 2
+    },
+    {
+      "id": "5325975938138462",
+      "bid": "RaTKFy9bw",
+      "created_at": "Wed Jul 29 11:17:57 +0800 2026",
+      "text_excerpt": "广西天津V六月底甚至七月还在吹兆易，明显配合机构出货，可怜的散户三年都难解套了！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 134,
+      "attitudes_count": 334
+    },
+    {
       "id": "5325893838570004",
       "bid": "RaRCfzXrS",
       "created_at": "Wed Jul 29 05:51:44 +0800 2026",
@@ -2484,6 +2508,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-28 22:00:06 UTC+8 (SCF)",
-  "total_count": 206
+  "last_updated": "2026-07-29 03:30:11 UTC+8 (SCF)",
+  "total_count": 208
 }
