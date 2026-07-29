@@ -72,6 +72,30 @@
       "attitudes_count": 779
     },
     {
+      "id": "5326027620352697",
+      "bid": "RaV621tKF",
+      "created_at": "Wed Jul 29 14:43:19 +0800 2026",
+      "text_excerpt": "蚯蚓在这个天哪里找？城里人知道不？//<a href='/n/1991CaiLY'>@1991CaiLY</a>:我挖蚯蚓",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 93,
+      "attitudes_count": 172
+    },
+    {
+      "id": "5326025749956298",
+      "bid": "RaV30FM5s",
+      "created_at": "Wed Jul 29 14:35:54 +0800 2026",
+      "text_excerpt": "这大热天的，夜里黄鳝都会出来透气，找个池塘，我背起竹箩，你打起手电，钓黄鳝去？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 140,
+      "attitudes_count": 379
+    },
+    {
       "id": "5326001124938154",
       "bid": "RaUpikIDE",
       "created_at": "Wed Jul 29 12:58:03 +0800 2026",
@@ -2568,6 +2592,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-29 05:00:10 UTC+8 (SCF)",
-  "total_count": 213
+  "last_updated": "2026-07-29 07:00:17 UTC+8 (SCF)",
+  "total_count": 215
 }
