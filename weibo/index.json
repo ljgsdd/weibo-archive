@@ -72,6 +72,30 @@
       "attitudes_count": 779
     },
     {
+      "id": "5325985321062962",
+      "bid": "RaTZO4swy",
+      "created_at": "Wed Jul 29 11:55:15 +0800 2026",
+      "text_excerpt": "我一直强调新粉必须翻阅三年微博。<br />对于科技，22年正月就提出了AI～GPT的概念，远早于任何媒体一个多月，早于资本市场三周，也是当时第一个提出“第四次工业革命”！<br />四年多过去了，今天媒体才来提出第四次工业革命。但是，国内真的有那么多科技吗？微博也提出正如2000年的互联网，随便注册一家公司摆 ...<a href=\"/status/5325985321062962\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 66,
+      "attitudes_count": 188
+    },
+    {
+      "id": "5325981929964215",
+      "bid": "RaTUkFO99",
+      "created_at": "Wed Jul 29 11:41:47 +0800 2026",
+      "text_excerpt": "每个月都想要，每天都想涨，指数涨不算，要涨自己的股才行。<br />你必须提前预判，而且要百分百准确，至少要我看得懂，看不懂的不算。要说板块，给代码也无妨，反正要明说哪个可以买，什么时候卖，亏了就找你。<br />最后，如果我听了别处被套或者自己买错了，我要来问你怎么办？你要告诉我，什么时候可以加仓？ ...<a href=\"/status/5325981929964215\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 150,
+      "attitudes_count": 291
+    },
+    {
       "id": "5325978936805716",
       "bid": "RaTPvsytC",
       "created_at": "Wed Jul 29 11:29:53 +0800 2026",
@@ -2508,6 +2532,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-29 03:30:11 UTC+8 (SCF)",
-  "total_count": 208
+  "last_updated": "2026-07-29 04:00:08 UTC+8 (SCF)",
+  "total_count": 210
 }
