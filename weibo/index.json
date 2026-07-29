@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4136,
+    "statuses_count": 4137,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -70,6 +70,18 @@
       "reposts_count": 0,
       "comments_count": 100,
       "attitudes_count": 779
+    },
+    {
+      "id": "5326139934639737",
+      "bid": "RaY1bjt0t",
+      "created_at": "Wed Jul 29 22:09:38 +0800 2026",
+      "text_excerpt": "需要证明给你看？你已经看不到此博了！//<a href='/n/用户7409430603'>@用户7409430603</a>:预测下8月，不要宏大久远就一个月。帖子不要删除，下月底再回顾，以此证明实力。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 127,
+      "attitudes_count": 218
     },
     {
       "id": "5326050390180281",
@@ -2604,6 +2616,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-29 08:30:06 UTC+8 (SCF)",
-  "total_count": 216
+  "last_updated": "2026-07-29 14:30:09 UTC+8 (SCF)",
+  "total_count": 217
 }
