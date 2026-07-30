@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4143,
+    "statuses_count": 4141,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1210,6 +1210,18 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5326518282618855",
+      "bid": "Rb7RqaZhB",
+      "created_at": "Thu Jul 30 23:13:03 +0800 2026",
+      "text_excerpt": "高开都不会！哎，不想说了……//<a href='/n/小鱼冒泡泡_oOOO'>@小鱼冒泡泡_oOOO</a>:美股暴利反弹了，明天看看是高开高走还是高开低走",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 166,
+      "attitudes_count": 262
     },
     {
       "id": "5326514574074294",
@@ -2868,6 +2880,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-30 15:00:27 UTC+8 (SCF)",
-  "total_count": 238
+  "last_updated": "2026-07-30 15:30:20 UTC+8 (SCF)",
+  "total_count": 239
 }
