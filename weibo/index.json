@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4141,
+    "statuses_count": 4143,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1210,6 +1210,54 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5326514574074294",
+      "bid": "Rb7Lrh5Uq",
+      "created_at": "Thu Jul 30 22:58:19 +0800 2026",
+      "text_excerpt": "这张图，不是俄乌局势扯皮式的拉锯，也不是美伊之间挠痒痒式摩擦，是剑锋所指，所向披靡，是全线出击，毁灭打击！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 71,
+      "attitudes_count": 115
+    },
+    {
+      "id": "5326512494745575",
+      "bid": "Rb7I5jUxx",
+      "created_at": "Thu Jul 30 22:50:03 +0800 2026",
+      "text_excerpt": "那年股灾，是这里全网第一个提前提出空仓！所有人转移到第二个微博号，别名诺亚方舟，还记得吗？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 135,
+      "attitudes_count": 227
+    },
+    {
+      "id": "5326511181661813",
+      "bid": "Rb7FY6Yjr",
+      "created_at": "Thu Jul 30 22:44:50 +0800 2026",
+      "text_excerpt": "居然那么多人不知道航母是什么意思？嘴皮子都磨破了新来的去翻阅三年微博，他们宁可多关注几个博主…… ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 147,
+      "attitudes_count": 369
+    },
+    {
+      "id": "5326508401101061",
+      "bid": "Rb7Bu4Cr3",
+      "created_at": "Thu Jul 30 22:33:47 +0800 2026",
+      "text_excerpt": "What's this？<br />还记得这张图吗？老粉们肯定知道！A股再继续下去，今年下半年我就出图！你们找找有没有更好看的雷霆出击航母图，发评论区<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 4,
+      "comments_count": 381,
+      "attitudes_count": 527
     },
     {
       "id": "5326461629104716",
@@ -2820,6 +2868,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-30 11:30:19 UTC+8 (SCF)",
-  "total_count": 234
+  "last_updated": "2026-07-30 15:00:27 UTC+8 (SCF)",
+  "total_count": 238
 }
