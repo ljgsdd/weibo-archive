@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4139,
+    "statuses_count": 4138,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1210,6 +1210,18 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5326363967881762",
+      "bid": "Rb3Qwx4pc",
+      "created_at": "Thu Jul 30 12:59:52 +0800 2026",
+      "text_excerpt": "每一个字每一句话，回过头看，都是经典。 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 1,
+      "attitudes_count": 11
     },
     {
       "id": "5326343044336687",
@@ -2736,6 +2748,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-30 04:00:14 UTC+8 (SCF)",
-  "total_count": 227
+  "last_updated": "2026-07-30 05:00:21 UTC+8 (SCF)",
+  "total_count": 228
 }
