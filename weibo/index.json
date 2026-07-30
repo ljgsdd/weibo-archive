@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4138,
+    "statuses_count": 4139,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1210,6 +1210,18 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5326366857758965",
+      "bid": "Rb3VbwysB",
+      "created_at": "Thu Jul 30 13:11:21 +0800 2026",
+      "text_excerpt": "我一再重申摒弃老股民思维，大V都是老股民时代早就淘汰了这些人，今天你还相信“逢节必跌”？还相信“黑周四”？还相信“美元加息影响股市”？还相信“夜盘A50影响A股”？还相信“吊颈线”？还相信“金针探底”？还相信“一阴吞多阳”？你还相信“资金流入会涨”？还相信“机构调研”？还相信“五穷六 ...<a href=\"/status/5326366857758965\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 124,
+      "attitudes_count": 341
     },
     {
       "id": "5326363967881762",
@@ -2748,6 +2760,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-30 05:00:21 UTC+8 (SCF)",
-  "total_count": 228
+  "last_updated": "2026-07-30 05:30:22 UTC+8 (SCF)",
+  "total_count": 229
 }
