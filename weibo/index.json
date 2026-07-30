@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4139,
+    "statuses_count": 4141,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1210,6 +1210,42 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5326408698300174",
+      "bid": "Rb50FyPfM",
+      "created_at": "Thu Jul 30 15:57:36 +0800 2026",
+      "text_excerpt": "散户这么贱？//<a href='/n/forBF'>@forBF</a>:俊哥，如果收钱付费的话，活跃量会很高<span class=\"url-icon\"><img alt=\"[打call]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/moren_dacall_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href=",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 20,
+      "attitudes_count": 54
+    },
+    {
+      "id": "5326408420952368",
+      "bid": "Rb50e3ZKM",
+      "created_at": "Thu Jul 30 15:56:30 +0800 2026",
+      "text_excerpt": "来这里一年以上的有没有感觉到：智商拉高了？文化提高了？认知拔高了？善意升高了？说实话<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/卅澎多'>@卅澎多</a>:",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 76,
+      "attitudes_count": 113
+    },
+    {
+      "id": "5326405686528908",
+      "bid": "Rb4VOrosY",
+      "created_at": "Thu Jul 30 15:45:38 +0800 2026",
+      "text_excerpt": "精准预判恒生指数底部，精准预判港股A股7月不再同步！就是告诉大家：港股反弹，A股下跌，事实呢港股连涨5周，A股很是A股。<br />然而如此价值巨大的微博，互动寥寥百人… ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 172,
+      "attitudes_count": 364
     },
     {
       "id": "5326366857758965",
@@ -2760,6 +2796,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-30 05:30:22 UTC+8 (SCF)",
-  "total_count": 229
+  "last_updated": "2026-07-30 08:00:33 UTC+8 (SCF)",
+  "total_count": 232
 }
