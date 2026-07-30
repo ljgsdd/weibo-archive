@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4139,
+    "statuses_count": 4140,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1210,6 +1210,42 @@
       "reposts_count": 0,
       "comments_count": 423,
       "attitudes_count": 1038
+    },
+    {
+      "id": "5326340637067421",
+      "bid": "Rb3eTtEyF",
+      "created_at": "Thu Jul 30 11:27:09 +0800 2026",
+      "text_excerpt": "这种很明显的创业板还会跌，科技还会跌就替机构喊接盘侠。你去看看，所有指数年线二周前全部阴了只有创业板是红的，可能不跌吗？今天如期收阴！这么简单的事情都看不懂还付费订阅？还第一大V？还有脸每天直播？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 59,
+      "attitudes_count": 148
+    },
+    {
+      "id": "5326339168274688",
+      "bid": "Rb3cwyICI",
+      "created_at": "Thu Jul 30 11:21:19 +0800 2026",
+      "text_excerpt": "创业板对应的就是科技，估计昨天又害了一批人，替机构服务。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 94,
+      "attitudes_count": 227
+    },
+    {
+      "id": "5326338783448673",
+      "bid": "Rb3bUet9L",
+      "created_at": "Thu Jul 30 11:19:47 +0800 2026",
+      "text_excerpt": "知道昨天微博为什么骂那个每月收费百万的抠脚大汉了吧？——创业板今天大跌！ ",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 114,
+      "attitudes_count": 266
     },
     {
       "id": "5323668322256343",
@@ -2688,6 +2724,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-29 16:00:16 UTC+8 (SCF)",
-  "total_count": 223
+  "last_updated": "2026-07-30 03:30:22 UTC+8 (SCF)",
+  "total_count": 226
 }
