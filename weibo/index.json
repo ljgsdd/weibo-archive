@@ -2568,6 +2568,18 @@
       "attitudes_count": 1048
     },
     {
+      "id": "5326785845662570",
+      "bid": "RbeOYnL5M",
+      "created_at": "Fri Jul 31 16:56:15 +0800 2026",
+      "text_excerpt": "你去杭州，只要会编，一步一景都是传说。<br />你去西安，需要文化，一砖一瓦都是历史。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 76,
+      "attitudes_count": 148
+    },
+    {
       "id": "5324315785694377",
       "bid": "Racz0nTmN",
       "created_at": "Fri Jul 24 21:21:07 +0800 2026",
@@ -2880,6 +2892,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-07-30 15:30:20 UTC+8 (SCF)",
-  "total_count": 239
+  "last_updated": "2026-07-31 09:00:18 UTC+8 (SCF)",
+  "total_count": 240
 }
