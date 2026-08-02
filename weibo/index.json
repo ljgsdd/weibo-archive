@@ -1884,6 +1884,18 @@
       "attitudes_count": 812
     },
     {
+      "id": "5327589423978395",
+      "bid": "RbzJ4gGXF",
+      "created_at": "Sun Aug 02 22:09:23 +0800 2026",
+      "text_excerpt": "千条许愿，大到世界和平、祖国统一，小到找回猫狗脚癣止痒。令人意外的是，半数以上不为自己，近乎半数从未露面。<br />傍晚彩虹，随手一拍。这是光对雨滴的和解，更是天对祈愿的回礼！ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 209,
+      "attitudes_count": 415
+    },
+    {
       "id": "5327282354783612",
       "bid": "RbrJNk4r2",
       "created_at": "Sun Aug 02 01:49:12 +0800 2026",
@@ -2928,6 +2940,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-01 18:00:15 UTC+8 (SCF)",
-  "total_count": 243
+  "last_updated": "2026-08-02 14:30:20 UTC+8 (SCF)",
+  "total_count": 244
 }
