@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4143,
+    "statuses_count": 4147,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1138,6 +1138,30 @@
       "reposts_count": 0,
       "comments_count": 83,
       "attitudes_count": 179
+    },
+    {
+      "id": "5327996881732012",
+      "bid": "RbKkg7gzG",
+      "created_at": "Tue Aug 04 01:08:29 +0800 2026",
+      "text_excerpt": "7.3号—“港股A股接下去不再同步”！<br />23150见底，连涨五周……<br />一个月之前的预判，也是神了！<br />回过头去看，这里的每条微博都是价值连城，但大多数人当初都是一扫而过。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 204,
+      "attitudes_count": 775
+    },
+    {
+      "id": "5327989103660069",
+      "bid": "RbK7Ifm9n",
+      "created_at": "Tue Aug 04 00:37:34 +0800 2026",
+      "text_excerpt": "八月首日，各大指数全部下跌，超百股涨幅10%以上，4000多个股上涨！<br />这种个股表现放在以前，上证需涨1%以上，创业板需涨2%以上！<br />都看不懂了吧各路大V<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; heigh",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 195,
+      "attitudes_count": 685
     },
     {
       "id": "5303570289131976",
@@ -2580,6 +2604,30 @@
       "attitudes_count": 471
     },
     {
+      "id": "5327829781711701",
+      "bid": "RbFYK7bi5",
+      "created_at": "Mon Aug 03 14:04:29 +0800 2026",
+      "text_excerpt": "那天，几号？好羡慕“今年不见”这几个字，那时候人少，互动也少。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 318,
+      "attitudes_count": 897
+    },
+    {
+      "id": "5327821182343940",
+      "bid": "RbFKS9PLu",
+      "created_at": "Mon Aug 03 13:30:19 +0800 2026",
+      "text_excerpt": "有人说股市目前是下跌调整阶段？那为啥一大批个股连续反弹三四周了！<br />有人说股市目前是底部上涨阶段？那为啥一大批个股连续下跌四五周了！<br />不存在什么子虚乌有的波浪调整，更没有那些线画出来的ABC结构，全是瞎扯蛋！如果股市有如数理化逻辑推理模式，清北985不都在股市发财了？事实是一个也没有。<br />信 ...<a href=\"/status/5327821182343940\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 5,
+      "comments_count": 386,
+      "attitudes_count": 1028
+    },
+    {
       "id": "5278333739738047",
       "bid": "QwROJERjh",
       "created_at": "Fri Mar 20 00:04:53 +0800 2026",
@@ -2940,6 +2988,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-02 14:30:20 UTC+8 (SCF)",
-  "total_count": 244
+  "last_updated": "2026-08-05 00:55:56 UTC+8 (SCF)",
+  "total_count": 248
 }
