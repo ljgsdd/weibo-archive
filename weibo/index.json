@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4147,
+    "statuses_count": 4148,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1728,6 +1728,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5328714478915002",
+      "bid": "Rc2ZFBpcm",
+      "created_at": "Thu Aug 06 00:39:57 +0800 2026",
+      "text_excerpt": "走近过，才可以写出这样的文字。四年来，却被网络上无数次的抄袭…… <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwx2.sinaimg.cn%2Flarge%2F3bc1f9cdgy1iftfh6o4q4j20gs0u0q56.jpg\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sin",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 56,
+      "attitudes_count": 104
+    },
+    {
       "id": "5288291677244272",
       "bid": "QB2RVuoz6",
       "created_at": "Thu Apr 16 11:34:10 +0800 2026",
@@ -2988,6 +3000,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-05 00:55:56 UTC+8 (SCF)",
-  "total_count": 248
+  "last_updated": "2026-08-05 17:00:22 UTC+8 (SCF)",
+  "total_count": 249
 }
