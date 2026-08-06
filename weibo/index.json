@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4150,
+    "statuses_count": 4149,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2988,6 +2988,18 @@
       "attitudes_count": 0
     },
     {
+      "id": "5329078135555751",
+      "bid": "RccsdnjiT",
+      "created_at": "Fri Aug 07 00:45:00 +0800 2026",
+      "text_excerpt": "一年多前微博早就定性，只不过是一场资本游戏，从那次春晚开始。从7.31号长鑫成就数百亿万富豪，再到这次机器人，还有后面上市的Deepseek，所有的IPO融资额，最后都由全体散户买单，这个社会正在把中产阶层的财富快速收割，迅速集中到资本阶层！正如一个上市公司董事所言：中国不缺赌徒，不缺送钱的韭 ...<a href=\"/status/5329078135555751\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 80
+    },
+    {
       "id": "5329070089047422",
       "bid": "RccfeBXEa",
       "created_at": "Fri Aug 07 00:13:01 +0800 2026",
@@ -3036,6 +3048,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-06 16:30:16 UTC+8 (SCF)",
-  "total_count": 252
+  "last_updated": "2026-08-06 17:00:22 UTC+8 (SCF)",
+  "total_count": 253
 }
