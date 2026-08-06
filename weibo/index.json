@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.7万",
     "follow_count": 0,
-    "statuses_count": 4148,
+    "statuses_count": 4150,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2988,6 +2988,30 @@
       "attitudes_count": 0
     },
     {
+      "id": "5329070089047422",
+      "bid": "RccfeBXEa",
+      "created_at": "Fri Aug 07 00:13:01 +0800 2026",
+      "text_excerpt": "有空给大家写一篇〈当今市场上大平层销售隐藏的几大陷阱〉，绝对首创，估计会打击一大片。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 52,
+      "attitudes_count": 86
+    },
+    {
+      "id": "5329068027549514",
+      "bid": "RccbUvFYm",
+      "created_at": "Fri Aug 07 00:04:50 +0800 2026",
+      "text_excerpt": "四年多前没人关注的微博，如今每一条都成了现实！ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 66,
+      "attitudes_count": 142
+    },
+    {
       "id": "5286116619453212",
       "bid": "QA8hLDFda",
       "created_at": "Fri Apr 10 11:31:16 +0800 2026",
@@ -3012,6 +3036,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-06 16:00:26 UTC+8 (SCF)",
-  "total_count": 250
+  "last_updated": "2026-08-06 16:30:16 UTC+8 (SCF)",
+  "total_count": 252
 }
