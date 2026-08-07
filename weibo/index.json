@@ -3,7 +3,7 @@
     "id": 1002568141,
     "screen_name": "菩提树下那道光",
     "description": "",
-    "followers_count": "14.7万",
+    "followers_count": "14.8万",
     "follow_count": 0,
     "statuses_count": 4149,
     "verified": false,
@@ -2988,6 +2988,18 @@
       "attitudes_count": 0
     },
     {
+      "id": "5329247645993699",
+      "bid": "RcgRCp9ez",
+      "created_at": "Fri Aug 07 11:58:34 +0800 2026",
+      "text_excerpt": "23年底，上证指数3000点微博指出，来一次牛市又何妨？来点泡沫又何妨？在经济下行周期，股市是唯一可以缓解风险的金融工具！消费不能靠刺激，不是有钱不敢花，是没钱没法花，是医疗、教育、养老没保障不能花。<br />相信顶层也意识到了这点，24年如期启动牛市，从中长远看，2035年是周期末端，也希望能让中 ...<a href=\"/status/5329247645993699\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 70,
+      "attitudes_count": 145
+    },
+    {
       "id": "5329078135555751",
       "bid": "RccsdnjiT",
       "created_at": "Fri Aug 07 00:45:00 +0800 2026",
@@ -3048,6 +3060,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-06 17:00:22 UTC+8 (SCF)",
-  "total_count": 253
+  "last_updated": "2026-08-07 04:02:31 UTC+8 (SCF)",
+  "total_count": 254
 }
