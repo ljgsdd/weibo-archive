@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4150,
+    "statuses_count": 4151,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1932,6 +1932,18 @@
       "attitudes_count": 812
     },
     {
+      "id": "5329819384154209",
+      "bid": "RcvJMhqHn",
+      "created_at": "Sun Aug 09 01:50:27 +0800 2026",
+      "text_excerpt": "小时候的夏夜，总是把四仙桌拖到院子，爬上去四脚朝天一躺，看着萤火虫绕着昏暗的电灯泡，转啊转，墙上还会趴只壁虎，偷吃蜘蛛网上挂满的蚊子。<br />池塘边的蛙声和一片不成谱的虫鸣声，谱成农村炎热又黑暗的夜曲。大人们这时还在田间剥洛麻，白天拔完堆在一起，趁夜里凉快点，一条长凳，一副手套，长凳的 ...<a href=\"/status/5329819384154209\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 22,
+      "attitudes_count": 31
+    },
+    {
       "id": "5327589423978395",
       "bid": "RbzJ4gGXF",
       "created_at": "Sun Aug 02 22:09:23 +0800 2026",
@@ -3072,6 +3084,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-08 07:30:13 UTC+8 (SCF)",
-  "total_count": 255
+  "last_updated": "2026-08-08 18:00:15 UTC+8 (SCF)",
+  "total_count": 256
 }
