@@ -2664,6 +2664,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5330377720991737",
+      "bid": "RcKgk49ZL",
+      "created_at": "Mon Aug 10 14:49:05 +0800 2026",
+      "text_excerpt": "谁把评论区那条删了？平台吞了不过200多人看到了也可以了。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 81,
+      "attitudes_count": 234
+    },
+    {
       "id": "5330334164191838",
       "bid": "RcJ84hAui",
       "created_at": "Mon Aug 10 11:56:00 +0800 2026",
@@ -3144,6 +3156,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-10 04:00:16 UTC+8 (SCF)",
-  "total_count": 261
+  "last_updated": "2026-08-10 07:00:13 UTC+8 (SCF)",
+  "total_count": 262
 }
