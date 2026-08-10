@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4154,
+    "statuses_count": 4153,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2664,6 +2664,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5330334164191838",
+      "bid": "RcJ84hAui",
+      "created_at": "Mon Aug 10 11:56:00 +0800 2026",
+      "text_excerpt": "举个例子，目前个股不要去看涨幅前列的股票，反过来去寻找，大家知不知道有个45日线图？短线早盘涨停，开会没看到，下午卖了。短线可以参照这方法。这不是P的吧有键盘呢 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 42,
+      "attitudes_count": 101
+    },
+    {
       "id": "5330326920364174",
       "bid": "RcIWo1wJM",
       "created_at": "Mon Aug 10 11:27:12 +0800 2026",
@@ -3132,6 +3144,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-10 03:30:17 UTC+8 (SCF)",
-  "total_count": 260
+  "last_updated": "2026-08-10 04:00:16 UTC+8 (SCF)",
+  "total_count": 261
 }
