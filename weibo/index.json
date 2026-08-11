@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4154,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1138,6 +1138,54 @@
       "reposts_count": 0,
       "comments_count": 83,
       "attitudes_count": 179
+    },
+    {
+      "id": "5330692833542540",
+      "bid": "RcSszeRzK",
+      "created_at": "Tue Aug 11 11:41:13 +0800 2026",
+      "text_excerpt": "可是他们戴着墨镜🕶️摇着扇子又回来了……//<a href='/n/忆汝七年'>@忆汝七年</a>:其实可以不说了，这几年大部分人应该都回本了",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 61,
+      "attitudes_count": 151
+    },
+    {
+      "id": "5330692277014745",
+      "bid": "RcSrFtqR3",
+      "created_at": "Tue Aug 11 11:39:01 +0800 2026",
+      "text_excerpt": "花钱买V是你的权力，不说股市是我的自由。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 76,
+      "attitudes_count": 199
+    },
+    {
+      "id": "5330691363440197",
+      "bid": "RcSqceqX3",
+      "created_at": "Tue Aug 11 11:35:23 +0800 2026",
+      "text_excerpt": "又有人偷偷给我买了VIP……我的号没有花过一分钱买平台VIP，都是粉丝送的！我才不给微博呢还不如买块烧饼吃有营养 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 66,
+      "attitudes_count": 204
+    },
+    {
+      "id": "5330690327710298",
+      "bid": "RcSowwlNE",
+      "created_at": "Tue Aug 11 11:31:16 +0800 2026",
+      "text_excerpt": "要看凌晨微博这就是。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 78,
+      "attitudes_count": 229
     },
     {
       "id": "5330688892994109",
@@ -3180,6 +3228,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-11 03:30:17 UTC+8 (SCF)",
-  "total_count": 264
+  "last_updated": "2026-08-11 04:00:19 UTC+8 (SCF)",
+  "total_count": 268
 }
