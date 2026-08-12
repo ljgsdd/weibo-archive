@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4158,
+    "statuses_count": 4155,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -610,6 +610,18 @@
       "reposts_count": 20,
       "comments_count": 959,
       "attitudes_count": 2283
+    },
+    {
+      "id": "5331164575302996",
+      "bid": "Rd4Jrmfyc",
+      "created_at": "Wed Aug 12 18:55:46 +0800 2026",
+      "text_excerpt": "记忆犹新：他做总理的那年，我做总经理，敢作敢为开启时代新篇章。<br />令人尊敬的领导<span class=\"url-icon\"><img alt=\"[祈祷]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/2025_pray_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 64,
+      "attitudes_count": 135
     },
     {
       "id": "5331151305577982",
@@ -3348,6 +3360,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-12 10:30:15 UTC+8 (SCF)",
-  "total_count": 278
+  "last_updated": "2026-08-12 11:00:16 UTC+8 (SCF)",
+  "total_count": 279
 }
