@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4155,
+    "statuses_count": 4157,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -610,6 +610,30 @@
       "reposts_count": 20,
       "comments_count": 959,
       "attitudes_count": 2283
+    },
+    {
+      "id": "5331147997318608",
+      "bid": "Rd4iHuHU4",
+      "created_at": "Wed Aug 12 17:49:53 +0800 2026",
+      "text_excerpt": "93.95岁的父母向我展示这三天夫妻俩念的佛经<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"htt",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 100,
+      "attitudes_count": 190
+    },
+    {
+      "id": "5331145682061331",
+      "bid": "Rd4eY8Efh",
+      "created_at": "Wed Aug 12 17:40:41 +0800 2026",
+      "text_excerpt": "53度的比矿泉水还多，38度你去找一瓶看看？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"http",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 57,
+      "attitudes_count": 143
     },
     {
       "id": "5331142129747383",
@@ -3312,6 +3336,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-12 09:30:18 UTC+8 (SCF)",
-  "total_count": 275
+  "last_updated": "2026-08-12 10:00:18 UTC+8 (SCF)",
+  "total_count": 277
 }
