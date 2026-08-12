@@ -612,6 +612,30 @@
       "attitudes_count": 2283
     },
     {
+      "id": "5331044406134637",
+      "bid": "Rd1BCpJTL",
+      "created_at": "Wed Aug 12 10:58:15 +0800 2026",
+      "text_excerpt": "很多人说那么离谱为啥还有那么多人看？还有人去付费中金会员群和付费订阅？其实这正是我们值得庆幸的地方：弱智越多，你的机会越多。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 45,
+      "attitudes_count": 98
+    },
+    {
+      "id": "5331042409644606",
+      "bid": "Rd1yoEt0a",
+      "created_at": "Wed Aug 12 10:50:19 +0800 2026",
+      "text_excerpt": "<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 120,
+      "attitudes_count": 254
+    },
+    {
       "id": "5285345455246715",
       "bid": "QzOdXm0Ur",
       "created_at": "Wed Apr 08 08:26:56 +0800 2026",
@@ -3264,6 +3288,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-11 09:00:19 UTC+8 (SCF)",
-  "total_count": 271
+  "last_updated": "2026-08-12 03:00:15 UTC+8 (SCF)",
+  "total_count": 273
 }
