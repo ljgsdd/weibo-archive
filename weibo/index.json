@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4155,
+    "statuses_count": 4156,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1932,6 +1932,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5331255916759212",
+      "bid": "Rd76Lsmny",
+      "created_at": "Thu Aug 13 00:58:43 +0800 2026",
+      "text_excerpt": "近几年我们发现，很多大型的商场倒闭，商铺关门更是数不胜数。很多人认为，这是网购、直播带来的影响，把一切罪源归之于互联网。<br />这是老百姓普遍的看法。但回过头看一下，各个城市目前的商业体如华润万象，印象城，SKP等还是如火如荼，难道他们就没有收到互联网影响？非也！其实，除了大家都看到的表象 ...<a href=\"/status/5331255916759212\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 7,
+      "attitudes_count": 19
+    },
+    {
       "id": "5329066179953768",
       "bid": "Rcc8VFLqE",
       "created_at": "Thu Aug 06 23:57:29 +0800 2026",
@@ -3360,6 +3372,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-12 11:00:16 UTC+8 (SCF)",
-  "total_count": 279
+  "last_updated": "2026-08-12 17:00:19 UTC+8 (SCF)",
+  "total_count": 280
 }
