@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4155,
+    "statuses_count": 4154,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -610,6 +610,18 @@
       "reposts_count": 20,
       "comments_count": 959,
       "attitudes_count": 2283
+    },
+    {
+      "id": "5331082792931883",
+      "bid": "Rd2BxciIr",
+      "created_at": "Wed Aug 12 13:30:47 +0800 2026",
+      "text_excerpt": "一年之前，微博会提前预判板块并明确提出，现在里三层外三层人太多嘈杂了。老粉还记得那次提前提出的医药生物吗？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 148,
+      "attitudes_count": 387
     },
     {
       "id": "5331044406134637",
@@ -3288,6 +3300,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-12 03:00:15 UTC+8 (SCF)",
-  "total_count": 273
+  "last_updated": "2026-08-12 06:00:12 UTC+8 (SCF)",
+  "total_count": 274
 }
