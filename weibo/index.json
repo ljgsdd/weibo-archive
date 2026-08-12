@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4154,
+    "statuses_count": 4155,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -610,6 +610,18 @@
       "reposts_count": 20,
       "comments_count": 959,
       "attitudes_count": 2283
+    },
+    {
+      "id": "5331142129747383",
+      "bid": "Rd49eETJR",
+      "created_at": "Wed Aug 12 17:26:34 +0800 2026",
+      "text_excerpt": "今日晚餐：2个关中馍，2杯38度酒。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 77,
+      "attitudes_count": 125
     },
     {
       "id": "5331082792931883",
@@ -3300,6 +3312,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-12 06:00:12 UTC+8 (SCF)",
-  "total_count": 274
+  "last_updated": "2026-08-12 09:30:18 UTC+8 (SCF)",
+  "total_count": 275
 }
