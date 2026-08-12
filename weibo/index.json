@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4157,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -610,6 +610,18 @@
       "reposts_count": 20,
       "comments_count": 959,
       "attitudes_count": 2283
+    },
+    {
+      "id": "5331151305577982",
+      "bid": "Rd4o2np5s",
+      "created_at": "Wed Aug 12 18:03:02 +0800 2026",
+      "text_excerpt": "父亲每天早上打拳晨练地，我刚冲洗了一下，验收一下干净了吗？ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 95,
+      "attitudes_count": 235
     },
     {
       "id": "5331147997318608",
@@ -3336,6 +3348,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-12 10:00:18 UTC+8 (SCF)",
-  "total_count": 277
+  "last_updated": "2026-08-12 10:30:15 UTC+8 (SCF)",
+  "total_count": 278
 }
