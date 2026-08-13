@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4161,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1932,6 +1932,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5331465682028495",
+      "bid": "Rdcz68vHF",
+      "created_at": "Thu Aug 13 14:52:15 +0800 2026",
+      "text_excerpt": "都删了，你的评论不会白写，我都一扫而过过目不忘<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 147,
+      "attitudes_count": 287
+    },
+    {
       "id": "5331457675625747",
       "bid": "RdcmbnBvR",
       "created_at": "Thu Aug 13 14:20:26 +0800 2026",
@@ -3432,6 +3444,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-13 06:30:17 UTC+8 (SCF)",
-  "total_count": 285
+  "last_updated": "2026-08-13 07:00:19 UTC+8 (SCF)",
+  "total_count": 286
 }
