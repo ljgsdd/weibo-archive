@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4159,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3444,6 +3444,18 @@
       "attitudes_count": 0
     },
     {
+      "id": "5331616353225851",
+      "bid": "Rdgu7dxbR",
+      "created_at": "Fri Aug 14 00:50:58 +0800 2026",
+      "text_excerpt": "健身房一老头，经常来看我打斯诺克，一头白发看起来比我大十几岁，昨夜聊天才知道他居然跟我同岁！他说他以前做物流，最多的时候有三佰多辆物流车，后来被冤枉关了几个月，出来后就把企业解散了，现在剩下60多辆车跑路，每辆车产值是十年前的一半。我问为啥？答：先是信心被打压了，如今是企业没货可拉 ...<a href=\"/status/5331616353225851\">全文</a>",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 26,
+      "attitudes_count": 42
+    },
+    {
       "id": "5331610846105543",
       "bid": "RdglepCkv",
       "created_at": "Fri Aug 14 00:29:05 +0800 2026",
@@ -3552,6 +3564,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-13 16:30:21 UTC+8 (SCF)",
-  "total_count": 295
+  "last_updated": "2026-08-13 17:00:18 UTC+8 (SCF)",
+  "total_count": 296
 }
