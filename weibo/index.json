@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4161,
+    "statuses_count": 4159,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1932,6 +1932,30 @@
       "attitudes_count": 41
     },
     {
+      "id": "5331545210487623",
+      "bid": "RdeDn22QT",
+      "created_at": "Thu Aug 13 20:08:16 +0800 2026",
+      "text_excerpt": "我非常奇怪，为啥网络用词都是小日子？不能还是不敢？小日本小日本小日本……咋了？？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 130,
+      "attitudes_count": 209
+    },
+    {
+      "id": "5331543893740926",
+      "bid": "RdeBffHbw",
+      "created_at": "Thu Aug 13 20:03:02 +0800 2026",
+      "text_excerpt": "下雨天，淋湿的幡只露出了“神机妙”三字，天色已暗，走出熙攘的人群，我准备打道回府了。讨生活不易啊。<br />打开日历看看明天去那条街合适，发现初三是小日本投降日，掐指一算，初二涨！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 163,
+      "attitudes_count": 344
+    },
+    {
       "id": "5331504336213933",
       "bid": "Rddzrq4wJ",
       "created_at": "Thu Aug 13 17:25:51 +0800 2026",
@@ -3492,6 +3516,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-13 09:30:25 UTC+8 (SCF)",
-  "total_count": 290
+  "last_updated": "2026-08-13 12:30:15 UTC+8 (SCF)",
+  "total_count": 292
 }
