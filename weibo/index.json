@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4158,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1932,6 +1932,42 @@
       "attitudes_count": 41
     },
     {
+      "id": "5331504336213933",
+      "bid": "Rddzrq4wJ",
+      "created_at": "Thu Aug 13 17:25:51 +0800 2026",
+      "text_excerpt": "人啊有时候不能过于算计，否则最后必定反噬算计到自己，待人、处事、处世皆如此，一切随心所愿，善意面对。<br />比如很多人现在舍不得6元助威慈善，想反正不拿出来也可以看。突然有一天我开通2千一月订阅，关闭助威通道，宣布真爱粉全部对折，啊呀啊呀了啦<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 94,
+      "attitudes_count": 154
+    },
+    {
+      "id": "5331498737862448",
+      "bid": "RddqpwZnG",
+      "created_at": "Thu Aug 13 17:03:36 +0800 2026",
+      "text_excerpt": "微博里的每一个字，全部是手机用大拇指抠出来的，没有一个字是电脑打出来的！！就凭这点，你该如何表示一下？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-ic",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 108,
+      "attitudes_count": 231
+    },
+    {
+      "id": "5331497961654677",
+      "bid": "Rddpa6Wsl",
+      "created_at": "Thu Aug 13 17:00:31 +0800 2026",
+      "text_excerpt": "七月初二4200红，大拇指点错字了难为情😅//<a href='/n/红红火火www999'>@红红火火www999</a>:四月初二 4200红盘<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></s",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 4,
+      "comments_count": 103,
+      "attitudes_count": 233
+    },
+    {
       "id": "5331496607154587",
       "bid": "RddmYu1ez",
       "created_at": "Thu Aug 13 16:55:07 +0800 2026",
@@ -3456,6 +3492,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-13 09:00:15 UTC+8 (SCF)",
-  "total_count": 287
+  "last_updated": "2026-08-13 09:30:25 UTC+8 (SCF)",
+  "total_count": 290
 }
