@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4157,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1932,6 +1932,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5331451156368844",
+      "bid": "RdcbFqIPi",
+      "created_at": "Thu Aug 13 13:54:32 +0800 2026",
+      "text_excerpt": "从互动数可以非常直观看出，股民对信息的选择性吸收，也可以说非常直接地体现出自私性。我想从此往后此类首创文章，都执行付费订阅，什么经济学家，首席分析师谁能写的出来？你看到过吗？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; heigh",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 122,
+      "attitudes_count": 262
+    },
+    {
       "id": "5331275604558001",
       "bid": "Rd7Cwj7K9",
       "created_at": "Thu Aug 13 02:16:56 +0800 2026",
@@ -3384,6 +3396,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-12 18:30:12 UTC+8 (SCF)",
-  "total_count": 281
+  "last_updated": "2026-08-13 06:00:20 UTC+8 (SCF)",
+  "total_count": 282
 }
