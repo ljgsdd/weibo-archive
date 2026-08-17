@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4159,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3024,6 +3024,42 @@
       "attitudes_count": 471
     },
     {
+      "id": "5332916811075752",
+      "bid": "RdOjD4vQQ",
+      "created_at": "Mon Aug 17 14:58:31 +0800 2026",
+      "text_excerpt": "拉黑吗？//<a href='/n/MEliuHvvvv'>@MEliuHvvvv</a>:来了个有会员的//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:那你就五成减到2成啊，前段时候人家说C杀时这里让大家五成以上！//<a href='/n/cylvie123456'>@cylvie123456</a>:俊哥，荔枝从2成加到5成了。//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:2035，如果你相信中国资本市场的未来，或者你坚",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 2,
+      "attitudes_count": 6
+    },
+    {
+      "id": "5332916228064071",
+      "bid": "RdOiGxPPF",
+      "created_at": "Mon Aug 17 14:56:12 +0800 2026",
+      "text_excerpt": "那你就五成减到2成啊，前段时候人家说C杀时这里让大家五成以上！//<a href='/n/cylvie123456'>@cylvie123456</a>:俊哥，荔枝从2成加到5成了。//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:2035，如果你相信中国资本市场的未来，或者你坚信这一道穿越者的光，那你就不会再纠结每天的涨跌，不会再惆怅曾经的过去，不会在彷徨今天的自己。向着光，那是天亮的方向。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 26,
+      "attitudes_count": 58
+    },
+    {
+      "id": "5332913472146544",
+      "bid": "RdOef90pG",
+      "created_at": "Mon Aug 17 14:45:15 +0800 2026",
+      "text_excerpt": "2035，如果你相信中国资本市场的未来，或者你坚信这一道穿越者的光，那你就不会再纠结每天的涨跌，不会再惆怅曾经的过去，不会在彷徨今天的自己。向着光，那是天亮的方向。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 141,
+      "attitudes_count": 279
+    },
+    {
       "id": "5332902088803485",
       "bid": "RdNVSAWbH",
       "created_at": "Mon Aug 17 14:00:01 +0800 2026",
@@ -3588,6 +3624,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-17 06:00:19 UTC+8 (SCF)",
-  "total_count": 298
+  "last_updated": "2026-08-17 07:00:23 UTC+8 (SCF)",
+  "total_count": 301
 }
