@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4158,
+    "statuses_count": 4159,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3024,6 +3024,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5332902088803485",
+      "bid": "RdNVSAWbH",
+      "created_at": "Mon Aug 17 14:00:01 +0800 2026",
+      "text_excerpt": "当大V们从一二成模拟仓加到5成时，你跑就对了。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 0
+    },
+    {
       "id": "5332891044151686",
       "bid": "RdNE4hq2G",
       "created_at": "Mon Aug 17 13:16:08 +0800 2026",
@@ -3576,6 +3588,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-17 05:30:15 UTC+8 (SCF)",
-  "total_count": 297
+  "last_updated": "2026-08-17 06:00:19 UTC+8 (SCF)",
+  "total_count": 298
 }
