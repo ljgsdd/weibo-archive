@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4161,
+    "statuses_count": 4160,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3024,6 +3024,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5332921068291284",
+      "bid": "RdOquyMWo",
+      "created_at": "Mon Aug 17 15:15:26 +0800 2026",
+      "text_excerpt": "4200股涨，迟到一天，机会难得拉高嗓门喷一下<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 130,
+      "attitudes_count": 318
+    },
+    {
       "id": "5332916811075752",
       "bid": "RdOjD4vQQ",
       "created_at": "Mon Aug 17 14:58:31 +0800 2026",
@@ -3624,6 +3636,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-17 07:00:23 UTC+8 (SCF)",
-  "total_count": 301
+  "last_updated": "2026-08-17 07:30:19 UTC+8 (SCF)",
+  "total_count": 302
 }
