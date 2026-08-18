@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4162,
+    "statuses_count": 4163,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1234,6 +1234,42 @@
       "reposts_count": 0,
       "comments_count": 83,
       "attitudes_count": 179
+    },
+    {
+      "id": "5333415113269734",
+      "bid": "Re1hldIBE",
+      "created_at": "Tue Aug 18 23:58:36 +0800 2026",
+      "text_excerpt": "写文章，北大中文系的不一定写得过我，硬笔书法更牛逼<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/唯愿做一抹阳光'>@唯愿做一抹阳光</a>:说实话现在都读不进",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 14,
+      "attitudes_count": 41
+    },
+    {
+      "id": "5333414258416968",
+      "bid": "Re1fXzjDy",
+      "created_at": "Tue Aug 18 23:55:12 +0800 2026",
+      "text_excerpt": "我跟你赌6元的，还停留在石器时代的思路//<a href='/n/小小猴飞奔吧'>@小小猴飞奔吧</a>:俊哥，美股大跌啦，明天要大跌啦//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:平时的微博放着几天也就二三百人互动，一个“全体都有”不到半小时过千人！真是唯利是图，皆为利来啊<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expressi",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 39,
+      "attitudes_count": 81
+    },
+    {
+      "id": "5333413197256719",
+      "bid": "Re1efurNR",
+      "created_at": "Tue Aug 18 23:50:59 +0800 2026",
+      "text_excerpt": "平时的微博放着几天也就二三百人互动，一个“全体都有”不到半小时过千人！真是唯利是图，皆为利来啊<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>殊不知长文皆是无价宝，全体都有纯废话，这是一",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 69,
+      "attitudes_count": 143
     },
     {
       "id": "5333322408135232",
@@ -3732,6 +3768,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-18 10:00:13 UTC+8 (SCF)",
-  "total_count": 310
+  "last_updated": "2026-08-18 16:00:30 UTC+8 (SCF)",
+  "total_count": 313
 }
