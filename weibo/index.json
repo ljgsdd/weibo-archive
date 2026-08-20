@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2100,6 +2100,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5333950694428151",
+      "bid": "RefdbizXN",
+      "created_at": "Thu Aug 20 11:26:48 +0800 2026",
+      "text_excerpt": "雨中飘荡的回忆。//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:我喜欢雨天，而且喜欢淋雨。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 101
+    },
+    {
       "id": "5333938639997781",
       "bid": "ReeTJFWSx",
       "created_at": "Thu Aug 20 10:38:54 +0800 2026",
@@ -3840,6 +3852,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-20 03:00:13 UTC+8 (SCF)",
-  "total_count": 319
+  "last_updated": "2026-08-20 03:30:13 UTC+8 (SCF)",
+  "total_count": 320
 }
