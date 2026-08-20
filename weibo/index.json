@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4164,
+    "statuses_count": 4166,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2100,6 +2100,54 @@
       "attitudes_count": 41
     },
     {
+      "id": "5333964581507030",
+      "bid": "RefzA6k2W",
+      "created_at": "Thu Aug 20 12:21:59 +0800 2026",
+      "text_excerpt": "回答：缺点就是至今没有女朋友，因为我想事业有成。//<a href='/n/散帅_离离原_草'>@散帅_离离原_草</a>:请问，如果面试官问:你有什么缺点，如何回答？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 70,
+      "attitudes_count": 114
+    },
+    {
+      "id": "5333963091478353",
+      "bid": "Refxb6cAp",
+      "created_at": "Thu Aug 20 12:16:04 +0800 2026",
+      "text_excerpt": "应聘非常讲究技巧，这里没有应届生吧？不然我会分享应聘者的一些建议和看法 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 90,
+      "attitudes_count": 180
+    },
+    {
+      "id": "5333962238991433",
+      "bid": "RefvNBJ57",
+      "created_at": "Thu Aug 20 12:12:41 +0800 2026",
+      "text_excerpt": "我不觉得。我面试过清北毕业的不少于几十个了，没一个被录取。//<a href='/n/这就是砖车接送'>@这就是砖车接送</a>:不过学历高些还是有优势",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 47,
+      "attitudes_count": 111
+    },
+    {
+      "id": "5333961204826516",
+      "bid": "Refu8kfB2",
+      "created_at": "Thu Aug 20 12:08:34 +0800 2026",
+      "text_excerpt": "所以呀现在985.211毕业的学生，没什么可高傲的，更没必要为找不到工作或者选不好工作而烦恼，工作遍地都是，只是你愿不愿意俯下身去感受。学历在你毕业的那天起，就启动失效模式。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 69,
+      "attitudes_count": 233
+    },
+    {
       "id": "5333958688508837",
       "bid": "Refq4zHxj",
       "created_at": "Thu Aug 20 11:58:34 +0800 2026",
@@ -3888,6 +3936,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-20 04:00:20 UTC+8 (SCF)",
-  "total_count": 323
+  "last_updated": "2026-08-20 04:30:20 UTC+8 (SCF)",
+  "total_count": 327
 }
