@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4161,
+    "statuses_count": 4164,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2100,6 +2100,42 @@
       "attitudes_count": 41
     },
     {
+      "id": "5333958688508837",
+      "bid": "Refq4zHxj",
+      "created_at": "Thu Aug 20 11:58:34 +0800 2026",
+      "text_excerpt": "我是你前辈<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>你边砌墙边炒股？//<a href='/n/Inke56525310_S'>@Inke56525310_S</a>:吃苦在前，享福",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 18,
+      "attitudes_count": 34
+    },
+    {
+      "id": "5333958277731403",
+      "bid": "Refppwri3",
+      "created_at": "Thu Aug 20 11:56:56 +0800 2026",
+      "text_excerpt": "我做的都是水泥厂房，因为水泥厂房在建筑中技术含量最高，建过水泥厂的再来建如今的高层建筑就像看做小学题一样。但水泥厂污染严重，所以都建在深山幽谷中，买包烟要走十里地//<a href='/n/东运dongyun'>@东运dongyun</a>:我在工地那会比俊哥好太多了//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:那时候的工地哪有今天民工如此暇意的宿舍，有热水有空调。我在...<a href=\"/status/5333958277731403\">全文<",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 27,
+      "attitudes_count": 51
+    },
+    {
+      "id": "5333955743581098",
+      "bid": "Reflkf1BE",
+      "created_at": "Thu Aug 20 11:46:52 +0800 2026",
+      "text_excerpt": "那时候的工地哪有今天民工如此暇意的宿舍，有热水有空调。我在工地做民工的时候，吃饭都在木板拼床上，喝水都是嘴对塑料管，拉💩蹲在附近草丛中，夜里下雨被子淋湿，蜷缩着冻醒……那是浙大毕业后的生活，你们有过这些经历吗？那几年，这辈子不忘，此生最珍贵。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 4,
+      "comments_count": 79,
+      "attitudes_count": 163
+    },
+    {
       "id": "5333950694428151",
       "bid": "RefdbizXN",
       "created_at": "Thu Aug 20 11:26:48 +0800 2026",
@@ -3852,6 +3888,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-20 03:30:13 UTC+8 (SCF)",
-  "total_count": 320
+  "last_updated": "2026-08-20 04:00:20 UTC+8 (SCF)",
+  "total_count": 323
 }
