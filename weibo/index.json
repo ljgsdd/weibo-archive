@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3828,6 +3828,18 @@
       "attitudes_count": 0
     },
     {
+      "id": "5334379599498907",
+      "bid": "ReqmXDR6b",
+      "created_at": "Fri Aug 21 15:51:07 +0800 2026",
+      "text_excerpt": "7月初预判港股A股接下去不再同步。这次A股上证收了二周震荡阴线，港股却光头大阳。<br />正是如此！<br />市场越来越扑朔迷离了。周末安好。 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 93,
+      "attitudes_count": 185
+    },
+    {
       "id": "5331616353225851",
       "bid": "Rdgu7dxbR",
       "created_at": "Fri Aug 14 00:50:58 +0800 2026",
@@ -3948,6 +3960,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-20 07:00:17 UTC+8 (SCF)",
-  "total_count": 328
+  "last_updated": "2026-08-21 08:00:16 UTC+8 (SCF)",
+  "total_count": 329
 }
