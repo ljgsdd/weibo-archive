@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2604,6 +2604,18 @@
       "attitudes_count": 812
     },
     {
+      "id": "5334890972973353",
+      "bid": "ReDFLctvj",
+      "created_at": "Sun Aug 23 01:43:08 +0800 2026",
+      "text_excerpt": "微博写过多次，拍一部电影，是我人生梦想中最后一个还未完成的目标。<br />目前大家去各影视平台，几乎找不到好片。除了神剧就是烂剧，当然这其中也有很多因素导致。一方面由于文化限流，欧美韩日等影片受到了一定程度上的限制。另一方面作为陶冶人们生活情操的电影，被某些人拿来当洗钱的工具。再则就是审核关种种限制。主要是这三方面导致了目前的影视作品粗制滥造，低俗乏味。<br />听说一部投资1600元的短剧<a  href=\"https://m.weibo.cn/search?conta",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 28,
+      "attitudes_count": 47
+    },
+    {
       "id": "5330138847778069",
       "bid": "RcE32wDqJ",
       "created_at": "Sun Aug 09 22:59:53 +0800 2026",
@@ -3972,6 +3984,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-21 10:00:23 UTC+8 (SCF)",
-  "total_count": 330
+  "last_updated": "2026-08-22 18:00:24 UTC+8 (SCF)",
+  "total_count": 331
 }
