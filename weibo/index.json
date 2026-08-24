@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4162,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3348,6 +3348,30 @@
       "attitudes_count": 471
     },
     {
+      "id": "5335572298336178",
+      "bid": "ReVoFyYCu",
+      "created_at": "Mon Aug 24 22:50:29 +0800 2026",
+      "text_excerpt": "这是天机，可频繁泄露？轻而易举问，殊不知背后的付出有多少？//<a href='/n/小叶随缘'>@小叶随缘</a>:九月是啥k呢俊哥<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 79,
+      "attitudes_count": 157
+    },
+    {
+      "id": "5335571031660919",
+      "bid": "ReVmD6Y51",
+      "created_at": "Mon Aug 24 22:45:27 +0800 2026",
+      "text_excerpt": "科学无法解释<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinaj",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 123,
+      "attitudes_count": 210
+    },
+    {
       "id": "5335451609334699",
       "bid": "ReSg0DanF",
       "created_at": "Mon Aug 24 14:50:54 +0800 2026",
@@ -4044,6 +4068,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-24 07:00:35 UTC+8 (SCF)",
-  "total_count": 336
+  "last_updated": "2026-08-24 15:00:26 UTC+8 (SCF)",
+  "total_count": 338
 }
