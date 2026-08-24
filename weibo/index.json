@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4162,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3348,6 +3348,30 @@
       "attitudes_count": 471
     },
     {
+      "id": "5335451609334699",
+      "bid": "ReSg0DanF",
+      "created_at": "Mon Aug 24 14:50:54 +0800 2026",
+      "text_excerpt": "八月，符合月初的预判。几乎是对照每一句话市场在运行，字字珠玑，句句价值千金。后面一周不要追高特别是市场在按期货逻辑进出的板块，包括贵金属，银行，集运欧线等，也会有反复，这是资金与其他各板块的博弈。这一点肯定没人会提出的。下午发博为了不再让下跌，点个赞吧<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_x",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 218,
+      "attitudes_count": 472
+    },
+    {
+      "id": "5335448282202243",
+      "bid": "ReSaE9eU3",
+      "created_at": "Mon Aug 24 14:37:40 +0800 2026",
+      "text_excerpt": "跌是不跌了，人是没有了！要是人气超过那些大V的话我会讲接下去的市场规律，但又不对人气太高的地方针对性主力屠杀<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 356,
+      "attitudes_count": 599
+    },
+    {
       "id": "5335442313709110",
       "bid": "ReS11fyUm",
       "created_at": "Mon Aug 24 14:13:58 +0800 2026",
@@ -4020,6 +4044,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-24 06:30:23 UTC+8 (SCF)",
-  "total_count": 334
+  "last_updated": "2026-08-24 07:00:35 UTC+8 (SCF)",
+  "total_count": 336
 }
