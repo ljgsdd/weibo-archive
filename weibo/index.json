@@ -3348,6 +3348,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5335442313709110",
+      "bid": "ReS11fyUm",
+      "created_at": "Mon Aug 24 14:13:58 +0800 2026",
+      "text_excerpt": "发下微博让它不再跌了！有一点是肯定的：你去关注那些人的直播和涨幅板块，亏钱百分百。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 131,
+      "attitudes_count": 342
+    },
+    {
       "id": "5335437965002737",
       "bid": "ReRU0kZrj",
       "created_at": "Mon Aug 24 13:56:41 +0800 2026",
@@ -4008,6 +4020,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-24 06:00:31 UTC+8 (SCF)",
-  "total_count": 333
+  "last_updated": "2026-08-24 06:30:23 UTC+8 (SCF)",
+  "total_count": 334
 }
