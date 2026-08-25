@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4161,
+    "statuses_count": 4157,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1270,6 +1270,18 @@
       "reposts_count": 0,
       "comments_count": 83,
       "attitudes_count": 179
+    },
+    {
+      "id": "5335774256171008",
+      "bid": "Rf0EppTmo",
+      "created_at": "Tue Aug 25 12:12:59 +0800 2026",
+      "text_excerpt": "微博现在自动显示“当年今日微博”，三年前今天预判印花税……查了下我自己也笑了<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 153,
+      "attitudes_count": 353
     },
     {
       "id": "5333415113269734",
@@ -4068,6 +4080,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-24 15:00:26 UTC+8 (SCF)",
-  "total_count": 338
+  "last_updated": "2026-08-25 05:19:53 UTC+8 (SCF)",
+  "total_count": 339
 }
