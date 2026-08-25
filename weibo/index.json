@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4159,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1270,6 +1270,18 @@
       "reposts_count": 0,
       "comments_count": 83,
       "attitudes_count": 179
+    },
+    {
+      "id": "5335833538463862",
+      "bid": "Rf2c1zvPU",
+      "created_at": "Tue Aug 25 16:08:33 +0800 2026",
+      "text_excerpt": "93岁的母亲骑着电瓶车赶20公里把99岁的姐姐接到家里，一起做饭吃。每周一趟，这是不是一种幸福？拍成视频又火了<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"ur",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 213,
+      "attitudes_count": 323
     },
     {
       "id": "5335813631509482",
@@ -4128,6 +4140,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-25 07:00:43 UTC+8 (SCF)",
-  "total_count": 343
+  "last_updated": "2026-08-25 08:30:27 UTC+8 (SCF)",
+  "total_count": 344
 }
