@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4157,
+    "statuses_count": 4159,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1270,6 +1270,30 @@
       "reposts_count": 0,
       "comments_count": 83,
       "attitudes_count": 179
+    },
+    {
+      "id": "5335808175509222",
+      "bid": "Rf1x7n7cq",
+      "created_at": "Tue Aug 25 14:27:46 +0800 2026",
+      "text_excerpt": "它代表的是一些个股，连续五周阳线了，哪来的装神弄鬼的ABC结构？天冷的时候它会有比较大的跌幅。我找找，找到画一下",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 45,
+      "attitudes_count": 101
+    },
+    {
+      "id": "5335805980838700",
+      "bid": "Rf1tA3wbq",
+      "created_at": "Tue Aug 25 14:19:03 +0800 2026",
+      "text_excerpt": "还记得我前几天说用手指画它后面走势吗？<br />不涨我是不会画的，只可惜那瓶指甲油不见了 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 114,
+      "attitudes_count": 265
     },
     {
       "id": "5335774256171008",
@@ -4080,6 +4104,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-25 05:19:53 UTC+8 (SCF)",
-  "total_count": 339
+  "last_updated": "2026-08-25 06:30:31 UTC+8 (SCF)",
+  "total_count": 341
 }
