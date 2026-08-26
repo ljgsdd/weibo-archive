@@ -612,6 +612,18 @@
       "attitudes_count": 2283
     },
     {
+      "id": "5336229346281618",
+      "bid": "Rfcuqqm8q",
+      "created_at": "Wed Aug 26 18:21:21 +0800 2026",
+      "text_excerpt": "移花接木，居心叵测。再有转发本博的，今起一律拉黑，这里不需要推广，不需要流量！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 70,
+      "attitudes_count": 164
+    },
+    {
       "id": "5336183312749129",
       "bid": "RfbibbxaN",
       "created_at": "Wed Aug 26 15:18:26 +0800 2026",
@@ -4200,6 +4212,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-26 07:30:29 UTC+8 (SCF)",
-  "total_count": 349
+  "last_updated": "2026-08-26 10:30:23 UTC+8 (SCF)",
+  "total_count": 350
 }
