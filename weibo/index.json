@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4158,
+    "statuses_count": 4160,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -610,6 +610,30 @@
       "reposts_count": 20,
       "comments_count": 959,
       "attitudes_count": 2283
+    },
+    {
+      "id": "5336168277213509",
+      "bid": "RfaTVugyV",
+      "created_at": "Wed Aug 26 14:18:40 +0800 2026",
+      "text_excerpt": "费纸<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 81,
+      "attitudes_count": 176
+    },
+    {
+      "id": "5336167035702087",
+      "bid": "RfaRVnVn9",
+      "created_at": "Wed Aug 26 14:13:45 +0800 2026",
+      "text_excerpt": "粉丝问航母什么时候才有啊，你看资本市场就知道了，船员点了外卖，都在拉肚子，挂点滴呢 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 200,
+      "attitudes_count": 372
     },
     {
       "id": "5336127574902794",
@@ -4152,6 +4176,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-26 04:00:25 UTC+8 (SCF)",
-  "total_count": 345
+  "last_updated": "2026-08-26 06:30:33 UTC+8 (SCF)",
+  "total_count": 347
 }
