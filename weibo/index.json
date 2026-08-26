@@ -612,6 +612,18 @@
       "attitudes_count": 2283
     },
     {
+      "id": "5336127574902794",
+      "bid": "Rf9Qhkzrk",
+      "created_at": "Wed Aug 26 11:36:57 +0800 2026",
+      "text_excerpt": "微博去年说过，目前国内最大的问题就是食品安全问题！不知从什么时候开始，监管主要靠曝光，媒体做着政府的事，监督干着监管的活。<br />有人说外面少吃，外卖不吃！但你能确保菜场里蔬菜不打农药？生鲜不添外剂？海鲜不打药水？<br />究其深层次原因，何止三言两语！<br />国人从来不屈于外敌，而是被自己人所伤害，历来如此。",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 160,
+      "attitudes_count": 290
+    },
+    {
       "id": "5333436135903156",
       "bid": "Re1PfoLGc",
       "created_at": "Wed Aug 19 01:22:08 +0800 2026",
@@ -4140,6 +4152,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-25 08:30:27 UTC+8 (SCF)",
-  "total_count": 344
+  "last_updated": "2026-08-26 04:00:25 UTC+8 (SCF)",
+  "total_count": 345
 }
