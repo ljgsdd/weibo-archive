@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -610,6 +610,18 @@
       "reposts_count": 20,
       "comments_count": 959,
       "attitudes_count": 2283
+    },
+    {
+      "id": "5336177053794697",
+      "bid": "Rfb85fVaN",
+      "created_at": "Wed Aug 26 14:53:33 +0800 2026",
+      "text_excerpt": "俄毛有个习惯：手指一刮，下意识放嘴里吮……//<a href='/n/AI_M_SG'>@AI_M_SG</a>:手指更环保<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a hre",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 61,
+      "attitudes_count": 109
     },
     {
       "id": "5336168277213509",
@@ -4176,6 +4188,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-26 06:30:33 UTC+8 (SCF)",
-  "total_count": 347
+  "last_updated": "2026-08-26 07:00:29 UTC+8 (SCF)",
+  "total_count": 348
 }
