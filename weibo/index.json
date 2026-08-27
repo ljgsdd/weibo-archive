@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2244,6 +2244,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5336585064154790",
+      "bid": "RflKahqQK",
+      "created_at": "Thu Aug 27 17:54:51 +0800 2026",
+      "text_excerpt": "小视频很多拍摄去浙大上学的，父亲拉着车的，挑着担的，还鞠个躬的……看视频感动前你想想谁在拍摄？就不会被情绪所骗了。想当年我父亲在哪个天边都不知道，我一个人转三趟公交背个铺盖就去了，买不起脸盆我都是毛巾打湿洗脸的，咋没人拍我？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 40,
+      "attitudes_count": 100
+    },
+    {
       "id": "5336569686787206",
       "bid": "RfllmstF4",
       "created_at": "Thu Aug 27 16:53:45 +0800 2026",
@@ -4308,6 +4320,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-27 09:00:34 UTC+8 (SCF)",
-  "total_count": 358
+  "last_updated": "2026-08-27 10:00:25 UTC+8 (SCF)",
+  "total_count": 359
 }
