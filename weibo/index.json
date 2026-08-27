@@ -2244,6 +2244,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5336517482645152",
+      "bid": "RfjZab67K",
+      "created_at": "Thu Aug 27 13:26:18 +0800 2026",
+      "text_excerpt": "绵雨成秋，恰上心头。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 116,
+      "attitudes_count": 201
+    },
+    {
       "id": "5333998348796667",
       "bid": "Regs2AUpJ",
       "created_at": "Thu Aug 20 14:36:09 +0800 2026",
@@ -4212,6 +4224,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-26 10:30:23 UTC+8 (SCF)",
-  "total_count": 350
+  "last_updated": "2026-08-27 05:30:25 UTC+8 (SCF)",
+  "total_count": 351
 }
