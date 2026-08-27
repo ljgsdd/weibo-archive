@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4158,
+    "statuses_count": 4160,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2244,6 +2244,30 @@
       "attitudes_count": 41
     },
     {
+      "id": "5336569686787206",
+      "bid": "RfllmstF4",
+      "created_at": "Thu Aug 27 16:53:45 +0800 2026",
+      "text_excerpt": "总的来说，八月无忧，操作有难度，低位股会继续，一波三折，五成以上，医药生物延续力度不及去年，上周末盈利落袋，没啥错吧 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 88,
+      "attitudes_count": 183
+    },
+    {
+      "id": "5336567090513909",
+      "bid": "Rflhb29GR",
+      "created_at": "Thu Aug 27 16:43:26 +0800 2026",
+      "text_excerpt": "你评论区或私信提问题的时候，想想那些大V回答一个都要9999元，你就不好意思问了，是吧 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 69,
+      "attitudes_count": 182
+    },
+    {
       "id": "5336561933615782",
       "bid": "Rfl8RfaD4",
       "created_at": "Thu Aug 27 16:22:56 +0800 2026",
@@ -4284,6 +4308,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-27 08:30:33 UTC+8 (SCF)",
-  "total_count": 356
+  "last_updated": "2026-08-27 09:00:34 UTC+8 (SCF)",
+  "total_count": 358
 }
