@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4159,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2244,6 +2244,30 @@
       "attitudes_count": 41
     },
     {
+      "id": "5336523564122915",
+      "bid": "Rfk8YhiyD",
+      "created_at": "Thu Aug 27 13:50:28 +0800 2026",
+      "text_excerpt": "这一轮低位股，无任从医药生物，能源资源，还是粮食作物，甚至券商保险……都轮流进行了反弹一遍！所以根本不存在什么B反C杀骗鬼的波浪，股市没有所谓的技术指标，都是用来割韭菜的。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 96,
+      "attitudes_count": 200
+    },
+    {
+      "id": "5336521903180102",
+      "bid": "Rfk6idlhY",
+      "created_at": "Thu Aug 27 13:43:52 +0800 2026",
+      "text_excerpt": "低位股的反弹，提出的时间是六月底，与“七月科技将落幕”同时提出。事实也是如此，在微盘指数连续反弹的情况下，市场超跌低位股，在这两个月平均反弹10%以上，也提前提出不会连续反弹会一波三折，事实更是如此周线阴阳交替反弹！妖股，更不用说了。<br />微博100%都是预判，市场来验证。<br />业绩披露接近尾声，低位股的价格不会再回到六月底预判时候的价格了。后面力度偏缓，震荡上。<br />马上开学了，暑假作业都完成了没有啊？",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 151,
+      "attitudes_count": 297
+    },
+    {
       "id": "5336517482645152",
       "bid": "RfjZab67K",
       "created_at": "Thu Aug 27 13:26:18 +0800 2026",
@@ -4224,6 +4248,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-27 05:30:25 UTC+8 (SCF)",
-  "total_count": 351
+  "last_updated": "2026-08-27 06:00:40 UTC+8 (SCF)",
+  "total_count": 353
 }
