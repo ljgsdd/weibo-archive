@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4159,
+    "statuses_count": 4158,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2244,6 +2244,18 @@
       "attitudes_count": 41
     },
     {
+      "id": "5336561933615782",
+      "bid": "Rfl8RfaD4",
+      "created_at": "Thu Aug 27 16:22:56 +0800 2026",
+      "text_excerpt": "粉丝问港股，这一天，回不去了三年内！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 77,
+      "attitudes_count": 136
+    },
+    {
       "id": "5336555256285749",
       "bid": "RfkY5qnd3",
       "created_at": "Thu Aug 27 15:56:24 +0800 2026",
@@ -4272,6 +4284,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-27 08:00:34 UTC+8 (SCF)",
-  "total_count": 355
+  "last_updated": "2026-08-27 08:30:33 UTC+8 (SCF)",
+  "total_count": 356
 }
