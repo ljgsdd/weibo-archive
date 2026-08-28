@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4161,
+    "statuses_count": 4159,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4176,6 +4176,18 @@
       "attitudes_count": 0
     },
     {
+      "id": "5336850006017343",
+      "bid": "RfsDupfnV",
+      "created_at": "Fri Aug 28 11:27:38 +0800 2026",
+      "text_excerpt": "微博从6月底提出低位股，同时提出会出现妖股。二个月过去，回过头看看，那些在五六月科技连续大涨的日子里，阴跌的低位股，在7、8两个月几乎全部反弹了一遍！包括医药生物、粮食作物、能源资源、券商保险等等，低位股平均反弹15%以上，符合预判。<br />在没有极端风险和极端大涨的情况下，指数可以忽略不计！存量资金不会出去，场外资金也不会进来，这是目前市场的特征。",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 52,
+      "attitudes_count": 100
+    },
+    {
       "id": "5336842813833899",
       "bid": "RfsrTg5n5",
       "created_at": "Fri Aug 28 10:59:02 +0800 2026",
@@ -4368,6 +4380,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-28 03:00:36 UTC+8 (SCF)",
-  "total_count": 363
+  "last_updated": "2026-08-28 03:30:24 UTC+8 (SCF)",
+  "total_count": 364
 }
