@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4158,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4176,6 +4176,54 @@
       "attitudes_count": 0
     },
     {
+      "id": "5336842813833899",
+      "bid": "RfsrTg5n5",
+      "created_at": "Fri Aug 28 10:59:02 +0800 2026",
+      "text_excerpt": "病人集中关在一起看K线//<a href='/n/盲眼光辉'>@盲眼光辉</a>:这个医院有什么说法<span class=\"url-icon\"><img alt=\"[思考]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/201810_sikao_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 35,
+      "attitudes_count": 61
+    },
+    {
+      "id": "5336841985200106",
+      "bid": "RfsqylOMG",
+      "created_at": "Fri Aug 28 10:55:46 +0800 2026",
+      "text_excerpt": "说某个指数多少点是压力位，多少点有阻力的，基本都是老股民，也是老态龙钟之辈，建议吃药预防老年痴呆，推荐杭州市第七人民医院。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 63,
+      "attitudes_count": 153
+    },
+    {
+      "id": "5336840061586795",
+      "bid": "Rfsns6ENt",
+      "created_at": "Fri Aug 28 10:48:07 +0800 2026",
+      "text_excerpt": "量化目前至少有五种设置模式，全都是反技术收割散户模式，散户唯一能做的只有两点：远离一切股市博主和主播；以静制动。否则必亏！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 100,
+      "attitudes_count": 260
+    },
+    {
+      "id": "5336837113251668",
+      "bid": "RfsiHdDUg",
+      "created_at": "Fri Aug 28 10:36:24 +0800 2026",
+      "text_excerpt": "台风预警又是一级，如小日本的地震，浙江台风持续不断。接下去是杭州一年之中难得两个月好天气。<br />风中那朵雨做的云，云的心里全都是雨，滴滴全都是你。 你好   九月 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 160,
+      "attitudes_count": 334
+    },
+    {
       "id": "5334411583163832",
       "bid": "Rercydh3y",
       "created_at": "Fri Aug 21 17:58:13 +0800 2026",
@@ -4320,6 +4368,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-27 10:00:25 UTC+8 (SCF)",
-  "total_count": 359
+  "last_updated": "2026-08-28 03:00:36 UTC+8 (SCF)",
+  "total_count": 363
 }
