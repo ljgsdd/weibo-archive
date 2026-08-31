@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4160,
+    "statuses_count": 4161,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3612,6 +3612,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5337918952703290",
+      "bid": "RfUrBblfs",
+      "created_at": "Mon Aug 31 10:15:15 +0800 2026",
+      "text_excerpt": "凡所有相，皆是虚妄。若见诸像非像，则见如来。拇指月线原来如此！ ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 146,
+      "attitudes_count": 311
+    },
+    {
       "id": "5335572298336178",
       "bid": "ReVoFyYCu",
       "created_at": "Mon Aug 24 22:50:29 +0800 2026",
@@ -4404,6 +4416,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-28 17:30:31 UTC+8 (SCF)",
-  "total_count": 366
+  "last_updated": "2026-08-31 02:30:25 UTC+8 (SCF)",
+  "total_count": 367
 }
