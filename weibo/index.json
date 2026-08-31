@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4161,
+    "statuses_count": 4163,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3612,6 +3612,30 @@
       "attitudes_count": 471
     },
     {
+      "id": "5337971104679924",
+      "bid": "RfVNIjDsE",
+      "created_at": "Mon Aug 31 13:42:29 +0800 2026",
+      "text_excerpt": "重温《一根手指》",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 88,
+      "attitudes_count": 197
+    },
+    {
+      "id": "5337968139046649",
+      "bid": "RfVIVBXrH",
+      "created_at": "Mon Aug 31 13:30:42 +0800 2026",
+      "text_excerpt": "良禽择木而栖，贤君择主而事。是故方以类聚，物以群分，声同则响和,志同则道合。心安身自安，身安室自宽。——九月股市",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 154,
+      "attitudes_count": 332
+    },
+    {
       "id": "5337918952703290",
       "bid": "RfUrBblfs",
       "created_at": "Mon Aug 31 10:15:15 +0800 2026",
@@ -4416,6 +4440,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-31 02:30:25 UTC+8 (SCF)",
-  "total_count": 367
+  "last_updated": "2026-08-31 06:00:26 UTC+8 (SCF)",
+  "total_count": 369
 }
