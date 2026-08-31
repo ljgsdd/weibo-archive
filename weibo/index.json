@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4163,
+    "statuses_count": 4162,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3612,6 +3612,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5337993328198185",
+      "bid": "RfWnyyoIN",
+      "created_at": "Mon Aug 31 15:10:47 +0800 2026",
+      "text_excerpt": "微博又显示“那年今日微博”，五年前的微博映入眼帘，那时0粉丝0互动，自言自语……<br />那时微博都是如下图所示，直言不讳！ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 111,
+      "attitudes_count": 251
+    },
+    {
       "id": "5337988976349416",
       "bid": "RfWgxqDLW",
       "created_at": "Mon Aug 31 14:53:30 +0800 2026",
@@ -4464,6 +4476,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-31 07:00:34 UTC+8 (SCF)",
-  "total_count": 371
+  "last_updated": "2026-08-31 07:30:23 UTC+8 (SCF)",
+  "total_count": 372
 }
