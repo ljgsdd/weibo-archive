@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4163,
+    "statuses_count": 4164,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -826,6 +826,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5338134812562197",
+      "bid": "Rg03LaKxL",
+      "created_at": "Tue Sep 01 00:33:00 +0800 2026",
+      "text_excerpt": "8.28房地产新政居然被解读为史诗级利好？？？这些货色真的是猪插大蒜啊，这是对地产行业史诗级打击！！居然好坏都分不清楚……<br />奇怪的是，粉丝也是如此知识狭窄，浅见薄识？看来你们的生存空间非常大<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"wid",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 42,
+      "attitudes_count": 83
     },
     {
       "id": "5338132803228390",
@@ -4536,6 +4548,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-31 16:30:31 UTC+8 (SCF)",
-  "total_count": 377
+  "last_updated": "2026-08-31 17:00:23 UTC+8 (SCF)",
+  "total_count": 378
 }
