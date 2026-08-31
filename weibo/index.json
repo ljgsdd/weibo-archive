@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4162,
+    "statuses_count": 4163,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3612,6 +3612,18 @@
       "attitudes_count": 471
     },
     {
+      "id": "5338008905580765",
+      "bid": "RfWMGnpOl",
+      "created_at": "Mon Aug 31 16:12:40 +0800 2026",
+      "text_excerpt": "那个年代，没有学前班，没有幼儿园，没有铅笔盒，也没有书包。7岁拎上一只布袋，挂上两条鼻涕，直接上的一年级，小学只有五年。<br />那天早晨，母亲把我养了一年多的那只鹅宰了，取下鹅头，蘸着糖吃。母亲说往后的路呀，你就可以甜甜蜜蜜，昂首挺胸，做到头领。<br />每一年的9月1号，母亲都会煮一个鸡蛋，当作开学这一天给我的祝愿。本来应该是两个鸡蛋，寓意一双筷子两个蛋，考试考到一百分。姐姐也要吃一个，家里拿不出那么多鸡蛋。<br />开学这天的这个鸡蛋，我一直吃到了高中毕业。<br",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 104,
+      "attitudes_count": 192
+    },
+    {
       "id": "5337993328198185",
       "bid": "RfWnyyoIN",
       "created_at": "Mon Aug 31 15:10:47 +0800 2026",
@@ -4476,6 +4488,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-31 07:30:23 UTC+8 (SCF)",
-  "total_count": 372
+  "last_updated": "2026-08-31 08:30:27 UTC+8 (SCF)",
+  "total_count": 373
 }
