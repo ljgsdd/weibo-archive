@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4167,
+    "statuses_count": 4163,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -826,6 +826,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5338132803228390",
+      "bid": "Rg00wdxQO",
+      "created_at": "Tue Sep 01 00:25:01 +0800 2026",
+      "text_excerpt": "怕吗？no fear ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 68,
+      "attitudes_count": 79
     },
     {
       "id": "5302648934760584",
@@ -4524,6 +4536,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-31 09:30:28 UTC+8 (SCF)",
-  "total_count": 376
+  "last_updated": "2026-08-31 16:30:31 UTC+8 (SCF)",
+  "total_count": 377
 }
