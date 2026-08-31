@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4163,
+    "statuses_count": 4167,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3612,6 +3612,42 @@
       "attitudes_count": 471
     },
     {
+      "id": "5338027616373632",
+      "bid": "RfXgRqK4w",
+      "created_at": "Mon Aug 31 17:27:02 +0800 2026",
+      "text_excerpt": "叫一声俊爷，明天全红！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 117,
+      "attitudes_count": 131
+    },
+    {
+      "id": "5338027327226044",
+      "bid": "RfXgoujP6",
+      "created_at": "Mon Aug 31 17:25:52 +0800 2026",
+      "text_excerpt": "鸭最喜欢吃蚯蚓，吞吃。雄鸭吃了会长飙，雌鸭吃了生双黄蛋。鸡看到蚯蚓会啄一下离开，鹅连看都不看一眼。很少有人知道吗？难不成我是爷爷辈<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 44,
+      "attitudes_count": 87
+    },
+    {
+      "id": "5338022653724061",
+      "bid": "RfX8RfCNv",
+      "created_at": "Mon Aug 31 17:07:19 +0800 2026",
+      "text_excerpt": "自己养呀，放学回家我第一件事就是挖蚯蚓，鸡鸭鹅都养，蚯蚓谁吃？//<a href='/n/文心慧敏'>@文心慧敏</a>:大佬，我也是小学读了五年<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /><",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 44,
+      "attitudes_count": 107
+    },
+    {
       "id": "5338008905580765",
       "bid": "RfWMGnpOl",
       "created_at": "Mon Aug 31 16:12:40 +0800 2026",
@@ -4488,6 +4524,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-08-31 08:30:27 UTC+8 (SCF)",
-  "total_count": 373
+  "last_updated": "2026-08-31 09:30:28 UTC+8 (SCF)",
+  "total_count": 376
 }
