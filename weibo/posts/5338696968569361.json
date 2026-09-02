@@ -1,0 +1,34 @@
+{
+  "id": "5338696968569361",
+  "mid": "5338696968569361",
+  "bid": "RgeGszXhv",
+  "created_at": "Wed Sep 02 13:46:48 +0800 2026",
+  "text_html": "这样的消息大V们没有吧？他她们只会在东方财富转发一条新闻，赚取流量的100元，都不会解读的，不知所以然。",
+  "text_raw": "这样的消息大V们没有吧？他她们只会在东方财富转发一条新闻，赚取流量的100元，都不会解读的，不知所以然。",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 61,
+  "attitudes_count": 182,
+  "pic_ids": [],
+  "pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5338695588906091",
+    "mid": "5338695588906091",
+    "bid": "RgeEeBmSD",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Wed Sep 02 13:41:19 +0800 2026",
+    "text_html": "今日是新政出台之后浙江第一块土地出让，位于丽水，现房销售。那么基本可以确定，浙江全范围内执行现房销售，符合图二预判。 ",
+    "is_long_text": false,
+    "pics": [
+      "https://wx2.sinaimg.cn/mw2000/3bc1f9cdgy1igp9r2boglj20wq07ogob.jpg",
+      "https://wx2.sinaimg.cn/mw2000/3bc1f9cdgy1igp9r1xxa9j20qy0u0n2o.jpg"
+    ]
+  },
+  "url": "https://weibo.com/1002568141/RgeGszXhv"
+}
