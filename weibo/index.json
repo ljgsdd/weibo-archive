@@ -5,12 +5,48 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4166,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
   },
   "weibos": [
+    {
+      "id": "5338804736756254",
+      "bid": "RghuhslBQ",
+      "created_at": "Wed Sep 02 20:55:02 +0800 2026",
+      "text_excerpt": "勤俭节约，与家庭是否富裕无关，我觉得是一种美德。暑假2026中韩声乐大赛得了一等奖，是我从新闻里看到消息的，淡定得都没告诉我。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 83,
+      "attitudes_count": 122
+    },
+    {
+      "id": "5338799940833662",
+      "bid": "Rghmy3uSa",
+      "created_at": "Wed Sep 02 20:35:59 +0800 2026",
+      "text_excerpt": "当年犬子离家忍不住<span class=\"url-icon\"><img alt=\"[捂嘴哭]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b4/2025_wuzuiku_mobile.png\" style=\"width:1em; height:1em;\" /></span> <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwx3.sin",
+      "is_retweet": true,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 80,
+      "attitudes_count": 140
+    },
+    {
+      "id": "5338798735229951",
+      "bid": "RghkBlWy3",
+      "created_at": "Wed Sep 02 20:31:11 +0800 2026",
+      "text_excerpt": "我写过，那是几千字的微博//<a href='/n/虎里龙气'>@虎里龙气</a>:真想看俊哥写一篇教育孩子的文章",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 62,
+      "attitudes_count": 137
+    },
     {
       "id": "5338795708781989",
       "bid": "RghfIAQAZ",
@@ -4656,6 +4692,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-02 12:30:26 UTC+8 (SCF)",
-  "total_count": 387
+  "last_updated": "2026-09-02 13:00:35 UTC+8 (SCF)",
+  "total_count": 390
 }
