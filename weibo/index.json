@@ -5,12 +5,24 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4167,
+    "statuses_count": 4166,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
   },
   "weibos": [
+    {
+      "id": "5338795708781989",
+      "bid": "RghfIAQAZ",
+      "created_at": "Wed Sep 02 20:19:10 +0800 2026",
+      "text_excerpt": "客气一点一般都有好处的<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 136,
+      "attitudes_count": 206
+    },
     {
       "id": "5338711056974632",
       "bid": "Rgf3btgq4",
@@ -4644,6 +4656,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-02 07:00:33 UTC+8 (SCF)",
-  "total_count": 386
+  "last_updated": "2026-09-02 12:30:26 UTC+8 (SCF)",
+  "total_count": 387
 }
