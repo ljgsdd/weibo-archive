@@ -5,12 +5,24 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4167,
+    "statuses_count": 4166,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
   },
   "weibos": [
+    {
+      "id": "5338707792233855",
+      "bid": "RgeXV9n7V",
+      "created_at": "Wed Sep 02 14:29:49 +0800 2026",
+      "text_excerpt": "如今，股市的微博几百人互动，其他的微博不到百人，如果一说抄底马上千人以上提着裤子跑丢一只拖鞋🩴报到！<br />其实，不是股市的微博，价值最大。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 1,
+      "attitudes_count": 28
+    },
     {
       "id": "5338698834512432",
       "bid": "RgeJtiVTa",
@@ -4620,6 +4632,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-02 06:00:29 UTC+8 (SCF)",
-  "total_count": 384
+  "last_updated": "2026-09-02 06:30:30 UTC+8 (SCF)",
+  "total_count": 385
 }
