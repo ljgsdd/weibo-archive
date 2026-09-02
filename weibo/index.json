@@ -5,12 +5,48 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4168,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
   },
   "weibos": [
+    {
+      "id": "5338824860765339",
+      "bid": "Rgi0K3d6b",
+      "created_at": "Wed Sep 02 22:15:00 +0800 2026",
+      "text_excerpt": "微博主要谈三shi，楼市，股市，故事。<br />拉长十年周期看，楼市平稳，股市看好，故事更多。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 119,
+      "attitudes_count": 266
+    },
+    {
+      "id": "5338822265016963",
+      "bid": "RghWyl38L",
+      "created_at": "Wed Sep 02 22:04:41 +0800 2026",
+      "text_excerpt": "版权所有！复制，粘贴，截图请支付6元助威<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/这就是砖车接送'>@这就是砖车接送</a>:这都是精华，必须保存下来反复",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 46,
+      "attitudes_count": 123
+    },
+    {
+      "id": "5338821459711699",
+      "bid": "RghVfEKsj",
+      "created_at": "Wed Sep 02 22:01:29 +0800 2026",
+      "text_excerpt": "8.28房产新政带来的行业未来发展方向（未来5-10年）：<br />优点：<br />一，房地产作为中国经济发展的支柱产业这个20年顶层设计定位会逐渐被替代。<br />二，房地产的金融属性会逐渐下降，回归到中国实体经济范畴之中。<br />三，房地产的投资功能会消失，作为民需之本，市场返回到刚需和改善的民生领域。<br />四，购买者不会再冲动买房，限购、摇号作为历史笑谈一去不复返。<br />五，一定程度上会减少商品房买卖纠纷和法律诉讼，特别是虚假宣传类的案件。<br ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 10,
+      "comments_count": 128,
+      "attitudes_count": 253
+    },
     {
       "id": "5338804736756254",
       "bid": "RghuhslBQ",
@@ -4692,6 +4728,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-02 13:00:35 UTC+8 (SCF)",
-  "total_count": 390
+  "last_updated": "2026-09-02 14:30:39 UTC+8 (SCF)",
+  "total_count": 393
 }
