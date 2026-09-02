@@ -5,12 +5,48 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4164,
+    "statuses_count": 4167,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
   },
   "weibos": [
+    {
+      "id": "5338698834512432",
+      "bid": "RgeJtiVTa",
+      "created_at": "Wed Sep 02 13:54:13 +0800 2026",
+      "text_excerpt": "接下来全国范围内也会出现一些烂尾，国央企为加快进度，楼盘复制克隆粗制滥造。这将是一个趋势。//<a href='/n/坐等光明的到来'>@坐等光明的到来</a>:昆明之前好像结顶了才开始卖不过前阶段烂尾事件。好多结顶了也烂了",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 41,
+      "attitudes_count": 99
+    },
+    {
+      "id": "5338696968569361",
+      "bid": "RgeGszXhv",
+      "created_at": "Wed Sep 02 13:46:48 +0800 2026",
+      "text_excerpt": "这样的消息大V们没有吧？他她们只会在东方财富转发一条新闻，赚取流量的100元，都不会解读的，不知所以然。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 61,
+      "attitudes_count": 182
+    },
+    {
+      "id": "5338695588906091",
+      "bid": "RgeEeBmSD",
+      "created_at": "Wed Sep 02 13:41:19 +0800 2026",
+      "text_excerpt": "今日是新政出台之后浙江第一块土地出让，位于丽水，现房销售。那么基本可以确定，浙江全范围内执行现房销售，符合图二预判。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 71,
+      "attitudes_count": 192
+    },
     {
       "id": "5280386072710512",
       "bid": "QxJcXbn7W",
@@ -4584,6 +4620,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-02 01:24:44 UTC+8 (SCF)",
-  "total_count": 381
+  "last_updated": "2026-09-02 06:00:29 UTC+8 (SCF)",
+  "total_count": 384
 }
