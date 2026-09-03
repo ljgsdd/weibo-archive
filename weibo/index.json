@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4176,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4272,6 +4272,30 @@
       "attitudes_count": 1028
     },
     {
+      "id": "5339235093578022",
+      "bid": "RgsGpf0O2",
+      "created_at": "Fri Sep 04 01:25:07 +0800 2026",
+      "text_excerpt": "微博的每个标点符号，都是大拇指扣出来的，都发红了<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"ht",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 38,
+      "attitudes_count": 57
+    },
+    {
+      "id": "5339234723430623",
+      "bid": "RgsFOeosD",
+      "created_at": "Fri Sep 04 01:23:39 +0800 2026",
+      "text_excerpt": "翻了一下，本博首次提出量化不会取消，是在三年前。量化一词的提出，应该在四年多前。<br />文中也发现了当初A股成交量不到万亿，当时几乎所有的专家和博主都说需要1.5万亿，本博提出“至少需要2万亿”才可以启动行情！奇怪的是，24年9.24当天就是第一次突破2万亿<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 30,
+      "attitudes_count": 63
+    },
+    {
       "id": "5339224137533216",
       "bid": "RgsoJvBJu",
       "created_at": "Fri Sep 04 00:41:35 +0800 2026",
@@ -4944,6 +4968,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-03 17:00:40 UTC+8 (SCF)",
-  "total_count": 411
+  "last_updated": "2026-09-03 17:30:27 UTC+8 (SCF)",
+  "total_count": 413
 }
