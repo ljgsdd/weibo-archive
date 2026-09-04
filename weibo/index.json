@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4172,
+    "statuses_count": 4173,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4272,6 +4272,18 @@
       "attitudes_count": 1028
     },
     {
+      "id": "5339463066584935",
+      "bid": "RgyC6rD2D",
+      "created_at": "Fri Sep 04 16:31:00 +0800 2026",
+      "text_excerpt": "效率挺高，晚上给你加个鸡腿🍗//<a href='/n/呼叫客服喵'>@呼叫客服喵</a>:留意到您的反馈，您提到的建议增加“真爱粉可见”微博功能，我们会同步给产品同事，感谢您的意见建议~",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 106,
+      "attitudes_count": 200
+    },
+    {
       "id": "5339461638425172",
       "bid": "RgyzNzlLS",
       "created_at": "Fri Sep 04 16:25:20 +0800 2026",
@@ -5016,6 +5028,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-04 08:30:31 UTC+8 (SCF)",
-  "total_count": 417
+  "last_updated": "2026-09-04 09:00:26 UTC+8 (SCF)",
+  "total_count": 418
 }
