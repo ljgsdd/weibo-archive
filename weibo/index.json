@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4173,
+    "statuses_count": 4172,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4272,6 +4272,54 @@
       "attitudes_count": 1028
     },
     {
+      "id": "5339575641444468",
+      "bid": "RgBxG63LS",
+      "created_at": "Fri Sep 04 23:58:20 +0800 2026",
+      "text_excerpt": "你们有没有发现微博几月开始说的接下去板块不会有趋势？为啥很多人总是问板块？是不是别的地方看多了总是问哪个板块？<br />我告诉你，我提出接下去板块不再有趋势，也就是接下去指数不会有行情，个股开始比较难做，资金以通过大数据杀追涨的人。你要仔细看这里的微博呀 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 24,
+      "attitudes_count": 63
+    },
+    {
+      "id": "5339573859125157",
+      "bid": "RgBuNChRX",
+      "created_at": "Fri Sep 04 23:51:15 +0800 2026",
+      "text_excerpt": "A股的板块趋势大行情，一般12年一轮回，你去算算//<a href='/n/寂寞天使99205'>@寂寞天使99205</a>:俊哥，是不是该整点白酒喝了？//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:你输入秋天两字，看看本博秋天是几月份？你就和科技白头偕老去吧//<a href='/n/我快乐的知行合一'>@我快乐的知行合一</a>:俊哥，秋天了，科技可以进了吗？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 27,
+      "attitudes_count": 44
+    },
+    {
+      "id": "5339572000522511",
+      "bid": "RgBrO2bVB",
+      "created_at": "Fri Sep 04 23:43:52 +0800 2026",
+      "text_excerpt": "今天的冲高回落，非常明显是融Q做空所致，也是微盘股微博提前说的冲高顷刻回落演绎<br />科技我记得前几天发过微博，6月底某人热搜喊买科技的时候，便是最高点，配合机构收割。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 52,
+      "attitudes_count": 102
+    },
+    {
+      "id": "5339569059795438",
+      "bid": "RgBn3F6eW",
+      "created_at": "Fri Sep 04 23:32:11 +0800 2026",
+      "text_excerpt": "截止九月，2026年全球资本市场综合排名：<br />涨幅最大：中国台湾<br />跌幅最大：中国A股均值<br />总结：稳重向好 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 72,
+      "attitudes_count": 147
+    },
+    {
       "id": "5339463066584935",
       "bid": "RgyC6rD2D",
       "created_at": "Fri Sep 04 16:31:00 +0800 2026",
@@ -5028,6 +5076,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-04 09:00:26 UTC+8 (SCF)",
-  "total_count": 418
+  "last_updated": "2026-09-04 16:00:43 UTC+8 (SCF)",
+  "total_count": 422
 }
