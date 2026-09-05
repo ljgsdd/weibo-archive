@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4173,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3216,6 +3216,18 @@
       "attitudes_count": 53
     },
     {
+      "id": "5339740239038587",
+      "bid": "RgFP9BVlF",
+      "created_at": "Sat Sep 05 10:52:23 +0800 2026",
+      "text_excerpt": "还有那么多人问科技，我已经说了很多次“最后一次了”，这次真的是最后一次了。<br />当初4月开始微博提出‘趋势股’三字，明确会有很多翻倍股，耐心，拿住，折算美元很便宜……都还记得这些词吗？唠唠叨叨就怕有人中途下车！结果是：很多人来问卖了还可以上吗？<br />到了六月底，微博提前提出末端行情，统计数量500个以上翻倍了。是今年最大的一波行情！同时提出资金会介入权重和低位股，结果是：很多人来问刚买入咋办？<br />到了七月初，微博非常明确提出“科技七月落幕”！结果是：很多人",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 80,
+      "attitudes_count": 171
+    },
+    {
       "id": "5339577615127354",
       "bid": "RgBARlvRg",
       "created_at": "Sat Sep 05 00:06:11 +0800 2026",
@@ -5100,6 +5112,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-04 16:30:37 UTC+8 (SCF)",
-  "total_count": 424
+  "last_updated": "2026-09-05 03:00:25 UTC+8 (SCF)",
+  "total_count": 425
 }
