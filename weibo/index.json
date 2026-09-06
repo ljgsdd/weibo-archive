@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3600,6 +3600,18 @@
       "attitudes_count": 377
     },
     {
+      "id": "5340339595903056",
+      "bid": "RgVpRoLEA",
+      "created_at": "Mon Sep 07 02:34:00 +0800 2026",
+      "text_excerpt": "太玄乎了啊！这楼从未报道，从未开放，从未想起过，居然突然指引……毛孔都竖立起来了<span class=\"url-icon\"><img alt=\"[惊恐]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e8/2025_jingkong_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/菩提树下那道光'>@菩提树下",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 18,
+      "attitudes_count": 28
+    },
+    {
       "id": "5340337973231686",
       "bid": "RgVnfdyHY",
       "created_at": "Mon Sep 07 02:27:33 +0800 2026",
@@ -5160,6 +5172,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-06 18:30:26 UTC+8 (SCF)",
-  "total_count": 429
+  "last_updated": "2026-09-06 19:00:27 UTC+8 (SCF)",
+  "total_count": 430
 }
