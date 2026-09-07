@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -982,6 +982,30 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5340692394279110",
+      "bid": "Rh4AThXbU",
+      "created_at": "Tue Sep 08 01:55:55 +0800 2026",
+      "text_excerpt": "你说反了，散户都长寿，死不罢休！//<a href='/n/乡村守护人阿志'>@乡村守护人阿志</a>:一直在思考一个问题:A股散户的平均寿命应该会比没有炒股的低5岁以上吧，幸福指数应该低50%以上<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"wid",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 5,
+      "attitudes_count": 12
+    },
+    {
+      "id": "5340689137140104",
+      "bid": "Rh4vDtXsY",
+      "created_at": "Tue Sep 08 01:42:58 +0800 2026",
+      "text_excerpt": "春去秋来，这词所有的粉丝都熟悉。<br />春天的播种，五六月的疯狂收获，夏天的离去。微博都有明确提出。<br />有人说8.7号是立秋，有人说如今才入秋，只不过南方台风北方酷，一阵秋雨一片洪，今年多事之秋。<br />没错，你只要仔细复盘，会惊讶地发现：一批股就是8月7号开始反弹，一批股7月提前筑底反弹。<br />看似调整，实则反弹。否则哪来的微盘股指数连续7周阳线？哪来的90%低位股轮流反弹15%以上？甚至连7月暴跌的科技股在这一个月多时间也有涨幅。<br />你说8月",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 35,
+      "attitudes_count": 51
     },
     {
       "id": "5338461634560671",
@@ -5172,6 +5196,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-06 19:00:27 UTC+8 (SCF)",
-  "total_count": 430
+  "last_updated": "2026-09-07 18:00:28 UTC+8 (SCF)",
+  "total_count": 432
 }
