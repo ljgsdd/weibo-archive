@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4164,
+    "statuses_count": 4165,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1930,6 +1930,18 @@
       "reposts_count": 1,
       "comments_count": 195,
       "attitudes_count": 685
+    },
+    {
+      "id": "5341553103995066",
+      "bid": "RhqZ8gLiy",
+      "created_at": "Thu Sep 10 10:56:03 +0800 2026",
+      "text_excerpt": "如没这道光，这儿一片黑<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 114,
+      "attitudes_count": 206
     },
     {
       "id": "5339063143369147",
@@ -5208,6 +5220,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-10 01:43:18 UTC+8 (SCF)",
-  "total_count": 433
+  "last_updated": "2026-09-10 03:00:27 UTC+8 (SCF)",
+  "total_count": 434
 }
