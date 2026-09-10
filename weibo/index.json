@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4165,
+    "statuses_count": 4167,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1930,6 +1930,30 @@
       "reposts_count": 1,
       "comments_count": 195,
       "attitudes_count": 685
+    },
+    {
+      "id": "5341575552699975",
+      "bid": "RhrzlbknZ",
+      "created_at": "Thu Sep 10 12:25:16 +0800 2026",
+      "text_excerpt": "居然不知道低位股？找不到吗？看看截图，凌晨五点多，翻看每个股票，你肯定找到了只是你做不到而已<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 48,
+      "attitudes_count": 116
+    },
+    {
+      "id": "5341571084977533",
+      "bid": "Rhrs8kSSN",
+      "created_at": "Thu Sep 10 12:07:31 +0800 2026",
+      "text_excerpt": "我发一条价值比较大的吧你们助威善款即可：<br />目前找一些底部小阳堆积，日线未突破最上面那根（一般都会大阳突破），周线未到最上面那根周线的个股，三合一选择。突破不涨停即会反复，大V播报的百分百被套，低位股当时的提出，量化会议就是这么定的<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mo",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 96,
+      "attitudes_count": 234
     },
     {
       "id": "5341559406986474",
@@ -5232,6 +5256,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-10 03:30:28 UTC+8 (SCF)",
-  "total_count": 435
+  "last_updated": "2026-09-10 04:30:27 UTC+8 (SCF)",
+  "total_count": 437
 }
