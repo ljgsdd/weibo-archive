@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4168,
+    "statuses_count": 4171,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3348,6 +3348,18 @@
       "attitudes_count": 53
     },
     {
+      "id": "5342112893896223",
+      "bid": "RhFy1glAj",
+      "created_at": "Sat Sep 12 00:00:28 +0800 2026",
+      "text_excerpt": "不是真爱粉 最好哑巴，一旦我此刻心情不好反手就～//<a href='/n/蓝色追风剑'>@蓝色追风剑</a>:能涨几天啊，不会就周一吧",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 29,
+      "attitudes_count": 58
+    },
+    {
       "id": "5339749263872083",
       "bid": "RgG3IgfiX",
       "created_at": "Sat Sep 05 11:28:15 +0800 2026",
@@ -4500,6 +4512,30 @@
       "attitudes_count": 1028
     },
     {
+      "id": "5342111597855238",
+      "bid": "RhFvVwXvo",
+      "created_at": "Fri Sep 11 23:55:18 +0800 2026",
+      "text_excerpt": "外围也是配合我前面那条微博周一反弹而反弹吧！都好好说话放平心态，真正的调整还没到，想我提前告诉都得听话<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><br />讲故事吧～ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 94,
+      "attitudes_count": 142
+    },
+    {
+      "id": "5342107050706135",
+      "bid": "RhFoB2XHh",
+      "created_at": "Fri Sep 11 23:37:15 +0800 2026",
+      "text_excerpt": "9.11都无济于事<span class=\"url-icon\"><img alt=\"[怒骂]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d4/201810_numa_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 62,
+      "attitudes_count": 144
+    },
+    {
       "id": "5342053502551620",
       "bid": "RhE0eaHNa",
       "created_at": "Fri Sep 11 20:04:28 +0800 2026",
@@ -5364,6 +5400,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-11 12:30:27 UTC+8 (SCF)",
-  "total_count": 446
+  "last_updated": "2026-09-11 16:03:01 UTC+8 (SCF)",
+  "total_count": 449
 }
