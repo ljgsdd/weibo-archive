@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4167,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4500,6 +4500,42 @@
       "attitudes_count": 1028
     },
     {
+      "id": "5342012931050237",
+      "bid": "RhCWN4pdj",
+      "created_at": "Fri Sep 11 17:23:15 +0800 2026",
+      "text_excerpt": "千伏电压存在电势圈分布，也就是跨步电压，危险时让人有预感。220电压电势差不明显，触碰后一般瞬间发麻远离，有被弹感觉。380触碰后使人肌肉痉挛，更加接近危险源，有被吸的感觉。初中物理呀忘了？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1e",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 60,
+      "attitudes_count": 113
+    },
+    {
+      "id": "5342009709822687",
+      "bid": "RhCRAFdkr",
+      "created_at": "Fri Sep 11 17:10:27 +0800 2026",
+      "text_excerpt": "千伏电压跌到380，变成吸力电压//<a href='/n/小麦包包8'>@小麦包包8</a>:没有碰，跌好久了，可以碰了吗？//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:往年今日微博再现，没人去碰吧？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 55,
+      "attitudes_count": 112
+    },
+    {
+      "id": "5342008250209187",
+      "bid": "RhCPf0SpZ",
+      "created_at": "Fri Sep 11 17:04:39 +0800 2026",
+      "text_excerpt": "往年今日微博再现，没人去碰吧？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 78,
+      "attitudes_count": 177
+    },
+    {
       "id": "5342004936445227",
       "bid": "RhCJTr2Hh",
       "created_at": "Fri Sep 11 16:51:29 +0800 2026",
@@ -5316,6 +5352,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-11 09:00:29 UTC+8 (SCF)",
-  "total_count": 442
+  "last_updated": "2026-09-11 09:30:33 UTC+8 (SCF)",
+  "total_count": 445
 }
