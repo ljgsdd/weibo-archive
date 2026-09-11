@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3348,6 +3348,18 @@
       "attitudes_count": 53
     },
     {
+      "id": "5342117763485312",
+      "bid": "RhFFSeCGI",
+      "created_at": "Sat Sep 12 00:19:49 +0800 2026",
+      "text_excerpt": "微博和小视频上晒证劵账户的，99.99%都是虚拟假账户！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 24,
+      "attitudes_count": 56
+    },
+    {
       "id": "5342112893896223",
       "bid": "RhFy1glAj",
       "created_at": "Sat Sep 12 00:00:28 +0800 2026",
@@ -5400,6 +5412,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-11 16:03:01 UTC+8 (SCF)",
-  "total_count": 449
+  "last_updated": "2026-09-11 16:30:35 UTC+8 (SCF)",
+  "total_count": 450
 }
