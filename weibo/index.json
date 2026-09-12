@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4163,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3120,6 +3120,18 @@
       "attitudes_count": 2925
     },
     {
+      "id": "5342484477511053",
+      "bid": "RhPdlvvY1",
+      "created_at": "Sun Sep 13 00:37:01 +0800 2026",
+      "text_excerpt": "如果西安的“安”，就是长治久安；<br />那么铜川的“川”，就是海纳百川；<br />如果渭南的“南”，就是寿比南山；<br />那么延安的“安”，就是国泰民安；<br />如果咸阳的“咸”，就是少长咸集；<br />那么延安的“延”，就是福寿绵延；<br />如果宝鸡的“宝”，就是如获至宝；<br />那么榆林的“林”，就是杏林春暖；<br />如果商洛的“商”，就是商贾云集；<br />那么安康的“安”，就是健康平安；<br />如果汉中的“汉”，就是盛世秦汉；<br ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 44,
+      "attitudes_count": 98
+    },
+    {
       "id": "5304659529174422",
       "bid": "R1XdmCuGy",
       "created_at": "Sun May 31 15:34:10 +0800 2026",
@@ -5424,6 +5436,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-11 17:00:31 UTC+8 (SCF)",
-  "total_count": 451
+  "last_updated": "2026-09-12 17:00:31 UTC+8 (SCF)",
+  "total_count": 452
 }
