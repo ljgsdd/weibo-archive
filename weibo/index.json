@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4162,
+    "statuses_count": 4163,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3780,6 +3780,18 @@
       "attitudes_count": 377
     },
     {
+      "id": "5342867157681669",
+      "bid": "RhZazwelT",
+      "created_at": "Mon Sep 14 01:57:39 +0800 2026",
+      "text_excerpt": "路遇两天津人干架，架势很大，就是谁也没先出手，互相磨嘴皮子：“我打你你信吗？”“信又咋了不信又咋了？”。一陕西人怕真打起来上前劝架：“打么，往死打么”，结果被打了一顿。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 8,
+      "attitudes_count": 12
+    },
+    {
       "id": "5342852242736710",
       "bid": "RhYMwbtWu",
       "created_at": "Mon Sep 14 00:58:23 +0800 2026",
@@ -5460,6 +5472,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-13 17:30:24 UTC+8 (SCF)",
-  "total_count": 454
+  "last_updated": "2026-09-13 18:00:24 UTC+8 (SCF)",
+  "total_count": 455
 }
