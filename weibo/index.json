@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4163,
+    "statuses_count": 4162,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3780,6 +3780,30 @@
       "attitudes_count": 377
     },
     {
+      "id": "5342852242736710",
+      "bid": "RhYMwbtWu",
+      "created_at": "Mon Sep 14 00:58:23 +0800 2026",
+      "text_excerpt": "其实，此条微博7月底已经说了秋天是几月，二百多人点赞看到，只是看的地方太多了，记忆力也就蜕化了。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 41,
+      "attitudes_count": 96
+    },
+    {
+      "id": "5342850885878469",
+      "bid": "RhYKkoFg1",
+      "created_at": "Mon Sep 14 00:52:59 +0800 2026",
+      "text_excerpt": "去年的秋天（最后一图）比以往时候来的更早一些。细心的朋友可以发现：剩下的图所有秋天均为十月。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 43,
+      "attitudes_count": 86
+    },
+    {
       "id": "5340339595903056",
       "bid": "RgVpRoLEA",
       "created_at": "Mon Sep 07 02:34:00 +0800 2026",
@@ -5436,6 +5460,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-12 17:00:31 UTC+8 (SCF)",
-  "total_count": 452
+  "last_updated": "2026-09-13 17:30:24 UTC+8 (SCF)",
+  "total_count": 454
 }
