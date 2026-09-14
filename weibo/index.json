@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4164,
+    "statuses_count": 4166,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1006,6 +1006,42 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5343205291199938",
+      "bid": "Ri7XX529Q",
+      "created_at": "Tue Sep 15 00:21:16 +0800 2026",
+      "text_excerpt": "跟，怎么可以落后人家呢//<a href='/n/Dora7481'>@Dora7481</a>:俊哥，美股大跌，我们明天跟不<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 40,
+      "attitudes_count": 60
+    },
+    {
+      "id": "5343204872290846",
+      "bid": "Ri7Xh9BX8",
+      "created_at": "Tue Sep 15 00:19:36 +0800 2026",
+      "text_excerpt": "要是在美帝，仅这一文这项侵权我就可以养老无忧了<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 21,
+      "attitudes_count": 48
+    },
+    {
+      "id": "5343203168881728",
+      "bid": "Ri7UwBgxG",
+      "created_at": "Tue Sep 15 00:12:50 +0800 2026",
+      "text_excerpt": "微博写于22年原创千字文，然而被网上各种抄袭，有的甚至复制粘贴只字未改<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[嘻",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 36,
+      "attitudes_count": 85
     },
     {
       "id": "5340692394279110",
@@ -5496,6 +5532,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-14 02:30:38 UTC+8 (SCF)",
-  "total_count": 457
+  "last_updated": "2026-09-14 16:30:35 UTC+8 (SCF)",
+  "total_count": 460
 }
