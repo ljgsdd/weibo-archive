@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4163,
+    "statuses_count": 4164,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3780,6 +3780,30 @@
       "attitudes_count": 377
     },
     {
+      "id": "5342994975687439",
+      "bid": "Ri2uJnRyT",
+      "created_at": "Mon Sep 14 10:25:33 +0800 2026",
+      "text_excerpt": "都红了啊……我是真的想停言股市！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 87,
+      "attitudes_count": 169
+    },
+    {
+      "id": "5342990181861306",
+      "bid": "Ri2n07Od4",
+      "created_at": "Mon Sep 14 10:06:30 +0800 2026",
+      "text_excerpt": "猜每天的股市涨跌如瞎子摸象，没人能猜的出来，都是瞎蒙不是涨就是跌。本博有训，猜错一次罚禁言股市一个月！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 112,
+      "attitudes_count": 255
+    },
+    {
       "id": "5342867157681669",
       "bid": "RhZazwelT",
       "created_at": "Mon Sep 14 01:57:39 +0800 2026",
@@ -5472,6 +5496,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-13 18:00:24 UTC+8 (SCF)",
-  "total_count": 455
+  "last_updated": "2026-09-14 02:30:38 UTC+8 (SCF)",
+  "total_count": 457
 }
