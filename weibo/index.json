@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4166,
+    "statuses_count": 4165,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1006,6 +1006,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5343214631390730",
+      "bid": "Ri8d15PN8",
+      "created_at": "Tue Sep 15 00:58:23 +0800 2026",
+      "text_excerpt": "9,8号下午画的预判线，是“十字路口”的方向。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 15,
+      "attitudes_count": 24
     },
     {
       "id": "5343205291199938",
@@ -5532,6 +5544,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-14 16:30:35 UTC+8 (SCF)",
-  "total_count": 460
+  "last_updated": "2026-09-14 17:00:26 UTC+8 (SCF)",
+  "total_count": 461
 }
