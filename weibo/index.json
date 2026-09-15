@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4165,
+    "statuses_count": 4164,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1006,6 +1006,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5343380051331972",
+      "bid": "RicvP5Avq",
+      "created_at": "Tue Sep 15 11:55:42 +0800 2026",
+      "text_excerpt": "一文定一月，一画定乾坤。 ",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 60,
+      "attitudes_count": 123
     },
     {
       "id": "5343214631390730",
@@ -5544,6 +5556,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-14 17:00:26 UTC+8 (SCF)",
-  "total_count": 461
+  "last_updated": "2026-09-15 04:00:26 UTC+8 (SCF)",
+  "total_count": 462
 }
