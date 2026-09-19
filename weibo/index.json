@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4168,
+    "statuses_count": 4167,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3204,6 +3204,30 @@
       "attitudes_count": 2925
     },
     {
+      "id": "5345026323776569",
+      "bid": "RiTl6fQsp",
+      "created_at": "Sun Sep 20 00:57:24 +0800 2026",
+      "text_excerpt": "梦里都不会有！//<a href='/n/江水映长天'>@江水映长天</a>:今年呢，会不会重演啊",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 19,
+      "attitudes_count": 23
+    },
+    {
+      "id": "5345023664587709",
+      "bid": "RiTgOjftj",
+      "created_at": "Sun Sep 20 00:46:50 +0800 2026",
+      "text_excerpt": "微博又出现“往年今日微博”——2024年9月20号。<br />我说过很多次了，哪来的“9.24”行情？？<br />都是被媒体和大V洗脑洗傻了。我们回顾一下：24年9月11号发博A股底部在20号前后（图一）；9.月18号下午13:58分发博创业板最低点出现！——此刻对应的上证指数是2689点。（图二）<br />20号发博无惧任何风险，多买点！（图三）<br />24号“确定”2689就是底部，今年不见！（图四）<br />这里可不像大V那样无中生有胡编乱造欺骗新散户，都附",
+      "is_retweet": false,
+      "pics_count": 5,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 34,
+      "attitudes_count": 70
+    },
+    {
       "id": "5342484477511053",
       "bid": "RhPdlvvY1",
       "created_at": "Sun Sep 13 00:37:01 +0800 2026",
@@ -5616,6 +5640,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-19 15:33:07 UTC+8 (SCF)",
-  "total_count": 467
+  "last_updated": "2026-09-19 17:00:12 UTC+8 (SCF)",
+  "total_count": 469
 }
