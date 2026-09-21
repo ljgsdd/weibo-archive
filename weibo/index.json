@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4167,
+    "statuses_count": 4168,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1006,6 +1006,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5345794571895179",
+      "bid": "Rjdkd7X1p",
+      "created_at": "Tue Sep 22 03:50:09 +0800 2026",
+      "text_excerpt": "前天回农村参加亲戚们的宴席。偌大的厅堂摆满了整整五桌，从三姨妈103岁到表外甥他儿子的满月小孩，几代人都凑在了一起。<br />亲戚们总喜欢把自己家里的事跟我说，无论是大人们的生活，还是孩子学习工作，或是高考专业、毕业就业甚至婆媳矛盾，都一一倾诉。当然，这中间也夹杂着希望我帮忙之目的，我懂。<br />这次也不例外。<br />表哥的儿子平时很少碰面。在浙大读了11年书留了校，去年我刚参加了他的婚礼，如今爱人已怀孕8个月，在医院保胎。<br />饭后，表哥和他儿子把我拉到了室",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 20,
+      "attitudes_count": 28
     },
     {
       "id": "5343380051331972",
@@ -5664,6 +5676,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-21 07:00:12 UTC+8 (SCF)",
-  "total_count": 471
+  "last_updated": "2026-09-21 20:00:09 UTC+8 (SCF)",
+  "total_count": 472
 }
