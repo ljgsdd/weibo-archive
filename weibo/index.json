@@ -5,12 +5,24 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4168,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
   },
   "weibos": [
+    {
+      "id": "5346121309226608",
+      "bid": "RjlPcCIgg",
+      "created_at": "Wed Sep 23 01:28:29 +0800 2026",
+      "text_excerpt": "今年的冬天会很冷，杭州的冬天最难熬。//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:你那儿下雪了吗？可有炉火暖你的手？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 10,
+      "attitudes_count": 14
+    },
     {
       "id": "5341327447298481",
       "bid": "Rhl7auCFr",
@@ -5736,6 +5748,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-22 07:00:17 UTC+8 (SCF)",
-  "total_count": 477
+  "last_updated": "2026-09-22 17:30:10 UTC+8 (SCF)",
+  "total_count": 478
 }
