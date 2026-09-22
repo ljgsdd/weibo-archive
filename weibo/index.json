@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1006,6 +1006,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5345960874216558",
+      "bid": "RjhErhGV0",
+      "created_at": "Tue Sep 22 14:50:58 +0800 2026",
+      "text_excerpt": "股市预判在微博没有更新的前提下，量化不会调整策略，虽然低位股的预判已经过去二个月之久，反弹模式按最高日K的预判已过数周，但至今市场资金仍然按此逻辑进行，仍在按微博演示！<br />月底前各指数不会产生大幅度涨跌，上述模式市场资金和个股走势将继续进行，一波三折多点耐心，忽略指数！JG不召集量化阶段新策略会议，它们不会更改走势<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appsty",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 123,
+      "attitudes_count": 209
     },
     {
       "id": "5345916007482059",
@@ -5724,6 +5736,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-22 04:00:09 UTC+8 (SCF)",
-  "total_count": 476
+  "last_updated": "2026-09-22 07:00:17 UTC+8 (SCF)",
+  "total_count": 477
 }
