@@ -1008,6 +1008,18 @@
       "attitudes_count": 1610
     },
     {
+      "id": "5345916007482059",
+      "bid": "Rjgu4voqn",
+      "created_at": "Tue Sep 22 11:52:41 +0800 2026",
+      "text_excerpt": "本博提出一个多月了，今天大V开始播报了，那也就差不多了，这是规律。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 68,
+      "attitudes_count": 130
+    },
+    {
       "id": "5345906422451184",
       "bid": "RjgeCahFe",
       "created_at": "Tue Sep 22 11:14:36 +0800 2026",
@@ -5712,6 +5724,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-22 03:30:09 UTC+8 (SCF)",
-  "total_count": 475
+  "last_updated": "2026-09-22 04:00:09 UTC+8 (SCF)",
+  "total_count": 476
 }
