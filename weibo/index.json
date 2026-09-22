@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1006,6 +1006,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5345900672321018",
+      "bid": "Rjg5l9JNM",
+      "created_at": "Tue Sep 22 10:51:45 +0800 2026",
+      "text_excerpt": "人啊不能太贪心，更不能太私心。这都跟福报财运紧紧相连。从来没有一个自私自利的人可以走运可以富有终老。<br />不说股市互动也没了，如果我说下个月哪个板块会好，没尿完就提起裤子来点赞了是不？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1e",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 188,
+      "attitudes_count": 397
     },
     {
       "id": "5345895061129602",
@@ -5688,6 +5700,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-22 02:30:09 UTC+8 (SCF)",
-  "total_count": 473
+  "last_updated": "2026-09-22 03:00:17 UTC+8 (SCF)",
+  "total_count": 474
 }
