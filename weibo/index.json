@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4168,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1006,6 +1006,18 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5345895061129602",
+      "bid": "RjfWi4JRo",
+      "created_at": "Tue Sep 22 10:29:27 +0800 2026",
+      "text_excerpt": "一个多月过去了，验证一下：在没有板块的行情中，非要说板块，也就非它莫属了。//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:<a href='/n/菩提树下那道光'>@菩提树下那道光</a>：这次估计会接力六月科技股的机会，但力度不会超过一年前的那次预判。//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:一年之前，微博会提前预判板块并明确提出，现在里三层外三层人太多嘈杂了。老粉还记得那次提前提出的医药生物吗？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 7,
+      "attitudes_count": 26
     },
     {
       "id": "5345794571895179",
@@ -5676,6 +5688,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-21 20:00:09 UTC+8 (SCF)",
-  "total_count": 472
+  "last_updated": "2026-09-22 02:30:09 UTC+8 (SCF)",
+  "total_count": 473
 }
