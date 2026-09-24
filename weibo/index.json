@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4168,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2110,6 +2110,18 @@
       "reposts_count": 1,
       "comments_count": 195,
       "attitudes_count": 685
+    },
+    {
+      "id": "5346629093949849",
+      "bid": "Rjz2dgzxf",
+      "created_at": "Thu Sep 24 11:06:13 +0800 2026",
+      "text_excerpt": "那年今日，过眼烟云。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 136,
+      "attitudes_count": 270
     },
     {
       "id": "5346624886802403",
@@ -5784,6 +5796,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-24 03:00:12 UTC+8 (SCF)",
-  "total_count": 481
+  "last_updated": "2026-09-24 03:30:11 UTC+8 (SCF)",
+  "total_count": 482
 }
