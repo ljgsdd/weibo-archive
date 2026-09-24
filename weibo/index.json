@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4168,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2110,6 +2110,18 @@
       "reposts_count": 1,
       "comments_count": 195,
       "attitudes_count": 685
+    },
+    {
+      "id": "5346624886802403",
+      "bid": "RjyVqsxCb",
+      "created_at": "Thu Sep 24 10:49:31 +0800 2026",
+      "text_excerpt": "逢年过节，上海、深圳证券所给你发月饼了吗？还是你给他们发过节费？记得家里还有父母——盼你回家。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 118,
+      "attitudes_count": 252
     },
     {
       "id": "5344268644258943",
@@ -5772,6 +5784,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-23 08:30:11 UTC+8 (SCF)",
-  "total_count": 480
+  "last_updated": "2026-09-24 03:00:12 UTC+8 (SCF)",
+  "total_count": 481
 }
