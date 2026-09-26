@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4168,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3612,6 +3612,18 @@
       "attitudes_count": 53
     },
     {
+      "id": "5347530378314191",
+      "bid": "RjWtTySTR",
+      "created_at": "Sat Sep 26 22:47:36 +0800 2026",
+      "text_excerpt": "微博一粉丝的农产品，帮助宣传一下<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>这可是本博第一次广告，压力巨大，俊哥绝对分文不收！我说粉丝买有优惠吗？他说：肯定有。你们先尝，如物美价廉评论",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 48,
+      "attitudes_count": 118
+    },
+    {
       "id": "5347397212832460",
       "bid": "RjT17bSQQ",
       "created_at": "Sat Sep 26 13:58:28 +0800 2026",
@@ -5820,6 +5832,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-26 06:00:13 UTC+8 (SCF)",
-  "total_count": 484
+  "last_updated": "2026-09-26 15:00:17 UTC+8 (SCF)",
+  "total_count": 485
 }
