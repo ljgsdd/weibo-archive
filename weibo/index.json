@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4172,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3336,6 +3336,18 @@
       "attitudes_count": 2925
     },
     {
+      "id": "5347724460297112",
+      "bid": "Rk1wW1fi8",
+      "created_at": "Sun Sep 27 11:38:50 +0800 2026",
+      "text_excerpt": "哈哈非常非常感谢那么多粉丝对我的信任<span class=\"url-icon\"><img alt=\"[作揖]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/da/201810_zuoyi_mobile.png\" style=\"width:1em; height:1em;\" /></span>我只不过是一个测试而已！这让我想起了当年父亲卸甲归田，坐在家里闲不住，非要我给他弄点事做做，后来就让他",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 64,
+      "attitudes_count": 143
+    },
+    {
       "id": "5347566348141962",
       "bid": "RjXpUya5Y",
       "created_at": "Sun Sep 27 01:10:33 +0800 2026",
@@ -5868,6 +5880,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-26 17:30:12 UTC+8 (SCF)",
-  "total_count": 488
+  "last_updated": "2026-09-27 04:00:11 UTC+8 (SCF)",
+  "total_count": 489
 }
