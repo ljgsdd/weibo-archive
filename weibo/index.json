@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4172,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3336,6 +3336,18 @@
       "attitudes_count": 2925
     },
     {
+      "id": "5347762369728190",
+      "bid": "Rk2w4EOKi",
+      "created_at": "Sun Sep 27 14:09:28 +0800 2026",
+      "text_excerpt": "帮粉丝介绍了一下农产品，居然有些人私下说我卖号了……你们不知道此号此前三次注销不成功吗？的确，收到很多私信想买号，也有众多机构想合作，其他人或许会，此处绝对不会！<br />宁可注销也不会卖号，一个亿也不卖！（留证） ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 72,
+      "attitudes_count": 168
+    },
+    {
       "id": "5347724460297112",
       "bid": "Rk1wW1fi8",
       "created_at": "Sun Sep 27 11:38:50 +0800 2026",
@@ -5880,6 +5892,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-27 04:00:11 UTC+8 (SCF)",
-  "total_count": 489
+  "last_updated": "2026-09-27 06:30:15 UTC+8 (SCF)",
+  "total_count": 490
 }
