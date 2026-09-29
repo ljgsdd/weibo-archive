@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1042,6 +1042,30 @@
       "reposts_count": 0,
       "comments_count": 867,
       "attitudes_count": 1610
+    },
+    {
+      "id": "5348438248260630",
+      "bid": "Rkk6cyEXY",
+      "created_at": "Tue Sep 29 10:55:10 +0800 2026",
+      "text_excerpt": "如果真的根据本博预判的时间，那节后虽然指数个股还会有下蹲动作，但又会像几月份我预判来着？会有很多妖股掀起来",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 75,
+      "attitudes_count": 193
+    },
+    {
+      "id": "5348436204591691",
+      "bid": "Rkk2Ujgvx",
+      "created_at": "Tue Sep 29 10:47:03 +0800 2026",
+      "text_excerpt": "今天会跌下去吗？今天不会！<br />别追大V播报的任何板块即可。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 156,
+      "attitudes_count": 342
     },
     {
       "id": "5345960874216558",
@@ -5904,6 +5928,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-28 03:00:12 UTC+8 (SCF)",
-  "total_count": 491
+  "last_updated": "2026-09-29 03:00:14 UTC+8 (SCF)",
+  "total_count": 493
 }
