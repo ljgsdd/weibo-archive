@@ -5,12 +5,24 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
   },
   "weibos": [
+    {
+      "id": "5348899216949861",
+      "bid": "Rkw5Ht9Yx",
+      "created_at": "Wed Sep 30 17:26:54 +0800 2026",
+      "text_excerpt": "节日快乐！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 127,
+      "attitudes_count": 142
+    },
     {
       "id": "5346341573624468",
       "bid": "RjrytfcTa",
@@ -5928,6 +5940,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-29 03:00:14 UTC+8 (SCF)",
-  "total_count": 493
+  "last_updated": "2026-09-30 09:30:13 UTC+8 (SCF)",
+  "total_count": 494
 }
