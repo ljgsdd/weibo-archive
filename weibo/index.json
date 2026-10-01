@@ -5400,6 +5400,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5349364975538185",
+      "bid": "RkIcVneJz",
+      "created_at": "Fri Oct 02 00:17:39 +0800 2026",
+      "text_excerpt": "所有的所谓网红打卡点，最终必定烟消云散，尴尬落幕，不管是旅游点、餐饮点、咖啡点、酒馆酒吧等，靠兴起一时的流量，都不会持久！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 73
+    },
+    {
       "id": "5278333739738047",
       "bid": "QwROJERjh",
       "created_at": "Fri Mar 20 00:04:53 +0800 2026",
@@ -5952,6 +5964,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-01 05:32:27 UTC+8 (SCF)",
-  "total_count": 495
+  "last_updated": "2026-10-01 16:30:13 UTC+8 (SCF)",
+  "total_count": 496
 }
