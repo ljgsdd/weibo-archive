@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2362,6 +2362,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5349199405386199",
+      "bid": "RkDTSmBcb",
+      "created_at": "Thu Oct 01 13:19:44 +0800 2026",
+      "text_excerpt": "A股立场不坚，骨质疏松，有时甚至卑躬屈膝，摧眉折腰。这次估计跟小日本了！<br />出门玩去了吗？外面人可多？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 99,
+      "attitudes_count": 198
     },
     {
       "id": "5303570289131976",
@@ -5940,6 +5952,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-09-30 09:30:13 UTC+8 (SCF)",
-  "total_count": 494
+  "last_updated": "2026-10-01 05:32:27 UTC+8 (SCF)",
+  "total_count": 495
 }
