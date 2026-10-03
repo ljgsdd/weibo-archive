@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3876,6 +3876,18 @@
       "attitudes_count": 187
     },
     {
+      "id": "5349879779951463",
+      "bid": "RkVBfFKPt",
+      "created_at": "Sat Oct 03 10:23:18 +0800 2026",
+      "text_excerpt": "往年今日博～很怀念那时候的发展环境，很感恩那时候的政商作风，很敬佩那时候的挥斥方遒。相信若干年之后，山河如初，热情依旧。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 32,
+      "attitudes_count": 76
+    },
+    {
       "id": "5349862746360168",
       "bid": "RkV9MqGzm",
       "created_at": "Sat Oct 03 09:15:37 +0800 2026",
@@ -5988,6 +6000,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-03 01:30:11 UTC+8 (SCF)",
-  "total_count": 498
+  "last_updated": "2026-10-03 02:30:12 UTC+8 (SCF)",
+  "total_count": 499
 }
