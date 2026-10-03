@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4171,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3876,6 +3876,18 @@
       "attitudes_count": 187
     },
     {
+      "id": "5349862746360168",
+      "bid": "RkV9MqGzm",
+      "created_at": "Sat Oct 03 09:15:37 +0800 2026",
+      "text_excerpt": "A股休市，外围各国资本市场都进行了一番上涨，尤其是纳斯达克，居然创出历史新高！有人说：A股休市利好全球。那是大V们给散户洗脑的说辞。韭菜们也会人云亦云。A股还真没那个能耐和影响力，否则哪来的美股长牛？哪来的日韩大牛？人家鸟都不鸟A股。<br />你的证劵账户，是透明的。你开户的证劵公司对你的持仓资金和个股是公开的，你在股市里，一直在裸奔。以前是通过证劵公司的统计，后来是通过大数据技术，现在是通过AI算力，任何一个股票散户多少持仓、实时交易都如Low-E贴膜玻璃，你看不到，他们",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 89,
+      "attitudes_count": 183
+    },
+    {
       "id": "5349749248754730",
       "bid": "RkScIAJvk",
       "created_at": "Sat Oct 03 01:44:37 +0800 2026",
@@ -5976,6 +5988,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-02 18:00:12 UTC+8 (SCF)",
-  "total_count": 497
+  "last_updated": "2026-10-03 01:30:11 UTC+8 (SCF)",
+  "total_count": 498
 }
