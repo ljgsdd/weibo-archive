@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4356,6 +4356,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5350642534059867",
+      "bid": "Rlfrvh29J",
+      "created_at": "Mon Oct 05 12:54:13 +0800 2026",
+      "text_excerpt": "台湾股市屡创历史新高，你回归吧！！ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 61,
+      "attitudes_count": 103
+    },
+    {
       "id": "5302282628892511",
       "bid": "R0XnEBjlB",
       "created_at": "Mon May 25 02:09:13 +0800 2026",
@@ -6000,6 +6012,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-03 02:30:12 UTC+8 (SCF)",
-  "total_count": 499
+  "last_updated": "2026-10-05 05:00:15 UTC+8 (SCF)",
+  "total_count": 500
 }
