@@ -1,0 +1,33 @@
+{
+  "id": "5350674317445144",
+  "mid": "5350674317445144",
+  "bid": "RlggLveOY",
+  "created_at": "Mon Oct 05 15:00:31 +0800 2026",
+  "text_html": "我忘了这是谁的相册，全是我的微博截图……",
+  "text_raw": "我忘了这是谁的相册，全是我的微博截图……",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 1,
+  "comments_count": 70,
+  "attitudes_count": 152,
+  "pic_ids": [],
+  "pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5218403834923651",
+    "mid": "5218403834923651",
+    "bid": "Q7ILBkERJ",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Sun Oct 05 15:04:50 +0800 2025",
+    "text_html": "我知道的，有一个粉丝把微博装订成书了，有一个粉丝已经手抄200多页，有一个粉丝截图收集再成册……<br />我不知道的，有许多许多的粉丝都在摘抄四年微博之精华。这假期，翻阅的更是无数！<br />你们有心了，俊哥欣慰了。无数个夜阑人静，晨光熹微写出来的条条微博，倾注心血，留存世间。<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+    "is_long_text": false,
+    "pics": [
+      "https://wx1.sinaimg.cn/mw2000/3bc1f9cdgy1i61i13bt2gj20u01a849a.jpg"
+    ]
+  },
+  "url": "https://weibo.com/1002568141/RlggLveOY"
+}
