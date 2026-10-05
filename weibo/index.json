@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4173,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1294,6 +1294,42 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5350840280024472",
+      "bid": "RlkAs06mI",
+      "created_at": "Tue Oct 06 01:59:59 +0800 2026",
+      "text_excerpt": "股市千变万化，有时候瞬息万变。股市没有规律，更没有一成不变的逻辑，技术参数更是扯淡！<br />老粉都知道，几年的微博，无数次的预判顶底，次次精准，但你们发现没有：每一次预判的对应指数全部都不一样，没有一次是同一指数！有时候甚至是用某一个国外的指数来预判A股底部，从来不用大V们经常说的上证指数来预判，有没有人知道这个原因？",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 0
+    },
+    {
+      "id": "5350837968701074",
+      "bid": "RlkwIAvxU",
+      "created_at": "Tue Oct 06 01:50:48 +0800 2026",
+      "text_excerpt": "不信吗？不瞒你们说，上证的企稳点就在图中红线处3400.-3500点，只是国庆前几天怕影响大家心情，忍住不说。当下跌趋势形成后，300点的跌幅会加速，很短时间就会到，资金有多米诺股效应，也就是散户口中的踩踏，机构顺势做空，这些都发生在下跌末端，也就是暴跌，所以往往都是散户割肉受不了了，底部就到了，老股民都经历过吧？<br />所以我盯着全球股市，此时此刻，亚洲股市救不了A股，台湾日本韩国暴涨都没有用，唯美股可挽回。",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 62
+    },
+    {
+      "id": "5350834692686270",
+      "bid": "RlkrrbgOW",
+      "created_at": "Tue Oct 06 01:37:47 +0800 2026",
+      "text_excerpt": "前天写了一段纳斯达克的微博说违规。<br />昨天写了一段创业板指的微博说违规。<br />慢慢地，违规成了掩盖真相的代名词，对事实讳莫如深，人们便噤若寒蝉。<br />纳斯达克又创历史新高，至少会压制点A股融券机构，美股此时如果反方向破位下跌，A股毫不犹豫奔向3500！我们希望有一天人民币能成为国际货币，普通话能成为国际语言，但在未实现之前，认清形势，客观事实，取长补短。",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 29,
+      "attitudes_count": 64
     },
     {
       "id": "5302648934760584",
@@ -6048,6 +6084,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-05 09:00:18 UTC+8 (SCF)",
-  "total_count": 503
+  "last_updated": "2026-10-05 18:00:18 UTC+8 (SCF)",
+  "total_count": 506
 }
