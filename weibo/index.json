@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4356,6 +4356,30 @@
       "attitudes_count": 33
     },
     {
+      "id": "5350674317445144",
+      "bid": "RlggLveOY",
+      "created_at": "Mon Oct 05 15:00:31 +0800 2026",
+      "text_excerpt": "我忘了这是谁的相册，全是我的微博截图……",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 96,
+      "attitudes_count": 213
+    },
+    {
+      "id": "5350672277179759",
+      "bid": "Rlgdtu7Mz",
+      "created_at": "Mon Oct 05 14:52:24 +0800 2026",
+      "text_excerpt": "有这么一些人，他她们每天私信：不管今日是否发博，还是已停博一个多月的小号，他她们每天会在微博上私信打卡、祝福、问候。<br />每天？对，是每天，有的已经坚持一年。关键在于我从不理睬从不回复，仍然一直坚持。<br />其实，我都看到的<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mo",
+      "is_retweet": false,
+      "pics_count": 8,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 149,
+      "attitudes_count": 358
+    },
+    {
       "id": "5350642534059867",
       "bid": "Rlfrvh29J",
       "created_at": "Mon Oct 05 12:54:13 +0800 2026",
@@ -6012,6 +6036,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-05 05:00:15 UTC+8 (SCF)",
-  "total_count": 500
+  "last_updated": "2026-10-05 08:30:12 UTC+8 (SCF)",
+  "total_count": 502
 }
