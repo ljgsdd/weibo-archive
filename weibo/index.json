@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4172,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -238,6 +238,18 @@
       "reposts_count": 2,
       "comments_count": 71,
       "attitudes_count": 192
+    },
+    {
+      "id": "5351191988142475",
+      "bid": "RltJIyaef",
+      "created_at": "Wed Oct 07 01:17:33 +0800 2026",
+      "text_excerpt": "《中国城市未来五年房价走势略谈》<br />微博写过关于中国房地产的文章，不少于一百篇幅。无任从21年预判的“全国会陆续取消限购政策”，还是22年预判的“限购取消之日房价下跌开始”，甚至历时六个小时、专题无偿解答几百个粉丝私信的房产各类问题，本博均为提前预测，从不马后炮“分析”。事实，也与预判一致。<br />这篇文章，让我写可以写三万字，其涉及面之广，数据之复杂，是其他行业无法比拟的。浅谈即止，亦会收获颇丰！<br />自改革开放以来，房地产作为城市发展的旗杆行业，在全国范",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 25,
+      "attitudes_count": 61
     },
     {
       "id": "5351181934399305",
@@ -6144,6 +6156,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-06 17:00:14 UTC+8 (SCF)",
-  "total_count": 511
+  "last_updated": "2026-10-06 17:30:16 UTC+8 (SCF)",
+  "total_count": 512
 }
