@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4172,
+    "statuses_count": 4173,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -238,6 +238,18 @@
       "reposts_count": 2,
       "comments_count": 71,
       "attitudes_count": 192
+    },
+    {
+      "id": "5351205666554535",
+      "bid": "Rlu5Mrv8j",
+      "created_at": "Wed Oct 07 02:11:54 +0800 2026",
+      "text_excerpt": "《中国城市未来五年房价走势略谈》二<br />房价走势，大多数业内人士都会拿各城市的庞大数据说话，这也没错。那如果一概而论跟股市那样只有涨跌之分，必定是门外汉。<br />目前，各个城市的存量房各不相同，拿杭州来说，库存至少还有三四年，三四线城市更甚。而且，据我估计，中国很多手里有多套房源的人，至今仍拿在手上，不愿面向市场，在观望！想着反正已经跌到今天这样了，再等等吧不忍心亏损出货，再加上变现也无新的投资渠道，这个数据不在官方统计行列，数目巨大。<br />因此，我们看到的统",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 22,
+      "attitudes_count": 51
     },
     {
       "id": "5351191988142475",
@@ -6156,6 +6168,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-06 17:30:16 UTC+8 (SCF)",
-  "total_count": 512
+  "last_updated": "2026-10-06 18:30:09 UTC+8 (SCF)",
+  "total_count": 513
 }
