@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4172,
+    "statuses_count": 4171,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1294,6 +1294,18 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5351023378174033",
+      "bid": "RlplLyirf",
+      "created_at": "Tue Oct 06 14:07:33 +0800 2026",
+      "text_excerpt": "昨日微博，有些发不出来有些不能评论，平台各种限流。截图恢复，且看且珍惜。 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 198,
+      "attitudes_count": 287
     },
     {
       "id": "5350844998353521",
@@ -6096,6 +6108,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-05 18:30:09 UTC+8 (SCF)",
-  "total_count": 507
+  "last_updated": "2026-10-06 06:30:13 UTC+8 (SCF)",
+  "total_count": 508
 }
