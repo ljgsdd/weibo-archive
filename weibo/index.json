@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4172,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1294,6 +1294,30 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5351043582134372",
+      "bid": "RlpSm8Xfm",
+      "created_at": "Tue Oct 06 15:27:50 +0800 2026",
+      "text_excerpt": "如果我说如果，我组织带队去看看大洋彼岸的硅谷一些企业，亲身体验资本主义社会到底有多么的堕落。你会不会报名亲眼目睹亲身体验？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 54,
+      "attitudes_count": 84
+    },
+    {
+      "id": "5351040410978820",
+      "bid": "RlpNf46Dq",
+      "created_at": "Tue Oct 06 15:15:14 +0800 2026",
+      "text_excerpt": "我最讨厌网络上一些人所谓的人生感悟，人生哲理，包括所谓的红一法师等等，抄来一段文字，故弄玄虚装文化，都是洗脑式灌输！人，只有在空虚和需要依靠需要寄托的时候，才会被这些东西侵入心灵，这个时代很多人都这样，空虚、焦虑、浮躁。<br />哪有那么多人生感悟，我还感悟为啥河里没人钓黄鳝了？哲学家你给我解释一下？<br />多看书不看短视频，十个视频九个假。我们的人生都才开始，每个人都有自己独特的视角，去你的感悟。",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 82,
+      "attitudes_count": 157
     },
     {
       "id": "5351023378174033",
@@ -6108,6 +6132,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-06 06:30:13 UTC+8 (SCF)",
-  "total_count": 508
+  "last_updated": "2026-10-06 07:30:18 UTC+8 (SCF)",
+  "total_count": 510
 }
