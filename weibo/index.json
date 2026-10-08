@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4172,
+    "statuses_count": 4171,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5676,6 +5676,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5351939283878381",
+      "bid": "RlNb2ggWx",
+      "created_at": "Fri Oct 09 02:47:02 +0800 2026",
+      "text_excerpt": "美国政府7号宣布，政府已为所有符合条件的18岁以下美国未成年人自动开设用于长期股市投资的“特朗普账户”，并称这账户让美国儿童成年之后变得“相当富有”，特朗普称这账户免税，旨在让孩子们从小懂得积累财富。<br />另外25/28年出生的，联邦政府一次性发放1000美元种子投资。<br />老美这是要全民炒股啊？不对，他们那边没人说炒股，叫投资investing，中国会这么做吗？绝无可能，不补税加税涨养老金就烧高香了。就算做了，若干年后打开账户一看：股票退市了！",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 15,
+      "attitudes_count": 27
+    },
+    {
       "id": "5349364975538185",
       "bid": "RkIcVneJz",
       "created_at": "Fri Oct 02 00:17:39 +0800 2026",
@@ -6240,6 +6252,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-08 07:30:19 UTC+8 (SCF)",
-  "total_count": 519
+  "last_updated": "2026-10-08 19:00:11 UTC+8 (SCF)",
+  "total_count": 520
 }
