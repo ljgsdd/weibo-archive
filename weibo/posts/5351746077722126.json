@@ -1,0 +1,33 @@
+{
+  "id": "5351746077722126",
+  "mid": "5351746077722126",
+  "bid": "RlI9pwoSq",
+  "created_at": "Thu Oct 08 13:59:18 +0800 2026",
+  "text_html": "9.27号的微博吧看到的就不会有人去满仓。今天也就不会哇哇叫了",
+  "text_raw": "9.27号的微博吧看到的就不会有人去满仓。今天也就不会哇哇叫了",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 18,
+  "attitudes_count": 63,
+  "pic_ids": [],
+  "pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5351745586725055",
+    "mid": "5351745586725055",
+    "bid": "RlI8CsduD",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Thu Oct 08 13:57:20 +0800 2026",
+    "text_html": "粉丝倒有保存，这里说的就是科技股创业板指。节前。 ",
+    "is_long_text": false,
+    "pics": [
+      "https://wx1.sinaimg.cn/mw2000/3bc1f9cdgy1ihuwktsnh3j20wr0mc44d.jpg"
+    ]
+  },
+  "url": "https://weibo.com/1002568141/RlI9pwoSq"
+}
