@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4172,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2506,6 +2506,30 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5351763697206061",
+      "bid": "RlIBPueCN",
+      "created_at": "Thu Oct 08 15:09:19 +0800 2026",
+      "text_excerpt": "现实中没有，活腻了网上来逛逛，自找点麻烦//<a href='/n/啊噢鹅鹅鹅鹅鹅'>@啊噢鹅鹅鹅鹅鹅</a>:大佬也会有情绪困扰<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span><spa",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 76,
+      "attitudes_count": 150
+    },
+    {
+      "id": "5351762463559834",
+      "bid": "RlIzQeW4G",
+      "created_at": "Thu Oct 08 15:04:25 +0800 2026",
+      "text_excerpt": "两年的今天。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 92,
+      "attitudes_count": 198
     },
     {
       "id": "5351722992273363",
@@ -6216,6 +6240,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-08 05:00:13 UTC+8 (SCF)",
-  "total_count": 517
+  "last_updated": "2026-10-08 07:30:19 UTC+8 (SCF)",
+  "total_count": 519
 }
