@@ -5676,6 +5676,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5352160110053662",
+      "bid": "RlSVd0dXw",
+      "created_at": "Fri Oct 09 17:24:31 +0800 2026",
+      "text_excerpt": "全球股市都高开高走，港股今天也是高开高走，A股有个性<span class=\"url-icon\"><img alt=\"[流汗]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/56/2025_liuhan_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 64,
+      "attitudes_count": 148
+    },
+    {
       "id": "5352099179136077",
       "bid": "RlRkVCkI5",
       "created_at": "Fri Oct 09 13:22:24 +0800 2026",
@@ -6276,6 +6288,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-09 05:30:09 UTC+8 (SCF)",
-  "total_count": 522
+  "last_updated": "2026-10-09 09:30:13 UTC+8 (SCF)",
+  "total_count": 523
 }
