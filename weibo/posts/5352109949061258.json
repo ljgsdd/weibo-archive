@@ -1,0 +1,31 @@
+{
+  "id": "5352109949061258",
+  "mid": "5352109949061258",
+  "bid": "RlRCiC1fk",
+  "created_at": "Fri Oct 09 14:05:12 +0800 2026",
+  "text_html": "红了，别再喷了可好？",
+  "text_raw": "红了，别再喷了可好？",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 148,
+  "attitudes_count": 317,
+  "pic_ids": [],
+  "pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5352099179136077",
+    "mid": "5352099179136077",
+    "bid": "RlRkVCkI5",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Fri Oct 09 13:22:24 +0800 2026",
+    "text_html": "拉红？ ",
+    "is_long_text": false,
+    "pics": []
+  },
+  "url": "https://weibo.com/1002568141/RlRCiC1fk"
+}
