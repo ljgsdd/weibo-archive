@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4168,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5676,6 +5676,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5352099179136077",
+      "bid": "RlRkVCkI5",
+      "created_at": "Fri Oct 09 13:22:24 +0800 2026",
+      "text_excerpt": "拉红？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 134,
+      "attitudes_count": 256
+    },
+    {
       "id": "5352048251109734",
       "bid": "RlQ0N4EGW",
       "created_at": "Fri Oct 09 10:00:01 +0800 2026",
@@ -6264,6 +6276,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-09 02:30:11 UTC+8 (SCF)",
-  "total_count": 521
+  "last_updated": "2026-10-09 05:30:09 UTC+8 (SCF)",
+  "total_count": 522
 }
