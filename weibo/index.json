@@ -5676,6 +5676,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5352048251109734",
+      "bid": "RlQ0N4EGW",
+      "created_at": "Fri Oct 09 10:00:01 +0800 2026",
+      "text_excerpt": "微博还在，我看得到，你却看不到了。平台显示被黑子举报，那便不再说了。 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 219,
+      "attitudes_count": 431
+    },
+    {
       "id": "5351939283878381",
       "bid": "RlNb2ggWx",
       "created_at": "Fri Oct 09 02:47:02 +0800 2026",
@@ -6252,6 +6264,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-08 19:00:11 UTC+8 (SCF)",
-  "total_count": 520
+  "last_updated": "2026-10-09 02:30:11 UTC+8 (SCF)",
+  "total_count": 521
 }
