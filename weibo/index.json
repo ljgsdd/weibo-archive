@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4168,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4068,6 +4068,30 @@
       "attitudes_count": 187
     },
     {
+      "id": "5352423260684380",
+      "bid": "RlZLE2S2o",
+      "created_at": "Sat Oct 10 10:50:10 +0800 2026",
+      "text_excerpt": "微博说马上会有这功能，以后就真爱粉可见了//<a href='/n/YeahyouH'>@YeahyouH</a>:俊哥，以后半夜发的微博能否仅限真爱粉可见<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 111,
+      "attitudes_count": 180
+    },
+    {
+      "id": "5352421200757892",
+      "bid": "RlZIk3ba4",
+      "created_at": "Sat Oct 10 10:42:00 +0800 2026",
+      "text_excerpt": "这是半夜的，有啥可看的<span class=\"url-icon\"><img alt=\"[流汗]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/56/2025_liuhan_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 97,
+      "attitudes_count": 192
+    },
+    {
       "id": "5352302120797108",
       "bid": "RlWCg3lmA",
       "created_at": "Sat Oct 10 02:48:49 +0800 2026",
@@ -6300,6 +6324,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-09 19:00:10 UTC+8 (SCF)",
-  "total_count": 524
+  "last_updated": "2026-10-10 03:00:11 UTC+8 (SCF)",
+  "total_count": 526
 }
