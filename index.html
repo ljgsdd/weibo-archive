@@ -64,7 +64,7 @@ footer a{color:#ff5722}
   header{padding:22px 12px 18px}
   header .avatar{width:54px;height:54px}
   header h1{font-size:18px}
-  .container,.toolbar{padding-left:10px;padding-right:10px}
+  .container,.toolbar{padding-left:10px;padding:10px}
   .post{padding:12px 14px;border-radius:8px}
 }
 </style>
@@ -98,6 +98,7 @@ footer a{color:#ff5722}
 </div>
 
 <script>
+const VIEWER_VERSION = 'v3-图片本地化';
 const INDEX_URL = './weibo/index.json';
 const POST_DIR  = './weibo/posts/';
 
@@ -119,25 +120,42 @@ function fmtTime(s){
   return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${hm}`;
 }
 
-function fixPicUrl(u){
+function toAbsUrl(u){
   if(!u) return '';
-  // 强制 https（避免 mixed content 被浏览器 block）
   if(u.startsWith('http://')) u = 'https://' + u.slice(7);
-  return u;
+  if(u.startsWith('https://')) return u;
+  // 仓库内相对路径(如 weibo/images/xxx.jpg) → 相对本站的绝对路径
+  return './' + u.replace(/^\.\//,'');
 }
-function picsGrid(pics){
+
+function remoteFallbacks(remoteUrl){
+  const url = toAbsUrl(remoteUrl);
+  if(!url || !url.startsWith('http')) return [];
+  const noProto = url.replace(/^https?:\/\//,'');
+  return [
+    url,
+    'https://i0.wp.com/' + noProto,
+    'https://images.weserv.nl/?url=' + encodeURIComponent(noProto)
+  ];
+}
+
+// 一张图的渲染: 本地优先, 失败逐级回退外链
+function imgTag(localUrl, remoteUrl){
+  const local = toAbsUrl(localUrl);
+  const chain = [];
+  if(local) chain.push(local);
+  for(const u of remoteFallbacks(remoteUrl)){
+    if(!chain.includes(u)) chain.push(u);
+  }
+  if(!chain.length) return '';
+  const onerror = "(function(img){try{const fb=JSON.parse(img.dataset.fb||'[]');const i=parseInt(img.dataset.idx||'0',10);if(i<fb.length){img.dataset.idx=i+1;img.src=fb[i];return}}catch(e){}img.style.opacity=0.25;img.alt='图片已失效';img.removeAttribute('onerror')})(this)";
+  return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(chain[0])}" data-fb='${esc(JSON.stringify(chain.slice(1)))}' onerror="${onerror}">`;
+}
+
+function picsGrid(pics, locals){
   if(!pics || !pics.length) return '';
   const cls = pics.length===1?'single':pics.length===2?'double':'';
-  return `<div class="pics ${cls}">${pics.map(u=>{
-    const url = fixPicUrl(u);
-    const noProto = url.replace(/^https?:\/\//,'');
-    // 失败兜底：直链(无referer) → i0.wp.com(Jetpack代理) → images.weserv.nl → 显示失效
-    const fallbacks = [
-      'https://i0.wp.com/' + noProto,
-      'https://images.weserv.nl/?url=' + encodeURIComponent(noProto)
-    ];
-    return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(url)}" data-fb='${esc(JSON.stringify(fallbacks))}' onerror="(function(img){try{const fb=JSON.parse(img.dataset.fb||'[]');const i=parseInt(img.dataset.idx||'0',10);if(i<fb.length){img.dataset.idx=i+1;img.src=fb[i];return}}catch(e){}img.style.opacity=0.25;img.alt='图片已失效';img.removeAttribute('onerror')})(this)">`;
-  }).join('')}</div>`;
+  return `<div class="pics ${cls}">${pics.map((u,i)=>imgTag(locals&&locals[i],u)).join('')}</div>`;
 }
 
 const postCache = {};
@@ -153,13 +171,13 @@ function renderFull(p){
   if(p.video_url){
     html += `<div class="video-block"><video controls preload="metadata" poster="${esc(p.video_cover||'')}" src="${esc(p.video_url)}"></video></div>`;
   }
-  html += picsGrid(p.pics);
+  html += picsGrid(p.pics, p.local_pics);
   if(p.retweeted){
     const rt = p.retweeted;
     html += `<div class="retweeted">
       <div><span class="rt-author">@${esc(rt.user_name||'原作者')}</span><span class="rt-time">${esc(fmtTime(rt.created_at))}</span></div>
       <div class="text" style="margin-top:4px">${rt.text_html || esc(rt.text_raw||'')}</div>
-      ${picsGrid(rt.pics)}
+      ${picsGrid(rt.pics, rt.local_pics)}
     </div>`;
   }
   if(p.url){
@@ -187,7 +205,7 @@ async function togglePost(card,id){
 }
 
 let ALL = [];
-let DESC = true;  // true=最新在上, false=最旧在上
+let DESC = true;
 
 function sortAll(){
   ALL.sort((a,b)=>{
@@ -275,7 +293,7 @@ $('sort-btn').addEventListener('click', () => {
 
 document.addEventListener('click',e=>{
   if(e.target.tagName==='IMG' && e.target.closest('.pics')){
-    $('lb-img').src = e.target.src;
+    $('lb-img').src = e.target.currentSrc || e.target.src;
     $('lightbox').classList.add('show');
   }
 });
