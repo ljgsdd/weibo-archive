@@ -4656,6 +4656,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5353216348522386",
+      "bid": "RmkoOzL3Q",
+      "created_at": "Mon Oct 12 15:21:38 +0800 2026",
+      "text_excerpt": "忽冷忽热，天时不正。虽早有明示，却仍存侥幸，是否从来没这么盼望日子过得快一点？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 104,
+      "attitudes_count": 197
+    },
+    {
       "id": "5353142512258804",
       "bid": "RmitJ9tCk",
       "created_at": "Mon Oct 12 10:28:14 +0800 2026",
@@ -6432,6 +6444,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-12 02:30:09 UTC+8 (SCF v3)",
-  "total_count": 535
+  "last_updated": "2026-10-12 07:30:15 UTC+8 (SCF v3)",
+  "total_count": 536
 }
