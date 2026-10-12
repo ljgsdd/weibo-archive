@@ -4656,6 +4656,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5353142512258804",
+      "bid": "RmitJ9tCk",
+      "created_at": "Mon Oct 12 10:28:14 +0800 2026",
+      "text_excerpt": "早盘一度下杀，昨夜一句可安汝心？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 87,
+      "attitudes_count": 157
+    },
+    {
       "id": "5353005995264684",
       "bid": "RmeVxm5Ag",
       "created_at": "Mon Oct 12 01:25:46 +0800 2026",
@@ -6420,6 +6432,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-11 17:30:11 UTC+8 (SCF v3)",
-  "total_count": 534
+  "last_updated": "2026-10-12 02:30:09 UTC+8 (SCF v3)",
+  "total_count": 535
 }
