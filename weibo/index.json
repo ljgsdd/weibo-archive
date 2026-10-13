@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4167,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1354,6 +1354,18 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5353517997883742",
+      "bid": "Rmsflx4V8",
+      "created_at": "Tue Oct 13 11:20:16 +0800 2026",
+      "text_excerpt": "你觉得是绿线处还是红线处企稳反弹？<br />回复看看这道光到底还能找到多少人～ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 388,
+      "attitudes_count": 456
     },
     {
       "id": "5353474546205054",
@@ -6492,6 +6504,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-13 00:30:16 UTC+8 (SCF v3)",
-  "total_count": 540
+  "last_updated": "2026-10-13 03:30:11 UTC+8 (SCF v3)",
+  "total_count": 541
 }
