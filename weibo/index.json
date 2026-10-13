@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4167,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1354,6 +1354,18 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5353460058818268",
+      "bid": "RmqJTB028",
+      "created_at": "Tue Oct 13 07:30:03 +0800 2026",
+      "text_excerpt": "早上好<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span><br />菩提人间寄语：“珍爱身体 远离外卖” ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 177,
+      "attitudes_count": 380
     },
     {
       "id": "5351043582134372",
@@ -6444,6 +6456,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-12 07:30:15 UTC+8 (SCF v3)",
-  "total_count": 536
+  "last_updated": "2026-10-13 00:00:13 UTC+8 (SCF v3)",
+  "total_count": 537
 }
