@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4167,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1354,6 +1354,42 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5353474546205054",
+      "bid": "Rmr7gq2dw",
+      "created_at": "Tue Oct 13 08:27:36 +0800 2026",
+      "text_excerpt": "还记得说过它“高点近几年回不去了”吗？<br />韩已灾！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 59,
+      "attitudes_count": 101
+    },
+    {
+      "id": "5353473491076683",
+      "bid": "Rmr5z4w5R",
+      "created_at": "Tue Oct 13 08:23:26 +0800 2026",
+      "text_excerpt": "这孩子估计年龄不小了，你不知道现在是大数据时代吗？不是带着老花镜到处找错别字的年代了//<a href='/n/用户7831947325'>@用户7831947325</a>:<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; hei",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 30,
+      "attitudes_count": 108
+    },
+    {
+      "id": "5353471096394520",
+      "bid": "Rmr1HqPvq",
+      "created_at": "Tue Oct 13 08:13:55 +0800 2026",
+      "text_excerpt": "今夜抽空写一篇〈远离中国股市   回归正常生活 〉，揭秘股市量化，财经骗场，上市内幕，监管腐败……散户的命运一半是自己给的，一半是市场给的。估计发不出来<span class=\"url-icon\"><img alt=\"[挖鼻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/201810_wabishi_mobile.png\" style=\"width:1em; height:1em;\" ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 144,
+      "attitudes_count": 359
     },
     {
       "id": "5353460058818268",
@@ -6456,6 +6492,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-13 00:00:13 UTC+8 (SCF v3)",
-  "total_count": 537
+  "last_updated": "2026-10-13 00:30:16 UTC+8 (SCF v3)",
+  "total_count": 540
 }
