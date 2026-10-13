@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1354,6 +1354,18 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5353546906339845",
+      "bid": "RmsZYqBhz",
+      "created_at": "Tue Oct 13 13:15:09 +0800 2026",
+      "text_excerpt": "指数全红啦！再次提前预判，就不来声口哨？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 306,
+      "attitudes_count": 481
     },
     {
       "id": "5353526028929756",
@@ -6552,6 +6564,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-13 04:00:21 UTC+8 (SCF v3)",
-  "total_count": 545
+  "last_updated": "2026-10-13 05:30:30 UTC+8 (SCF v3)",
+  "total_count": 546
 }
