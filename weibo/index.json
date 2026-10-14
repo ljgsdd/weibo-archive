@@ -240,6 +240,18 @@
       "attitudes_count": 192
     },
     {
+      "id": "5353856485557067",
+      "bid": "RmB3injE7",
+      "created_at": "Wed Oct 14 09:45:19 +0800 2026",
+      "text_excerpt": "远离中国股市   回归正常生活<br />（以下省略十万字） ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 169,
+      "attitudes_count": 415
+    },
+    {
       "id": "5351374755466343",
       "bid": "RlyuvmW2P",
       "created_at": "Wed Oct 07 13:23:48 +0800 2026",
@@ -6588,6 +6600,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-13 06:00:26 UTC+8 (SCF v3)",
-  "total_count": 548
+  "last_updated": "2026-10-14 02:00:13 UTC+8 (SCF v3)",
+  "total_count": 549
 }
