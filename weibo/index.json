@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4174,
+    "statuses_count": 4173,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2686,6 +2686,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5354235558628821",
+      "bid": "RmKUHAcKx",
+      "created_at": "Thu Oct 15 10:51:37 +0800 2026",
+      "text_excerpt": "景点打卡只为喀嚓一下，公司打卡只为滴滴薪酬，这里打卡一天避灾附运<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 305,
+      "attitudes_count": 463
     },
     {
       "id": "5354229818720323",
@@ -6696,6 +6708,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-15 02:30:33 UTC+8 (SCF v3)",
-  "total_count": 557
+  "last_updated": "2026-10-15 03:00:08 UTC+8 (SCF v3)",
+  "total_count": 558
 }
