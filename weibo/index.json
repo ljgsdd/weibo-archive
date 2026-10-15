@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4176,
+    "statuses_count": 4171,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2686,6 +2686,30 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5354252021006979",
+      "bid": "RmLlg4dXB",
+      "created_at": "Thu Oct 15 11:57:02 +0800 2026",
+      "text_excerpt": "你们有没有见过哪个博主把微博所有的群费，会员费，订阅费，赞赏费等等所有收入，一分不差地全部捐赠给慈善机构？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 197,
+      "attitudes_count": 433
+    },
+    {
+      "id": "5354248982233217",
+      "bid": "RmLgm9mXD",
+      "created_at": "Thu Oct 15 11:44:56 +0800 2026",
+      "text_excerpt": "去年今日博<span class=\"url-icon\"><img alt=\"[微笑]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/201810_hehe_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[微笑]\" src=\"https://face.t.sinajs",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 92,
+      "attitudes_count": 290
     },
     {
       "id": "5354244422241623",
@@ -6744,6 +6768,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-15 03:33:26 UTC+8 (SCF v3)",
-  "total_count": 561
+  "last_updated": "2026-10-15 04:30:09 UTC+8 (SCF v3)",
+  "total_count": 563
 }
