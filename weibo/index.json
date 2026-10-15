@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4174,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2686,6 +2686,42 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5354229818720323",
+      "bid": "RmKLrAAyn",
+      "created_at": "Thu Oct 15 10:28:47 +0800 2026",
+      "text_excerpt": "然后一波人马上跟进去，然后套了，然后开始叨叨后面还能解套吗然后烦死了……如果没有猜错的话。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 48,
+      "attitudes_count": 96
+    },
+    {
+      "id": "5354229252493013",
+      "bid": "RmKKxasxT",
+      "created_at": "Thu Oct 15 10:26:33 +0800 2026",
+      "text_excerpt": "生物医药我记得7月份的时候说过，或许会接力科技，但力度不如以前那波……1%的人记得，99%的人看过即忘 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 71,
+      "attitudes_count": 196
+    },
+    {
+      "id": "5354225342874513",
+      "bid": "RmKEec3N7",
+      "created_at": "Thu Oct 15 10:11:01 +0800 2026",
+      "text_excerpt": "韩国股市，记得七月份的时候说过，今年的高点，未来三年都回不去了！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 102,
+      "attitudes_count": 310
     },
     {
       "id": "5354222486816199",
@@ -6660,6 +6696,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-15 02:00:16 UTC+8 (SCF v3)",
-  "total_count": 554
+  "last_updated": "2026-10-15 02:30:33 UTC+8 (SCF v3)",
+  "total_count": 557
 }
