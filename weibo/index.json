@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4172,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2686,6 +2686,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5354291479184883",
+      "bid": "RmMmTCxph",
+      "created_at": "Thu Oct 15 14:33:49 +0800 2026",
+      "text_excerpt": "主力不知所措了，其实跌破6700早就说了，这个数字不是个啥，你就到6400-6500（红线处）这个地方吧。部分个股会提前企稳回升。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 183,
+      "attitudes_count": 460
     },
     {
       "id": "5354290116038898",
@@ -6816,6 +6828,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-15 06:30:21 UTC+8 (SCF v3)",
-  "total_count": 567
+  "last_updated": "2026-10-15 07:30:10 UTC+8 (SCF v3)",
+  "total_count": 568
 }
