@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4172,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2686,6 +2686,30 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5354280405959901",
+      "bid": "RmM52p0rr",
+      "created_at": "Thu Oct 15 13:49:49 +0800 2026",
+      "text_excerpt": "上午微博已经显示了这次靠谁//<a href='/n/尉迟轩轩'>@尉迟轩轩</a>:俊哥，可以关注什么板块？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 93,
+      "attitudes_count": 237
+    },
+    {
+      "id": "5354279255671478",
+      "bid": "RmM3bnNps",
+      "created_at": "Thu Oct 15 13:45:15 +0800 2026",
+      "text_excerpt": "破了就拉一点，我说不是今天，咋那么烦呢，没有我的指令，主力是不会暴拉的！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 211,
+      "attitudes_count": 464
     },
     {
       "id": "5354252021006979",
@@ -6768,6 +6792,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-15 04:30:09 UTC+8 (SCF v3)",
-  "total_count": 563
+  "last_updated": "2026-10-15 06:00:14 UTC+8 (SCF v3)",
+  "total_count": 565
 }
