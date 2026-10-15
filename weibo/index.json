@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4172,
+    "statuses_count": 4171,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2686,6 +2686,42 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5354222486816199",
+      "bid": "RmKzCsBcH",
+      "created_at": "Thu Oct 15 09:59:40 +0800 2026",
+      "text_excerpt": "预计，在跌破120周线之后，盘中会出现一根很长的下影阴线，不是今天，结合红线处（还未到）。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 3,
+      "attitudes_count": 46
+    },
+    {
+      "id": "5354220884853578",
+      "bid": "RmKx2kmDw",
+      "created_at": "Thu Oct 15 09:53:18 +0800 2026",
+      "text_excerpt": "红线处，20号后，如果这些一个多月前的预判都能重合，又堪称一道奇迹…… ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 215,
+      "attitudes_count": 410
+    },
+    {
+      "id": "5354220242078639",
+      "bid": "RmKw08IKr",
+      "created_at": "Thu Oct 15 09:50:45 +0800 2026",
+      "text_excerpt": "近600人回复九成希望红线处，如你所愿往红线走，耐心等。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 218,
+      "attitudes_count": 414
     },
     {
       "id": "5351763697206061",
@@ -6624,6 +6660,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-14 04:00:13 UTC+8 (SCF v3)",
-  "total_count": 551
+  "last_updated": "2026-10-15 02:00:16 UTC+8 (SCF v3)",
+  "total_count": 554
 }
