@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4169,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6216,6 +6216,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5354637639025740",
+      "bid": "RmVndBS0s",
+      "created_at": "Fri Oct 16 13:29:20 +0800 2026",
+      "text_excerpt": "上午唧唧哇哇的那些人，好像错过了十个亿，倒车来接你了，你买呀，不买是小狗🐶 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 73,
+      "attitudes_count": 144
+    },
+    {
       "id": "5354620337786988",
       "bid": "RmUVjwFKA",
       "created_at": "Fri Oct 16 12:20:35 +0800 2026",
@@ -6876,6 +6888,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-16 04:30:09 UTC+8 (SCF v3)",
-  "total_count": 572
+  "last_updated": "2026-10-16 05:30:08 UTC+8 (SCF v3)",
+  "total_count": 573
 }
