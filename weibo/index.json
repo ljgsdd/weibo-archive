@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4170,
+    "statuses_count": 4171,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6216,6 +6216,30 @@
       "attitudes_count": 237
     },
     {
+      "id": "5354584409377974",
+      "bid": "RmTZmDlDE",
+      "created_at": "Fri Oct 16 09:57:49 +0800 2026",
+      "text_excerpt": "这指数也按指甲油走势执行，本次反弹不存在错过更不存在踏空，温和不暴力，如秋风拂面，秋雨飘零，温柔而致远。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 80,
+      "attitudes_count": 192
+    },
+    {
+      "id": "5354579744263659",
+      "bid": "RmTRQhTaH",
+      "created_at": "Fri Oct 16 09:39:17 +0800 2026",
+      "text_excerpt": "昨天说了稍微企稳一下，就是90%，是不是？渴死了都 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 171,
+      "attitudes_count": 467
+    },
+    {
       "id": "5352160110053662",
       "bid": "RlSVd0dXw",
       "created_at": "Fri Oct 09 17:24:31 +0800 2026",
@@ -6828,6 +6852,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-15 07:30:10 UTC+8 (SCF v3)",
-  "total_count": 568
+  "last_updated": "2026-10-16 02:00:16 UTC+8 (SCF v3)",
+  "total_count": 570
 }
