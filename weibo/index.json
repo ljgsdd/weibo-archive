@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4169,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6216,6 +6216,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5354620337786988",
+      "bid": "RmUVjwFKA",
+      "created_at": "Fri Oct 16 12:20:35 +0800 2026",
+      "text_excerpt": "这里早就不需要被任何证明，更不需要被任何赞美，这里不是财经频道，更不是大V博主。<br />股市只是回忆，犹如童年往事。五年微博，助人无数，有目共睹。这里只不过是一道光，驱散迷雾，温暖岁月，让看到的人无畏伤悲，每一步都走得坚定而从容。<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mo",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 155,
+      "attitudes_count": 325
+    },
+    {
       "id": "5354614658698984",
       "bid": "RmUM9Av0c",
       "created_at": "Fri Oct 16 11:58:01 +0800 2026",
@@ -6864,6 +6876,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-16 04:00:15 UTC+8 (SCF v3)",
-  "total_count": 571
+  "last_updated": "2026-10-16 04:30:09 UTC+8 (SCF v3)",
+  "total_count": 572
 }
