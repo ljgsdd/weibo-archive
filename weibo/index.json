@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4170,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4464,6 +4464,18 @@
       "attitudes_count": 187
     },
     {
+      "id": "5354816476020828",
+      "bid": "Rn01Fpgi8",
+      "created_at": "Sat Oct 17 01:19:57 +0800 2026",
+      "text_excerpt": "大牛也会下跌，何况A股乎？纳斯达克这波调整从27700点第一步先跌3000点吧。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 50,
+      "attitudes_count": 78
+    },
+    {
       "id": "5352458475538459",
       "bid": "Rm0GrneNZ",
       "created_at": "Sat Oct 10 13:10:07 +0800 2026",
@@ -6912,6 +6924,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-16 09:30:06 UTC+8 (SCF v3)",
-  "total_count": 575
+  "last_updated": "2026-10-16 17:30:17 UTC+8 (SCF v3)",
+  "total_count": 576
 }
