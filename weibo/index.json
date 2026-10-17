@@ -3,9 +3,9 @@
     "id": 1002568141,
     "screen_name": "菩提树下那道光",
     "description": "",
-    "followers_count": "14.8万",
+    "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4173,
+    "statuses_count": 4174,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4056,6 +4056,18 @@
       "attitudes_count": 98
     },
     {
+      "id": "5355180784616941",
+      "bid": "Rn9vgjn4N",
+      "created_at": "Sun Oct 18 01:27:36 +0800 2026",
+      "text_excerpt": "有人说马斯克的Roadster2不实用，噱头罢了。我觉得有一点肯定实用：当后面有一辆遥遥领先刹车板踩断了，在碰撞临界点自动飞起来躲避，不好吗？<br />少一些夜郎自大，多一些卧薪尝胆。不要被网络视频束缚成井底之蛙，多出去走走看看，其实相差得何止是十年二十年。科技的发展不是数据跟人，流量视频；AI的发展不是抹杀原创，短剧比拼，这只会使一个民族的文化走向深渊。",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 14,
+      "attitudes_count": 44
+    },
+    {
       "id": "5352806773162502",
       "bid": "Rm9KddgI6",
       "created_at": "Sun Oct 11 12:14:08 +0800 2026",
@@ -6972,6 +6984,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-17 08:00:10 UTC+8 (SCF v3)",
-  "total_count": 580
+  "last_updated": "2026-10-17 17:30:25 UTC+8 (SCF v3)",
+  "total_count": 581
 }
