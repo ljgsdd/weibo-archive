@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.8万",
     "follow_count": 0,
-    "statuses_count": 4171,
+    "statuses_count": 4173,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4464,6 +4464,30 @@
       "attitudes_count": 187
     },
     {
+      "id": "5355028437009503",
+      "bid": "Rn5xxtpuv",
+      "created_at": "Sat Oct 17 15:22:14 +0800 2026",
+      "text_excerpt": "不会了，那时候人少，黑子少，大V少。那次我预判是大反弹，解套机会。这次不是，今年后面没有解套大机会。我记得微博给过几次“解套大机会”的对吧//<a href='/n/看不明白才问'>@看不明白才问</a>:这次还会说多买吗？<span class=\"url-icon\"><img alt=\"[作揖]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/da/201810_zuoyi_mobile.pn",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 92,
+      "attitudes_count": 170
+    },
+    {
+      "id": "5355025067150115",
+      "bid": "Rn5s6u04r",
+      "created_at": "Sat Oct 17 15:08:50 +0800 2026",
+      "text_excerpt": "还记得吗？24年9月初，微博说底部在20号左右，也是这个数字，啊呀一些人催啊急啊，到了9月18号砸盘我说大胆买，多买点，都不敢了……<br />后面才有了千点行情，哪来的9.24行情，只不过9.24号只要不瞎的都看到涨了。底部就在9.18号！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 162,
+      "attitudes_count": 306
+    },
+    {
       "id": "5355019744318337",
       "bid": "Rn5jwi7oB",
       "created_at": "Sat Oct 17 14:47:41 +0800 2026",
@@ -6936,6 +6960,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-17 07:00:22 UTC+8 (SCF v3)",
-  "total_count": 577
+  "last_updated": "2026-10-17 07:30:19 UTC+8 (SCF v3)",
+  "total_count": 579
 }
