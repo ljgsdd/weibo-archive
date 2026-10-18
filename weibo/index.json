@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4174,
+    "statuses_count": 4172,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5112,6 +5112,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5355532992645503",
+      "bid": "RniFlb6dp",
+      "created_at": "Mon Oct 19 00:47:09 +0800 2026",
+      "text_excerpt": "99%的股民都盼望股市涨，因为只有涨散户才可以盈利。但A股的交易模式和制度设计已经注定了90%的股民会亏损。5400只股票，240天交易日中，90%的日子是下跌数量大于上涨，再加上量化交易，极大地削弱个股的涨跌持续，这便使短线操作者年成功概率小于1%，也就是说，在A股中，长年短线操作的散户，100%是亏损的！那些博主或主播频繁用虚假账户晒单，或追板打板的博主，其目的只有一个：用虚假账户诱惑那些想快速回本，或幻想发财的人付费。最后的结果只有一个：输个精光！<br />股市赚钱很",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 59,
+      "attitudes_count": 109
+    },
+    {
       "id": "5353216348522386",
       "bid": "RmkoOzL3Q",
       "created_at": "Mon Oct 12 15:21:38 +0800 2026",
@@ -6984,6 +6996,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-17 17:30:25 UTC+8 (SCF v3)",
-  "total_count": 581
+  "last_updated": "2026-10-18 17:00:17 UTC+8 (SCF v3)",
+  "total_count": 582
 }
