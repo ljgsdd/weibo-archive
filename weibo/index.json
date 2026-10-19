@@ -5112,6 +5112,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5355738170130472",
+      "bid": "Rno0h0xWo",
+      "created_at": "Mon Oct 19 14:22:26 +0800 2026",
+      "text_excerpt": "你助威了没？再逼逼拉黑你<span class=\"url-icon\"><img alt=\"[怒]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/90/201810_nu_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/评论罗伯特'>@评论罗伯特</a>:俊哥这波预判确实硬核，当初没听劝的现在估计还在山顶吹风呢<",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 61,
+      "attitudes_count": 126
+    },
+    {
       "id": "5355715792208059",
       "bid": "Rnnqb9gpR",
       "created_at": "Mon Oct 19 12:53:31 +0800 2026",
@@ -7056,6 +7068,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-19 05:00:24 UTC+8 (SCF v3)",
-  "total_count": 587
+  "last_updated": "2026-10-19 06:30:19 UTC+8 (SCF v3)",
+  "total_count": 588
 }
