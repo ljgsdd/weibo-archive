@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4174,
+    "statuses_count": 4173,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5112,6 +5112,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5355709606138245",
+      "bid": "RnngcpKPX",
+      "created_at": "Mon Oct 19 12:28:57 +0800 2026",
+      "text_excerpt": "一周多前画的红线，是大部分人希望看到的，目前正在接近中，如你所愿。只不过个股又跌了10%，相信的至少不会提前去加仓或买入。<br />这里要强调的是：这波下跌是人人纳税，毫不含糊。这里没有一个绝对的“底部”，它不会再像当初的2635.2689或3040加倍解套微博发出指令的那种反弹，这次不一样，没有人会错过反弹，只有更多人会被所谓的提前布局被套！<br />同时，届时反弹时的力度也远不如以前几次，持续性也会较差，虽是预判，大概如此。<br />助威均为自愿，6元平台拿走一半，",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 24,
+      "attitudes_count": 86
+    },
+    {
       "id": "5355682247476916",
       "bid": "Rnmy4vn5q",
       "created_at": "Mon Oct 19 10:40:14 +0800 2026",
@@ -7020,6 +7032,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-19 03:00:10 UTC+8 (SCF v3)",
-  "total_count": 584
+  "last_updated": "2026-10-19 04:30:32 UTC+8 (SCF v3)",
+  "total_count": 585
 }
