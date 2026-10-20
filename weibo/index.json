@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4177,
+    "statuses_count": 4179,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1390,6 +1390,30 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5356184437522923",
+      "bid": "RnzC3vz3t",
+      "created_at": "Tue Oct 20 19:55:45 +0800 2026",
+      "text_excerpt": "人家是靠企业业绩对赌协议拿薪酬，我们是上市敲锣开香槟🍾，动作就揭穿了其内在的本质！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 30,
+      "attitudes_count": 98
+    },
+    {
+      "id": "5356181801668766",
+      "bid": "RnzxO707A",
+      "created_at": "Tue Oct 20 19:45:17 +0800 2026",
+      "text_excerpt": "再看看中国5400多家上市公司，除了收割国民，减持套现，购买豪宅，洗钱外流，还能做什么？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 82,
+      "attitudes_count": 225
     },
     {
       "id": "5356103552205232",
@@ -7212,6 +7236,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-20 07:00:29 UTC+8 (SCF v3)",
-  "total_count": 600
+  "last_updated": "2026-10-20 12:00:19 UTC+8 (SCF v3)",
+  "total_count": 602
 }
