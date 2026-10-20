@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4180,
+    "statuses_count": 4184,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1390,6 +1390,54 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5356079216592951",
+      "bid": "RnwSlrF7V",
+      "created_at": "Tue Oct 20 12:57:39 +0800 2026",
+      "text_excerpt": "拉屎需要憋气，气血上攻，血液回流脑部，记忆细胞活跃。//<a href='/n/抓到一只小熊崽'>@抓到一只小熊崽</a>:好像是说上厕所的时候记忆力是最好的<span class=\"url-icon\"><img alt=\"[doge]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e6/2018_doge_mobile.png\" style=\"width:1em; height:1em;\" ",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 29,
+      "attitudes_count": 45
+    },
+    {
+      "id": "5356078281788417",
+      "bid": "RnwQQ7vfr",
+      "created_at": "Tue Oct 20 12:53:56 +0800 2026",
+      "text_excerpt": "每天上厕所背5个单词，背不出不准下坑，脚麻了就背出了。//<a href='/n/土豆鸡块不加辣'>@土豆鸡块不加辣</a>:俊哥有没有孩子学英语的方法，哈哈，我要借鉴一下<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; heigh",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 38,
+      "attitudes_count": 71
+    },
+    {
+      "id": "5356075083892299",
+      "bid": "RnwLGgkz1",
+      "created_at": "Tue Oct 20 12:41:14 +0800 2026",
+      "text_excerpt": "高中英语。当初成绩最差的现在企业做得最大，每年教师节都会来看我，因为每次考试我都会把他安排坐在成绩最好的旁边<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/菩",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 102,
+      "attitudes_count": 171
+    },
+    {
+      "id": "5356073687974707",
+      "bid": "RnwJqxsAj",
+      "created_at": "Tue Oct 20 12:35:40 +0800 2026",
+      "text_excerpt": "猜猜我教的是哪个阶段哪门课？//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:幸好当初我教了一年多书就下海了，否则活不到今天//<a href='/n/三三所愿'>@三三所愿</a>:都是学生，做老师不容易",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 101,
+      "attitudes_count": 157
     },
     {
       "id": "5356071856375900",
@@ -7152,6 +7200,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-20 04:30:28 UTC+8 (SCF v3)",
-  "total_count": 595
+  "last_updated": "2026-10-20 05:00:21 UTC+8 (SCF v3)",
+  "total_count": 599
 }
