@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4175,
+    "statuses_count": 4176,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1390,6 +1390,18 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5356035687844430",
+      "bid": "RnvK8wUH4",
+      "created_at": "Tue Oct 20 10:04:41 +0800 2026",
+      "text_excerpt": "还真像，希望后面也一样。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 168,
+      "attitudes_count": 431
     },
     {
       "id": "5356032362808440",
@@ -7080,6 +7092,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-20 02:00:34 UTC+8 (SCF v3)",
-  "total_count": 589
+  "last_updated": "2026-10-20 02:30:21 UTC+8 (SCF v3)",
+  "total_count": 590
 }
