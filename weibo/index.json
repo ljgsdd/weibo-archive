@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4176,
+    "statuses_count": 4180,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1390,6 +1390,54 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5356071856375900",
+      "bid": "RnwGtqKF6",
+      "created_at": "Tue Oct 20 12:28:24 +0800 2026",
+      "text_excerpt": "幸好当初我教了一年多书就下海了，否则活不到今天//<a href='/n/三三所愿'>@三三所愿</a>:都是学生，做老师不容易",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 46,
+      "attitudes_count": 92
+    },
+    {
+      "id": "5356070321261598",
+      "bid": "RnwE05icm",
+      "created_at": "Tue Oct 20 12:22:18 +0800 2026",
+      "text_excerpt": "如今投资多难，基本都是坑！你投资6元回报几十几百甚至几千倍的收益，全世界哪里还有？还有那些走过路过顺手捞一把的……<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 95,
+      "attitudes_count": 226
+    },
+    {
+      "id": "5356068001809611",
+      "bid": "RnwAg7ALh",
+      "created_at": "Tue Oct 20 12:13:05 +0800 2026",
+      "text_excerpt": "还有人在问是不是可以进了？已经上去了怎么办？不是20号以后了？……微博说过不会持续，力度不大，会有反复，年纪不大记性咋就那么差啊？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 132,
+      "attitudes_count": 338
+    },
+    {
+      "id": "5356064864469198",
+      "bid": "RnwvciKDQ",
+      "created_at": "Tue Oct 20 12:00:36 +0800 2026",
+      "text_excerpt": "这是一周多前给大家的“红线”，看看没啥差别呀，可能指甲油涂多了有点粗了 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 121,
+      "attitudes_count": 337
     },
     {
       "id": "5356061332342949",
@@ -7104,6 +7152,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-20 04:00:17 UTC+8 (SCF v3)",
-  "total_count": 591
+  "last_updated": "2026-10-20 04:30:28 UTC+8 (SCF v3)",
+  "total_count": 595
 }
