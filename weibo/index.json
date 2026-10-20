@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4179,
+    "statuses_count": 4178,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1390,6 +1390,18 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5356232770062818",
+      "bid": "RnAS10glc",
+      "created_at": "Tue Oct 20 23:07:49 +0800 2026",
+      "text_excerpt": "回来的路上，下雨了！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 131,
+      "attitudes_count": 211
     },
     {
       "id": "5356184437522923",
@@ -7236,6 +7248,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-20 12:00:19 UTC+8 (SCF v3)",
-  "total_count": 602
+  "last_updated": "2026-10-20 15:30:46 UTC+8 (SCF v3)",
+  "total_count": 603
 }
