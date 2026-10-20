@@ -1,0 +1,37 @@
+{
+  "id": "5356232770062818",
+  "mid": "5356232770062818",
+  "bid": "RnAS10glc",
+  "created_at": "Tue Oct 20 23:07:49 +0800 2026",
+  "text_html": "回来的路上，下雨了！",
+  "text_raw": "回来的路上，下雨了！",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 131,
+  "attitudes_count": 211,
+  "pic_ids": [],
+  "pics": [],
+  "local_pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5356103552205232",
+    "mid": "5356103552205232",
+    "bid": "RnxvB9fGg",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Tue Oct 20 14:34:21 +0800 2026",
+    "text_html": "入秋旬日，馀热尚存，等待那一场秋雨。 ",
+    "is_long_text": false,
+    "pics": [
+      "https://wx3.sinaimg.cn/mw2000/3bc1f9cdgy1ii8szrgmrvj20wr0hiq4x.jpg"
+    ],
+    "local_pics": [
+      "weibo/images/3bc1f9cdgy1ii8szrgmrvj20wr0hiq4x.jpg"
+    ]
+  },
+  "url": "https://weibo.com/1002568141/RnAS10glc"
+}
