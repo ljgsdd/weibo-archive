@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4184,
+    "statuses_count": 4177,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1390,6 +1390,18 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5356103552205232",
+      "bid": "RnxvB9fGg",
+      "created_at": "Tue Oct 20 14:34:21 +0800 2026",
+      "text_excerpt": "入秋旬日，馀热尚存，等待那一场秋雨。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 190,
+      "attitudes_count": 416
     },
     {
       "id": "5356079216592951",
@@ -7200,6 +7212,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-20 05:00:21 UTC+8 (SCF v3)",
-  "total_count": 599
+  "last_updated": "2026-10-20 07:00:29 UTC+8 (SCF v3)",
+  "total_count": 600
 }
