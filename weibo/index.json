@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4178,
+    "statuses_count": 4182,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -238,6 +238,66 @@
       "reposts_count": 2,
       "comments_count": 71,
       "attitudes_count": 192
+    },
+    {
+      "id": "5356479653872048",
+      "bid": "RnHidgfio",
+      "created_at": "Wed Oct 21 15:28:50 +0800 2026",
+      "text_excerpt": "那是你想不到，我要是说下上证完，明天银行都跌停你信不<span class=\"url-icon\"><img alt=\"[挖鼻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/201810_wabishi_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/不脱壳壳'>@不脱壳壳</a>:谁能想到宁王突然崩了。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 27,
+      "attitudes_count": 52
+    },
+    {
+      "id": "5356478682890425",
+      "bid": "RnHgEc7VL",
+      "created_at": "Wed Oct 21 15:24:58 +0800 2026",
+      "text_excerpt": "把你妈拉进来//<a href='/n/容我再来一只居'>@容我再来一只居</a>:稳稳的很安心…自从俊哥说明年都回不到最高点，一点不都敢去碰创业板(结果我妈这两天非要去抄底宁子<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; he",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 55,
+      "attitudes_count": 118
+    },
+    {
+      "id": "5356478223354502",
+      "bid": "RnHfUe4ES",
+      "created_at": "Wed Oct 21 15:23:10 +0800 2026",
+      "text_excerpt": "看在你是真爱粉面上，2520吧，快快要删了……//<a href='/n/喵喵猫猫521'>@喵喵猫猫521</a>:啥时候创业板能企稳啊 太惨了<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></s",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 96,
+      "attitudes_count": 138
+    },
+    {
+      "id": "5356477256304124",
+      "bid": "RnHelqrZq",
+      "created_at": "Wed Oct 21 15:19:19 +0800 2026",
+      "text_excerpt": "周一发博截的是这张图，这两天宁德带动创业指数大跌，与本博无关。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 60,
+      "attitudes_count": 167
+    },
+    {
+      "id": "5356475903903828",
+      "bid": "RnHcagnyY",
+      "created_at": "Wed Oct 21 15:13:57 +0800 2026",
+      "text_excerpt": "大V那边买了二周创业板指数粉丝们一片哀嚎，这个指数上周我有提示。这边买中证一千的有没有尸横遍野？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 122,
+      "attitudes_count": 290
     },
     {
       "id": "5356395236950483",
@@ -7272,6 +7332,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-21 02:00:27 UTC+8 (SCF v3)",
-  "total_count": 605
+  "last_updated": "2026-10-21 07:30:33 UTC+8 (SCF v3)",
+  "total_count": 610
 }
