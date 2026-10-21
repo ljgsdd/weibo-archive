@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4182,
+    "statuses_count": 4179,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -238,6 +238,18 @@
       "reposts_count": 2,
       "comments_count": 71,
       "attitudes_count": 192
+    },
+    {
+      "id": "5356486458869828",
+      "bid": "RnHtbBdrK",
+      "created_at": "Wed Oct 21 15:55:53 +0800 2026",
+      "text_excerpt": "啊呀你喊二周“买入等反弹”，“分批买入”等这些话术，永远不会错，涨了说你看这不反弹了吗扣666，跌了就说叫你分批买啊，二周不涨就继续喊，总有一天会涨的，千万别一会儿喊买一会儿喊卖，结果全错！——教你一招，你也可以V ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 68,
+      "attitudes_count": 149
     },
     {
       "id": "5356479653872048",
@@ -7332,6 +7344,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-21 07:30:33 UTC+8 (SCF v3)",
-  "total_count": 610
+  "last_updated": "2026-10-21 08:00:21 UTC+8 (SCF v3)",
+  "total_count": 611
 }
