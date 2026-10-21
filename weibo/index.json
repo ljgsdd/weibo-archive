@@ -2964,6 +2964,18 @@
       "attitudes_count": 438
     },
     {
+      "id": "5356622994998115",
+      "bid": "RnL1pkYeL",
+      "created_at": "Thu Oct 22 00:58:25 +0800 2026",
+      "text_excerpt": "终于等到雨，一场秋雨30多度直降十几度！ <a  href=\"https://weibo.cn/sinaurl?u=https%3A%2F%2Fwx4.sinaimg.cn%2Flarge%2F3bc1f9cdgy1iiagrar49sj20mn0r540a.jpg\" data-hide=\"\"><span class='url-icon'><img style='width: 1rem;height: 1rem' src='https://h5.sinaimg.cn/uplo",
+      "is_retweet": true,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 12,
+      "attitudes_count": 28
+    },
+    {
       "id": "5354291479184883",
       "bid": "RmMmTCxph",
       "created_at": "Thu Oct 15 14:33:49 +0800 2026",
@@ -7344,6 +7356,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-21 08:00:21 UTC+8 (SCF v3)",
-  "total_count": 611
+  "last_updated": "2026-10-21 17:00:44 UTC+8 (SCF v3)",
+  "total_count": 612
 }
