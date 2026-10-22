@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4179,
+    "statuses_count": 4180,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2962,6 +2962,30 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5356882962680481",
+      "bid": "RnRMIbfjz",
+      "created_at": "Thu Oct 22 18:11:27 +0800 2026",
+      "text_excerpt": "能否付6元？船票机票火车票海陆空<span class=\"url-icon\"><img alt=\"[挖鼻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/201810_wabishi_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[挖鼻]\" src=\"https:/",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 93,
+      "attitudes_count": 200
+    },
+    {
+      "id": "5356880253944912",
+      "bid": "RnRIlgyfC",
+      "created_at": "Thu Oct 22 18:00:41 +0800 2026",
+      "text_excerpt": "大数据支撑下的AI时代，大V或粉丝多的地方，是数字搜索量化下手的重灾区，专盯这批人群。这里发了删，你及时看到，AI搜不到，是对付大V和量化的土办法<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></sp",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 161,
+      "attitudes_count": 380
     },
     {
       "id": "5356872056177138",
@@ -7380,6 +7404,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-22 09:30:12 UTC+8 (SCF v3)",
-  "total_count": 614
+  "last_updated": "2026-10-22 10:30:35 UTC+8 (SCF v3)",
+  "total_count": 616
 }
