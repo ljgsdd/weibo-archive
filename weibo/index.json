@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4178,
+    "statuses_count": 4179,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6708,6 +6708,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5357173138002978",
+      "bid": "RnZkJxzWi",
+      "created_at": "Fri Oct 23 13:24:30 +0800 2026",
+      "text_excerpt": "归杭已入秋！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 281,
+      "attitudes_count": 457
+    },
+    {
       "id": "5357111765896438",
       "bid": "RnXJKoJVQ",
       "created_at": "Fri Oct 23 09:20:38 +0800 2026",
@@ -7416,6 +7428,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-23 01:30:09 UTC+8 (SCF v3)",
-  "total_count": 617
+  "last_updated": "2026-10-23 05:30:25 UTC+8 (SCF v3)",
+  "total_count": 618
 }
