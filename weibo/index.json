@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4184,
+    "statuses_count": 4185,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4812,6 +4812,42 @@
       "attitudes_count": 187
     },
     {
+      "id": "5357355306844814",
+      "bid": "Ro44ysIEe",
+      "created_at": "Sat Oct 24 01:28:23 +0800 2026",
+      "text_excerpt": "也没有，我也有割肉的，割掉后一周爆涨50%<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>一百个没了 <a  href=\"https://weibo.cn/sinaurl?u=https",
+      "is_retweet": true,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 6,
+      "attitudes_count": 16
+    },
+    {
+      "id": "5357352912946126",
+      "bid": "Ro40Hcmqa",
+      "created_at": "Sat Oct 24 01:18:52 +0800 2026",
+      "text_excerpt": "但凡智商不低于50的都明白：大V炒股真有那么厉害，为啥还要“付费阅读”，付费加群，收费“上课”？？股市每天交易一二万亿，真有水平市场上随便取，何必冒着违法和被举报的风险来收割散户粉丝？都是自己炒股亏的裤衩都不剩的大V！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 30,
+      "attitudes_count": 59
+    },
+    {
+      "id": "5357350568331875",
+      "bid": "Ro3WUyXv5",
+      "created_at": "Sat Oct 24 01:09:33 +0800 2026",
+      "text_excerpt": "大V那儿看来的？但凡稍微有点儿智商的都知道：如果股市有规律可循，有理论可究，清北985的都不用工作，世界首富都在中国！//<a href='/n/把仇人带进大A'>@把仇人带进大A</a>:俊哥，后面还有没有新低的可能？波浪理论这里是c4反，后面还有c5吗？还是这里就是b反？缠论里说这里30分钟向下一比处于调整末端，反弹以后向下结束日线调整。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 34,
+      "attitudes_count": 57
+    },
+    {
       "id": "5357347976515873",
       "bid": "Ro3SJrl4J",
       "created_at": "Sat Oct 24 00:59:15 +0800 2026",
@@ -7500,6 +7536,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-23 17:00:36 UTC+8 (SCF v3)",
-  "total_count": 624
+  "last_updated": "2026-10-23 17:30:21 UTC+8 (SCF v3)",
+  "total_count": 627
 }
