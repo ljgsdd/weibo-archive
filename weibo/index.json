@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4185,
+    "statuses_count": 4187,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4392,6 +4392,30 @@
       "attitudes_count": 98
     },
     {
+      "id": "5357716991902568",
+      "bid": "RodtV7YWA",
+      "created_at": "Sun Oct 25 01:25:35 +0800 2026",
+      "text_excerpt": "有人说小号都是忠粉，大号都是机器人…你这智商有待提高<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 16,
+      "attitudes_count": 27
+    },
+    {
+      "id": "5357715321784099",
+      "bid": "Rodre7u7N",
+      "created_at": "Sun Oct 25 01:18:57 +0800 2026",
+      "text_excerpt": "图一图二是大号15万粉丝的互动。<br />图三图四是小号1.4万粉丝的互动。<br />十倍的粉丝数量，远远不及十分之一的微博号，助威人数更加不及小号！事实证明：人多没用。 ",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 32,
+      "attitudes_count": 61
+    },
+    {
       "id": "5355180784616941",
       "bid": "Rn9vgjn4N",
       "created_at": "Sun Oct 18 01:27:36 +0800 2026",
@@ -7608,6 +7632,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-24 09:30:26 UTC+8 (SCF v3)",
-  "total_count": 633
+  "last_updated": "2026-10-24 17:30:31 UTC+8 (SCF v3)",
+  "total_count": 635
 }
