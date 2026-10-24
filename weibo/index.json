@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4183,
+    "statuses_count": 4184,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4812,6 +4812,18 @@
       "attitudes_count": 187
     },
     {
+      "id": "5357546934108646",
+      "bid": "Ro93DheQu",
+      "created_at": "Sat Oct 24 14:09:49 +0800 2026",
+      "text_excerpt": "这段话我单独拿出来说：<br />很多人在援手之前总会说如果我怎样了就会那样了，如果我赚钱了就会怎么怎么，那样的人，永远不会赚到钱更不可能成功。佛祖面前也一样，没有如果，不做交易，只问内心！<br />记住：善举和慈悲，是不附加任何条件的！悲悯源于共情无关贫富，任何带条件交易的祈愿，都不会实现<span class=\"url-icon\"><img alt=\"[祈祷]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/e",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 131,
+      "attitudes_count": 285
+    },
+    {
       "id": "5357525085197909",
       "bid": "Ro8uolOdf",
       "created_at": "Sat Oct 24 12:43:01 +0800 2026",
@@ -7584,6 +7596,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-24 06:00:29 UTC+8 (SCF v3)",
-  "total_count": 631
+  "last_updated": "2026-10-24 06:30:38 UTC+8 (SCF v3)",
+  "total_count": 632
 }
