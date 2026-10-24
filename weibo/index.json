@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4184,
+    "statuses_count": 4185,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4812,6 +4812,18 @@
       "attitudes_count": 187
     },
     {
+      "id": "5357590995535401",
+      "bid": "RoacHne0F",
+      "created_at": "Sat Oct 24 17:04:55 +0800 2026",
+      "text_excerpt": "如果你的灵魂在别处比在故乡更受尊重，那就去吧，哪怕扎根。这不是背叛，这是对生命最大的尊重。<br />曾经我以为要落叶归根，如今却认为要落地生根。——临别赠儿 ",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 141,
+      "attitudes_count": 322
+    },
+    {
       "id": "5357546934108646",
       "bid": "Ro93DheQu",
       "created_at": "Sat Oct 24 14:09:49 +0800 2026",
@@ -7596,6 +7608,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-24 06:30:38 UTC+8 (SCF v3)",
-  "total_count": 632
+  "last_updated": "2026-10-24 09:30:26 UTC+8 (SCF v3)",
+  "total_count": 633
 }
