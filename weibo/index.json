@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4185,
+    "statuses_count": 4184,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4812,6 +4812,30 @@
       "attitudes_count": 187
     },
     {
+      "id": "5357513555312954",
+      "bid": "Ro8bNmi8O",
+      "created_at": "Sat Oct 24 11:57:11 +0800 2026",
+      "text_excerpt": "这世界，这空间必定存在着无数个人类无法解读和认知的事，人类的认知在大自然里极其微妙，也因此，世界才会一直向前。我真这个特异能力，喷子黑子小心点哈否则兰花指一点，后面十年定格，你就麻烦了<span class=\"url-icon\"><img alt=\"[裂开]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/202011_liekai_mobile.png\" style=\"width:1em",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 59,
+      "attitudes_count": 109
+    },
+    {
+      "id": "5357508397109566",
+      "bid": "Ro83ttPwq",
+      "created_at": "Sat Oct 24 11:36:42 +0800 2026",
+      "text_excerpt": "一个叫大风歌之寒冬的粉丝，整天唧唧哇哇的，我解读了他的网名，吓得他立即改名……你们想多了！//<a href='/n/乐怡Li888'>@乐怡Li888</a>:俊哥，昨晚错过好多信息，那句寒冬来，大风起，云飞扬，你的财富…后面是什么？<span class=\"url-icon\"><img alt=\"[祈祷]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/2025_pray_mobile",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 99,
+      "attitudes_count": 194
+    },
+    {
       "id": "5357355306844814",
       "bid": "Ro44ysIEe",
       "created_at": "Sat Oct 24 01:28:23 +0800 2026",
@@ -7536,6 +7560,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-23 17:30:21 UTC+8 (SCF v3)",
-  "total_count": 627
+  "last_updated": "2026-10-24 04:00:16 UTC+8 (SCF v3)",
+  "total_count": 629
 }
