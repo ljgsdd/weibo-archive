@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4187,
+    "statuses_count": 4183,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4392,6 +4392,18 @@
       "attitudes_count": 98
     },
     {
+      "id": "5357896919421290",
+      "bid": "Roia7DwUi",
+      "created_at": "Sun Oct 25 13:20:33 +0800 2026",
+      "text_excerpt": "我始终认为，一个人的名义、口碑、荣誉和身份，不应该是组织给的，不应该是官方给的，更不应该是上级给的，那些都是徒有虚名。只有群众给的，人民给的，才当之无愧，弥足珍贵！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 178,
+      "attitudes_count": 473
+    },
+    {
       "id": "5357720966267990",
       "bid": "RodAkqiAC",
       "created_at": "Sun Oct 25 01:41:23 +0800 2026",
@@ -7644,6 +7656,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-24 18:00:13 UTC+8 (SCF v3)",
-  "total_count": 636
+  "last_updated": "2026-10-25 06:30:20 UTC+8 (SCF v3)",
+  "total_count": 637
 }
