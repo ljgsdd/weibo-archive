@@ -4,8 +4,8 @@
     "screen_name": "菩提树下那道光",
     "description": "",
     "followers_count": "14.9万",
-    "follow_count": 0,
-    "statuses_count": 4184,
+    "follow_count": 2,
+    "statuses_count": 4185,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5664,6 +5664,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5358127023128913",
+      "bid": "Roo9gd7Yl",
+      "created_at": "Mon Oct 26 04:34:54 +0800 2026",
+      "text_excerpt": "醒来饿了，又忍不住点了“最后一次”外卖，还没吃完就拉稀……都是预制菜！这防腐剂、干燥剂、增稠剂食品添加剂，哪天吃没了估计比木乃伊还抗烂，火化完了都能烧出舍利子来<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 22,
+      "attitudes_count": 39
+    },
+    {
       "id": "5355738170130472",
       "bid": "Rno0h0xWo",
       "created_at": "Mon Oct 19 14:22:26 +0800 2026",
@@ -7668,6 +7680,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-25 15:30:20 UTC+8 (SCF v3)",
-  "total_count": 638
+  "last_updated": "2026-10-25 21:00:10 UTC+8 (SCF v3)",
+  "total_count": 639
 }
