@@ -1488,6 +1488,18 @@
       "attitudes_count": 79
     },
     {
+      "id": "5358440283374302",
+      "bid": "Rowiwe9Oe",
+      "created_at": "Tue Oct 27 01:19:41 +0800 2026",
+      "text_excerpt": "本次助威博，阅读量3.8万人次，互动数1800人，参与慈善助威只有115人，最长助到2099年。那时你还在，我也在，微博肯定不在了。 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 22,
+      "attitudes_count": 44
+    },
+    {
       "id": "5356232770062818",
       "bid": "RnAS10glc",
       "created_at": "Tue Oct 20 23:07:49 +0800 2026",
@@ -7728,6 +7740,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-26 09:30:15 UTC+8 (SCF v3)",
-  "total_count": 643
+  "last_updated": "2026-10-26 17:30:31 UTC+8 (SCF v3)",
+  "total_count": 644
 }
