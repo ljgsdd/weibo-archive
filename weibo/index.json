@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4187,
+    "statuses_count": 4186,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5664,6 +5664,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5358318736378912",
+      "bid": "Rot8tqLrG",
+      "created_at": "Mon Oct 26 17:16:42 +0800 2026",
+      "text_excerpt": "点击图片盯十秒，然后问自己：早知道中国股市是这样的，你还进来吗？你还对它抱幻想吗？<br />其实它一直以来都这样！ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 155,
+      "attitudes_count": 253
+    },
+    {
       "id": "5358236007664356",
       "bid": "RoqZ2w9QE",
       "created_at": "Mon Oct 26 11:47:58 +0800 2026",
@@ -7716,6 +7728,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-26 04:00:10 UTC+8 (SCF v3)",
-  "total_count": 642
+  "last_updated": "2026-10-26 09:30:15 UTC+8 (SCF v3)",
+  "total_count": 643
 }
