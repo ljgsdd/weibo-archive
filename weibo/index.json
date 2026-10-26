@@ -4,8 +4,8 @@
     "screen_name": "菩提树下那道光",
     "description": "",
     "followers_count": "14.9万",
-    "follow_count": 2,
-    "statuses_count": 4186,
+    "follow_count": 0,
+    "statuses_count": 4187,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5664,6 +5664,18 @@
       "attitudes_count": 33
     },
     {
+      "id": "5358236007664356",
+      "bid": "RoqZ2w9QE",
+      "created_at": "Mon Oct 26 11:47:58 +0800 2026",
+      "text_excerpt": "声明：本博没有任何群，不会跟任何人私信拉群，各网络平台没有任何号。任何与你私信的均不是俊哥本人，谨防受骗。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 67,
+      "attitudes_count": 209
+    },
+    {
       "id": "5358176038029371",
       "bid": "RopqjxGNZ",
       "created_at": "Mon Oct 26 07:49:40 +0800 2026",
@@ -7704,6 +7716,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-26 00:00:24 UTC+8 (SCF v3)",
-  "total_count": 641
+  "last_updated": "2026-10-26 04:00:10 UTC+8 (SCF v3)",
+  "total_count": 642
 }
