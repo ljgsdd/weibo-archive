@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4186,
+    "statuses_count": 4188,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1486,6 +1486,42 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5358674206000779",
+      "bid": "RoCnOpb4L",
+      "created_at": "Tue Oct 27 16:49:13 +0800 2026",
+      "text_excerpt": "买了的不管明天涨跌都T了，没买的不用急，明天要涨也很弱，五五开吧。月底前没戏，热着呢短裤短裤呢，白天黑夜我都开冷空调。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 136,
+      "attitudes_count": 279
+    },
+    {
+      "id": "5358673381821690",
+      "bid": "RoCmu7DU6",
+      "created_at": "Tue Oct 27 16:45:56 +0800 2026",
+      "text_excerpt": "只有真爱粉可见哈哈哈//<a href='/n/无棠青柠'>@无棠青柠</a>:俊哥什么时候发的啊 是删了吗没看到<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 85,
+      "attitudes_count": 172
+    },
+    {
+      "id": "5358671535538669",
+      "bid": "RoCjvneRn",
+      "created_at": "Tue Oct 27 16:38:36 +0800 2026",
+      "text_excerpt": "一个实盘小小散和一个模拟盘特大V尾盘不同的操作，明天见证吧。等下删了 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 194,
+      "attitudes_count": 356
     },
     {
       "id": "5358668826807224",
@@ -7800,6 +7836,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-27 08:30:25 UTC+8 (SCF v3)",
-  "total_count": 649
+  "last_updated": "2026-10-27 09:00:30 UTC+8 (SCF v3)",
+  "total_count": 652
 }
