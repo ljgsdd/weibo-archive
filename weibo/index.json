@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4186,
+    "statuses_count": 4187,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1486,6 +1486,30 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5358586073189181",
+      "bid": "RoA5FdnEp",
+      "created_at": "Tue Oct 27 10:59:00 +0800 2026",
+      "text_excerpt": "这就是穿越的光//<a href='/n/是小棉袄的小胡桃'>@是小棉袄的小胡桃</a>:太牛了 周五发博满仓的减减仓 轻仓的高抛低吸",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 19,
+      "attitudes_count": 63
+    },
+    {
+      "id": "5358585523473830",
+      "bid": "RoA4MezHw",
+      "created_at": "Tue Oct 27 10:56:49 +0800 2026",
+      "text_excerpt": "上周五一个反弹，评论区响起“踏空”声，都是哪儿来的人，老粉都是仔细看微博的，预判点位时就说了这次反弹后的特征，预判的含金量正在逐步提升，号称微博第一股市大V那儿，粉丝都抄底三周了家都快被抄没了，估计会越来越厉害。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 83,
+      "attitudes_count": 241
     },
     {
       "id": "5358440283374302",
@@ -7740,6 +7764,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-26 17:30:31 UTC+8 (SCF v3)",
-  "total_count": 644
+  "last_updated": "2026-10-27 03:00:17 UTC+8 (SCF v3)",
+  "total_count": 646
 }
