@@ -1488,6 +1488,18 @@
       "attitudes_count": 79
     },
     {
+      "id": "5358601732621410",
+      "bid": "RoAuVaZWO",
+      "created_at": "Tue Oct 27 12:01:14 +0800 2026",
+      "text_excerpt": "所有预判，后面市场都会一一证实！<br />字字珠玑，价值万金。<br />别抱怨市场，市场永远是对的；别抱怨人生，人生都有精彩片段。抱怨，是无能者的常态；改变，是强智者的本能。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 4,
+      "comments_count": 217,
+      "attitudes_count": 704
+    },
+    {
       "id": "5358586073189181",
       "bid": "RoA5FdnEp",
       "created_at": "Tue Oct 27 10:59:00 +0800 2026",
@@ -7764,6 +7776,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-27 03:00:17 UTC+8 (SCF v3)",
-  "total_count": 646
+  "last_updated": "2026-10-27 07:00:18 UTC+8 (SCF v3)",
+  "total_count": 647
 }
