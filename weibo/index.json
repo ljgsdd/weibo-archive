@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "14.9万",
     "follow_count": 0,
-    "statuses_count": 4187,
+    "statuses_count": 4186,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -1486,6 +1486,30 @@
       "reposts_count": 0,
       "comments_count": 68,
       "attitudes_count": 79
+    },
+    {
+      "id": "5358668826807224",
+      "bid": "RoCf8syRW",
+      "created_at": "Tue Oct 27 16:27:50 +0800 2026",
+      "text_excerpt": "这张图说明了A股的一切问题根源！改革喊了几十年，改掉了善良，革掉了中产，制度的严重缺陷在巨大利益瓜分面前，显得微不足道。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 32,
+      "attitudes_count": 100
+    },
+    {
+      "id": "5358665424701146",
+      "bid": "RoC9EjIYW",
+      "created_at": "Tue Oct 27 16:14:19 +0800 2026",
+      "text_excerpt": "富时中国a50，同一个指数在不同时段的走势。红线左边是欧美市场影响下的走势，右边是中国股市影响下的走势。<br />显而易见，说明了什么？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 144,
+      "attitudes_count": 280
     },
     {
       "id": "5358601732621410",
@@ -7776,6 +7800,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-27 07:00:18 UTC+8 (SCF v3)",
-  "total_count": 647
+  "last_updated": "2026-10-27 08:30:25 UTC+8 (SCF v3)",
+  "total_count": 649
 }
