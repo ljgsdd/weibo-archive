@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4187,
+    "statuses_count": 4189,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -238,6 +238,30 @@
       "reposts_count": 2,
       "comments_count": 71,
       "attitudes_count": 192
+    },
+    {
+      "id": "5358970606193544",
+      "bid": "RoK5SpZdS",
+      "created_at": "Wed Oct 28 12:27:00 +0800 2026",
+      "text_excerpt": "前几天我截图发过交割单的//<a href='/n/顺其自然哈0283466822'>@顺其自然哈0283466822</a>:没看到<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span><s",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 37,
+      "attitudes_count": 80
+    },
+    {
+      "id": "5358968496194424",
+      "bid": "RoK2tpZs4",
+      "created_at": "Wed Oct 28 12:18:37 +0800 2026",
+      "text_excerpt": "这市场没人能称谓老师，股市里称己为老师的都是骗子无一例外！我几百个买了一个股拿了两天割肉结果它后面8个交易日翻倍，成为全A股唯一的亮点……我闭上眼念心经<span class=\"url-icon\"><img alt=\"[流汗]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/56/2025_liuhan_mobile.png\" style=\"width:1em; height:1em;\" /><",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 119,
+      "attitudes_count": 284
     },
     {
       "id": "5358956282905947",
@@ -7884,6 +7908,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-28 04:00:12 UTC+8 (SCF v3)",
-  "total_count": 656
+  "last_updated": "2026-10-28 04:30:26 UTC+8 (SCF v3)",
+  "total_count": 658
 }
