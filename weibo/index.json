@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4188,
+    "statuses_count": 4189,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3142,6 +3142,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5359168417696654",
+      "bid": "RoPeVwifA",
+      "created_at": "Thu Oct 29 01:33:02 +0800 2026",
+      "text_excerpt": "这几天翻阅了几乎所有的五千多个股票，思考很久，努力回忆着未来几年中国股市的走向和特征。脑海里印出四个字——彻底变了！也就是说，现在包括未来的A股，早就不是以前30年的A股，彻头彻尾的变了！<br />可以确定：哪怕某天上证突破6124点，在股市里的散户，一样有80%以上的人是亏损的。究其根源，且听下回分解！对股市里的散户如何生存，其价值同等于上面那篇几千字博文。",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 53,
+      "attitudes_count": 96
     },
     {
       "id": "5359165191227250",
@@ -7920,6 +7932,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-28 17:30:15 UTC+8 (SCF v3)",
-  "total_count": 659
+  "last_updated": "2026-10-28 18:00:10 UTC+8 (SCF v3)",
+  "total_count": 660
 }
