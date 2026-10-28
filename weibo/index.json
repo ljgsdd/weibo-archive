@@ -3,9 +3,9 @@
     "id": 1002568141,
     "screen_name": "菩提树下那道光",
     "description": "",
-    "followers_count": "14.9万",
+    "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4188,
+    "statuses_count": 4185,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -238,6 +238,18 @@
       "reposts_count": 2,
       "comments_count": 71,
       "attitudes_count": 192
+    },
+    {
+      "id": "5358918700370893",
+      "bid": "RoIKa1yu9",
+      "created_at": "Wed Oct 28 09:00:45 +0800 2026",
+      "text_excerpt": "挺美的一片海域，那里的海是彩色的。可惜这月底取消了免签，以前是日本的，后来是美国的，其实是中国的<span class=\"url-icon\"><img alt=\"[偷笑]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/df/201810_touxiao_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 126,
+      "attitudes_count": 463
     },
     {
       "id": "5356486458869828",
@@ -7836,6 +7848,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-27 09:00:30 UTC+8 (SCF v3)",
-  "total_count": 652
+  "last_updated": "2026-10-28 01:30:18 UTC+8 (SCF v3)",
+  "total_count": 653
 }
