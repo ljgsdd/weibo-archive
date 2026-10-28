@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4189,
+    "statuses_count": 4188,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3142,6 +3142,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5359165191227250",
+      "bid": "RoP9J59gm",
+      "created_at": "Thu Oct 29 01:20:13 +0800 2026",
+      "text_excerpt": "这是一篇几千字用大拇指扣打出来，在凌晨一点多写了个把小时的微博！那年在9.18号微博发出底部到了，“大胆买，多买点！”的指令，而后一周内股市发动千点暴涨行情！接下来就是举国欢庆的国庆节，街头巷尾人人皆谈股市，股民散户热血沸腾，媒体机构敲锣打鼓，券商加班加点开户……一大片牛市开启的呼声响彻神州大地！10月3号，微博写下这篇三千长文——警世恒言之股市！！此文在那时再也无法唤醒热血澎湃的股民，10月8号也就是开市第一天，所有股票高开大跌📉……有无数人因为那天开始，坠入深渊从此不能自",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 34,
+      "attitudes_count": 61
     },
     {
       "id": "5356882962680481",
@@ -7908,6 +7920,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-28 04:30:26 UTC+8 (SCF v3)",
-  "total_count": 658
+  "last_updated": "2026-10-28 17:30:15 UTC+8 (SCF v3)",
+  "total_count": 659
 }
