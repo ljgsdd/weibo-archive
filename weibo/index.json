@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4189,
+    "statuses_count": 4192,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3142,6 +3142,42 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5359302693094093",
+      "bid": "RoSJvcYUJ",
+      "created_at": "Thu Oct 29 10:26:36 +0800 2026",
+      "text_excerpt": "昨天说了微博股市第一大V前天割，昨天买入追，你们只要反过来做，胜率80%以上！网上的博主，主播都一样，反过来操作记住！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 77,
+      "attitudes_count": 220
+    },
+    {
+      "id": "5359301627744727",
+      "bid": "RoSHMwuKX",
+      "created_at": "Thu Oct 29 10:22:22 +0800 2026",
+      "text_excerpt": "今日你先把6元付了否则关小黑屋<span class=\"url-icon\"><img alt=\"[笑而不语]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/201810_heiheihei_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/KamenRider-Boy'>@KamenRider-Boy</a",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 86,
+      "attitudes_count": 165
+    },
+    {
+      "id": "5359301226141078",
+      "bid": "RoSH8pLzE",
+      "created_at": "Thu Oct 29 10:20:46 +0800 2026",
+      "text_excerpt": "前天下午大跌买入，昨天大涨卖出……以前经常说日盘，现在极少说了因为网上无数人在说，但能经常蒙对第二天涨跌的人好像也不多<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 202,
+      "attitudes_count": 424
     },
     {
       "id": "5359168417696654",
@@ -7932,6 +7968,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-28 18:00:10 UTC+8 (SCF v3)",
-  "total_count": 660
+  "last_updated": "2026-10-29 02:30:26 UTC+8 (SCF v3)",
+  "total_count": 663
 }
