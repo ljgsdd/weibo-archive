@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4192,
+    "statuses_count": 4194,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3142,6 +3142,30 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5359354008308931",
+      "bid": "RoU4gyRx1",
+      "created_at": "Thu Oct 29 13:50:30 +0800 2026",
+      "text_excerpt": "纪念一下，中国股市A50期指有史以来第一次12周阴！这是越来越好吗？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 151,
+      "attitudes_count": 333
+    },
+    {
+      "id": "5359347459953428",
+      "bid": "RoTTHFLla",
+      "created_at": "Thu Oct 29 13:24:29 +0800 2026",
+      "text_excerpt": "还没有过助威不是真爱粉的，评论区最好自己删除，也不要再评论，系统已设置自动拉黑功能。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 293,
+      "attitudes_count": 547
     },
     {
       "id": "5359329885818501",
@@ -8016,6 +8040,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-29 05:00:16 UTC+8 (SCF v3)",
-  "total_count": 667
+  "last_updated": "2026-10-29 06:00:30 UTC+8 (SCF v3)",
+  "total_count": 669
 }
