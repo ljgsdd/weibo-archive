@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4193,
+    "statuses_count": 4192,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3142,6 +3142,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5359329885818501",
+      "bid": "RoTrmopEN",
+      "created_at": "Thu Oct 29 12:14:39 +0800 2026",
+      "text_excerpt": "这里也分享吧…… ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 122,
+      "attitudes_count": 369
     },
     {
       "id": "5359316873775995",
@@ -8004,6 +8016,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-29 03:30:18 UTC+8 (SCF v3)",
-  "total_count": 666
+  "last_updated": "2026-10-29 05:00:16 UTC+8 (SCF v3)",
+  "total_count": 667
 }
