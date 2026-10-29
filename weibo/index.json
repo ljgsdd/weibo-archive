@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4194,
+    "statuses_count": 4193,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3142,6 +3142,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5359397473617036",
+      "bid": "RoVcnfaXi",
+      "created_at": "Thu Oct 29 16:43:13 +0800 2026",
+      "text_excerpt": "已启动没有真爱粉标志的自动拉黑功能，不管金粉钻粉。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 315,
+      "attitudes_count": 361
     },
     {
       "id": "5359354008308931",
@@ -8040,6 +8052,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-29 06:00:30 UTC+8 (SCF v3)",
-  "total_count": 669
+  "last_updated": "2026-10-29 09:00:17 UTC+8 (SCF v3)",
+  "total_count": 670
 }
