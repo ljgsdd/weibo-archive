@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4193,
+    "statuses_count": 4192,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3142,6 +3142,18 @@
       "reposts_count": 1,
       "comments_count": 186,
       "attitudes_count": 438
+    },
+    {
+      "id": "5359430613077076",
+      "bid": "RoW3PcUug",
+      "created_at": "Thu Oct 29 18:54:54 +0800 2026",
+      "text_excerpt": "近来市场不好，外来人口较多，带来的戾气非常重！除了自动拉黑非真爱粉，暂时停博几天。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 229,
+      "attitudes_count": 415
     },
     {
       "id": "5359397473617036",
@@ -8052,6 +8064,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-29 09:00:17 UTC+8 (SCF v3)",
-  "total_count": 670
+  "last_updated": "2026-10-29 11:30:17 UTC+8 (SCF v3)",
+  "total_count": 671
 }
