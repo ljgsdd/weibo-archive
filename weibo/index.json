@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4194,
+    "statuses_count": 4195,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -7320,6 +7320,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5359725501743385",
+      "bid": "Rp3Js7jx7",
+      "created_at": "Fri Oct 30 14:26:40 +0800 2026",
+      "text_excerpt": "微盘股在十字周线后选择向下，跟随其他指数年线砸阴，意味着大资金行为一致，做K非常坚决。尊重趋势，市场永远是对的，敬畏。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 79,
+      "attitudes_count": 228
+    },
+    {
       "id": "5359687454166023",
       "bid": "Rp2K5htLV",
       "created_at": "Fri Oct 30 11:55:30 +0800 2026",
@@ -8100,6 +8112,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-30 04:00:21 UTC+8 (SCF v3)",
-  "total_count": 674
+  "last_updated": "2026-10-30 06:30:18 UTC+8 (SCF v3)",
+  "total_count": 675
 }
