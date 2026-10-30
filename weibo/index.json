@@ -7320,6 +7320,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5359730148510668",
+      "bid": "Rp3QWzI0Q",
+      "created_at": "Fri Oct 30 14:45:09 +0800 2026",
+      "text_excerpt": "下周等微博提前信号📶，周末好好吃饭！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 403,
+      "attitudes_count": 859
+    },
+    {
       "id": "5359725501743385",
       "bid": "Rp3Js7jx7",
       "created_at": "Fri Oct 30 14:26:40 +0800 2026",
@@ -8112,6 +8124,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-30 06:30:18 UTC+8 (SCF v3)",
-  "total_count": 675
+  "last_updated": "2026-10-30 07:30:13 UTC+8 (SCF v3)",
+  "total_count": 676
 }
