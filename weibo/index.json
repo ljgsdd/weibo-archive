@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4192,
+    "statuses_count": 4193,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5208,6 +5208,18 @@
       "attitudes_count": 187
     },
     {
+      "id": "5359897513558169",
+      "bid": "Rp8cTeVDP",
+      "created_at": "Sat Oct 31 01:50:12 +0800 2026",
+      "text_excerpt": "股市从来没有所谓的技术，那些macd，kdj，boll以及各种K线，还有子虚乌有的波浪结构，缠学，平行顶底线等，都是哪里起源的？微博几年前都有详细介绍，更扯蛋的还有什么一剑封喉、一阴穿多阳、老鸭头、金针探底、仙人指路…纯碎就是某些牛鬼蛇神杜撰出来的！所有老股民能够说得出来所谓的技术，俊哥都能倒背如流，所有这些A股的技术，都是券商专门给你挖下的坑。<br />量化的市场，不但没有任何技术可言，反过来，其设计的阶段性量化方案更多的是针对这些“技术”来精准收割，特别是股民集聚地（粉",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 27,
+      "attitudes_count": 64
+    },
+    {
       "id": "5357590995535401",
       "bid": "RoacHne0F",
       "created_at": "Sat Oct 24 17:04:55 +0800 2026",
@@ -8136,6 +8148,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-30 17:30:26 UTC+8 (SCF v3)",
-  "total_count": 677
+  "last_updated": "2026-10-30 18:00:17 UTC+8 (SCF v3)",
+  "total_count": 678
 }
