@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4195,
+    "statuses_count": 4192,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -7320,6 +7320,18 @@
       "attitudes_count": 237
     },
     {
+      "id": "5359857855105393",
+      "bid": "Rp7aVlq93",
+      "created_at": "Fri Oct 30 23:12:37 +0800 2026",
+      "text_excerpt": "向第一目标位进行，提到过的一般都会被验证。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 122,
+      "attitudes_count": 339
+    },
+    {
       "id": "5359730148510668",
       "bid": "Rp3QWzI0Q",
       "created_at": "Fri Oct 30 14:45:09 +0800 2026",
@@ -8124,6 +8136,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-30 07:30:13 UTC+8 (SCF v3)",
-  "total_count": 676
+  "last_updated": "2026-10-30 17:30:26 UTC+8 (SCF v3)",
+  "total_count": 677
 }
