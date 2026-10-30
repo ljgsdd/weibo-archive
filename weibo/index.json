@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4192,
+    "statuses_count": 4194,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -7320,6 +7320,30 @@
       "attitudes_count": 237
     },
     {
+      "id": "5359687454166023",
+      "bid": "Rp2K5htLV",
+      "created_at": "Fri Oct 30 11:55:30 +0800 2026",
+      "text_excerpt": "你看我两个号有关注过一个人吗？一个人不关注！你的人生路，掌握在自己手中，没人可以模仿没人可以依靠，只有你自己的思路和灵魂，是唯一值得信赖和可以去点燃的烟火，关键是把握住烟花璀璨最精彩片刻，足矣，每个人都会有。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 70,
+      "attitudes_count": 181
+    },
+    {
+      "id": "5359681439531269",
+      "bid": "Rp2AnDZw9",
+      "created_at": "Fri Oct 30 11:31:35 +0800 2026",
+      "text_excerpt": "散户与散户之间也是对手盘，如同企业同行竞争，就看你所处的平台和企业实力。当形势好转时，别的企业在扭亏，你在赚钱。别的企业刚赚钱准备加大投入，你全身撤退，仅此而已。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 97,
+      "attitudes_count": 335
+    },
+    {
       "id": "5359679406342808",
       "bid": "Rp2x6qC3m",
       "created_at": "Fri Oct 30 11:23:31 +0800 2026",
@@ -8076,6 +8100,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-30 03:30:12 UTC+8 (SCF v3)",
-  "total_count": 672
+  "last_updated": "2026-10-30 04:00:21 UTC+8 (SCF v3)",
+  "total_count": 674
 }
