@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4200,
+    "statuses_count": 4193,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4812,6 +4812,18 @@
       "attitudes_count": 95
     },
     {
+      "id": "5360330416064630",
+      "bid": "Rpjt7prGC",
+      "created_at": "Sun Nov 01 06:30:24 +0800 2026",
+      "text_excerpt": "五点多，天还没亮。为了给父母吃上热腾腾的早餐，硬是一夜没睡，等他们起来就跑到楼下去买他们喜欢吃的油条豆腐脑。<br />这个地方，是网络上经常会刷到的杭州“浦东”（图二）。而这个时候，我看到的是这个状态（图一）。它卸下了霓虹的伪装，褪去了音乐的修饰，从俯视变成了平视。<br />虽然路上没有了行人，他们也知道天亮就不允许再摆摊，在晨光来临之际，他们渴望或许再来一个买主。以前看到这些，我们总会说为生活而努力的人们点赞，但此刻，却让我觉得他们是为生存而努力，甚至为这些在生存边缘的",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 87,
+      "attitudes_count": 171
+    },
+    {
       "id": "5360260547872052",
       "bid": "RphEqx1SA",
       "created_at": "Sun Nov 01 01:52:46 +0800 2026",
@@ -8256,6 +8268,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-31 18:00:52 UTC+8 (SCF v3)",
-  "total_count": 687
+  "last_updated": "2026-10-31 23:00:20 UTC+8 (SCF v3)",
+  "total_count": 688
 }
