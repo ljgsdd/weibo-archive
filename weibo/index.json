@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4193,
+    "statuses_count": 4194,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6372,6 +6372,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5360609868907016",
+      "bid": "RpqJQBn7y",
+      "created_at": "Mon Nov 02 01:00:51 +0800 2026",
+      "text_excerpt": "创业的核心就是认知的判断！钱、人、资源都可以外购、整合；唯独对行业、对需求、对趋势的认知，是创始人自己的核心壁垒。<br />这是一段对D音创始人的采访段落，我非常认同，虽然对其产业本身存在某种程度上的看法。一个人要创业，要成功，除了知识、阅历、人脉等因素以外，最重要的就是认知！在认知面前，其他因素几乎微不足道。而一个人的认知，取决于其走过的路，认识的人，见过的事，听过的话。简单地说就是人以群分而谋，这世界人与人之间的认知天差地别，你无法改变他人，只有归类。<br />四年半",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 42,
+      "attitudes_count": 96
+    },
+    {
       "id": "5302282628892511",
       "bid": "R0XnEBjlB",
       "created_at": "Mon May 25 02:09:13 +0800 2026",
@@ -8268,6 +8280,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-10-31 23:00:20 UTC+8 (SCF v3)",
-  "total_count": 688
+  "last_updated": "2026-11-01 17:30:17 UTC+8 (SCF v3)",
+  "total_count": 689
 }
