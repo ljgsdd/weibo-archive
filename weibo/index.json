@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4194,
+    "statuses_count": 4195,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6372,6 +6372,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5360734720753794",
+      "bid": "RptZe3a5Y",
+      "created_at": "Mon Nov 02 09:16:57 +0800 2026",
+      "text_excerpt": "跟会议没有任何关系！会议没有用。周五发这个，还没有会议什么事儿//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:外围与A股关联不大，A股也跌累了，周一红的概率很大。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 86,
+      "attitudes_count": 302
+    },
+    {
       "id": "5360609868907016",
       "bid": "RpqJQBn7y",
       "created_at": "Mon Nov 02 01:00:51 +0800 2026",
@@ -8280,6 +8292,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-01 17:30:17 UTC+8 (SCF v3)",
-  "total_count": 689
+  "last_updated": "2026-11-02 01:30:11 UTC+8 (SCF v3)",
+  "total_count": 690
 }
