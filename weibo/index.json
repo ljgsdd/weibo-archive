@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4200,
+    "statuses_count": 4196,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6372,6 +6372,30 @@
       "attitudes_count": 103
     },
     {
+      "id": "5360828882616758",
+      "bid": "Rpwr6aYJM",
+      "created_at": "Mon Nov 02 15:31:08 +0800 2026",
+      "text_excerpt": "11.2号天气晴，20度，深秋未深，秋不萧瑟。<br />周五全球股市大跌之日留言今天会红，尚无“会议”新闻，乃市场本能反应。<br />本次单边下跌，接近尾声。会有一批个股优先获得资金青睐，在周线涨跌中趋势向上，考验耐心。前面说了本次反弹完全不同于2635.2689“出击”或3040“双倍解套”的模式，因此不存在踏空！<br />回顾过去，自6.30号提示趋势股“7月落幕”，或者8月初提示“等待秋天（10.20号后）”，或红线处或大跌买入预判次日反弹等等，无论是趋势预判和还",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 325,
+      "attitudes_count": 754
+    },
+    {
+      "id": "5360805961796961",
+      "bid": "RpvQ87xtf",
+      "created_at": "Mon Nov 02 14:00:03 +0800 2026",
+      "text_excerpt": "上周发此图“纪念一下，A股有史以来的12周连跌”，意味着将结束12周连跌。无奈有些股民戾气太重，删博不删人，保护净化此地。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 220,
+      "attitudes_count": 905
+    },
+    {
       "id": "5360775699891279",
       "bid": "Rpv3jFvaL",
       "created_at": "Mon Nov 02 11:59:48 +0800 2026",
@@ -8400,6 +8424,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-02 04:00:19 UTC+8 (SCF v3)",
-  "total_count": 699
+  "last_updated": "2026-11-02 09:00:15 UTC+8 (SCF v3)",
+  "total_count": 701
 }
