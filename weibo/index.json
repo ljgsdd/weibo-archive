@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4196,
+    "statuses_count": 4198,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2074,6 +2074,30 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5361030874267676",
+      "bid": "RpBGThUdu",
+      "created_at": "Tue Nov 03 04:53:45 +0800 2026",
+      "text_excerpt": "说你第一步先跌3000点，你高开高走也得跌下来配合我预判<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 17,
+      "attitudes_count": 25
+    },
+    {
+      "id": "5361029603393640",
+      "bid": "RpBEQeeQ8",
+      "created_at": "Tue Nov 03 04:48:43 +0800 2026",
+      "text_excerpt": "又热醒！还得继续开冷空调！天时不正啊 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 16,
+      "attitudes_count": 32
     },
     {
       "id": "5302648934760584",
@@ -8424,6 +8448,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-02 09:00:15 UTC+8 (SCF v3)",
-  "total_count": 701
+  "last_updated": "2026-11-02 21:00:17 UTC+8 (SCF v3)",
+  "total_count": 703
 }
