@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4195,
+    "statuses_count": 4196,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6372,6 +6372,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5360747934911280",
+      "bid": "RpukxkBEc",
+      "created_at": "Mon Nov 02 10:09:28 +0800 2026",
+      "text_excerpt": "周五说今天红，看谁敢砸绿？<span class=\"url-icon\"><img alt=\"[怒]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/90/201810_nu_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 182,
+      "attitudes_count": 458
+    },
+    {
       "id": "5360734720753794",
       "bid": "RptZe3a5Y",
       "created_at": "Mon Nov 02 09:16:57 +0800 2026",
@@ -8292,6 +8304,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-02 01:30:11 UTC+8 (SCF v3)",
-  "total_count": 690
+  "last_updated": "2026-11-02 02:30:12 UTC+8 (SCF v3)",
+  "total_count": 691
 }
