@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4196,
+    "statuses_count": 4197,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6372,6 +6372,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5360756515145550",
+      "bid": "RpuynlAAK",
+      "created_at": "Mon Nov 02 10:43:34 +0800 2026",
+      "text_excerpt": "删之前先把你删了！//<a href='/n/愿做与世无争'>@愿做与世无争</a>:总感觉这条会删<span class=\"url-icon\"><img alt=\"[doge]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e6/2018_doge_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 88,
+      "attitudes_count": 224
+    },
+    {
       "id": "5360747934911280",
       "bid": "RpukxkBEc",
       "created_at": "Mon Nov 02 10:09:28 +0800 2026",
@@ -8304,6 +8316,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-02 02:30:12 UTC+8 (SCF v3)",
-  "total_count": 691
+  "last_updated": "2026-11-02 03:00:13 UTC+8 (SCF v3)",
+  "total_count": 692
 }
