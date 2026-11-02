@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4197,
+    "statuses_count": 4200,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6372,6 +6372,42 @@
       "attitudes_count": 103
     },
     {
+      "id": "5360768016975545",
+      "bid": "RpuQVtgEN",
+      "created_at": "Mon Nov 02 11:29:16 +0800 2026",
+      "text_excerpt": "全是连续下跌的超跌股上午绿盘进去，七八个点至少……//<a href='/n/晓哓小老虎'>@晓哓小老虎</a>:俊哥，好想看那几个是啥<span class=\"url-icon\"><img alt=\"[可爱]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/78/201810_keai_mobile.png\" style=\"width:1em; height:1em;\" /></span><s",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 23,
+      "attitudes_count": 70
+    },
+    {
+      "id": "5360767123590384",
+      "bid": "RpuPuf41q",
+      "created_at": "Mon Nov 02 11:25:43 +0800 2026",
+      "text_excerpt": "上午全部买入，今天怎么卖的出去？我又没法T+0 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 79,
+      "attitudes_count": 217
+    },
+    {
+      "id": "5360765165110090",
+      "bid": "RpuMklrmO",
+      "created_at": "Mon Nov 02 11:17:56 +0800 2026",
+      "text_excerpt": "一上午震荡，唯有这里一锤定音，稳定军心，中午好！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 156,
+      "attitudes_count": 401
+    },
+    {
       "id": "5360756515145550",
       "bid": "RpuynlAAK",
       "created_at": "Mon Nov 02 10:43:34 +0800 2026",
@@ -8316,6 +8352,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-02 03:00:13 UTC+8 (SCF v3)",
-  "total_count": 692
+  "last_updated": "2026-11-02 03:30:33 UTC+8 (SCF v3)",
+  "total_count": 695
 }
