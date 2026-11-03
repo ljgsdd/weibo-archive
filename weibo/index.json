@@ -2076,6 +2076,30 @@
       "attitudes_count": 64
     },
     {
+      "id": "5361197677545792",
+      "bid": "RpG1VvF0k",
+      "created_at": "Tue Nov 03 15:56:35 +0800 2026",
+      "text_excerpt": "一切行动听指挥 ",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 86,
+      "attitudes_count": 218
+    },
+    {
+      "id": "5361191524501577",
+      "bid": "RpFS0iT45",
+      "created_at": "Tue Nov 03 15:32:08 +0800 2026",
+      "text_excerpt": "老粉都知道，前些年我预判离岸人民币汇率，可以精准到小数点后两位。这个整整跌了8个季度的指数今天有所反应，我国是最大的美债持有国，可想而知，国库资金缩水不得而知。<br />接下来，它开始会影响A股。<br />A股，自6月底以来，也一样走出了极端行情，目前各大指数全部年线阴，这在一个月之前小号已经提出预判，同时也指出科技还会跌（因为这板块还红）。在股市趋势行情之下，任何利好，都不会有任何作用，至于昨日会议的互换便利，请翻阅两年的微博，有非常详细的介绍分析，如隔靴搔痒！<br ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 271,
+      "attitudes_count": 590
+    },
+    {
       "id": "5361187702440422",
       "bid": "RpFLQaeRE",
       "created_at": "Tue Nov 03 15:16:56 +0800 2026",
@@ -8520,6 +8544,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-03 07:30:31 UTC+8 (SCF v3)",
-  "total_count": 709
+  "last_updated": "2026-11-03 08:00:37 UTC+8 (SCF v3)",
+  "total_count": 711
 }
