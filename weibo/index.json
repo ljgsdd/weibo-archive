@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4197,
+    "statuses_count": 4199,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2074,6 +2074,30 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5361175371972835",
+      "bid": "RpFrX8hdV",
+      "created_at": "Tue Nov 03 14:27:56 +0800 2026",
+      "text_excerpt": "人多的地方别去，大V提及的任何板块个股别碰，前者人身安全后者财产安全。无人关注的电信公路铁路能源的资金是否潜伏？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 47,
+      "attitudes_count": 147
+    },
+    {
+      "id": "5361173694253030",
+      "bid": "RpFpfhQpg",
+      "created_at": "Tue Nov 03 14:21:17 +0800 2026",
+      "text_excerpt": "你们要及时看评论区，看微博，昨天说了“今天会绿”跌回去，工作没办法但到处跑就会失去很多信息。科技股说了M次了最后一次说的它年线，会例外吗，也说了反弹即离开还会跌，什么coo，cpo，wco的大V6月底喊你进去，二年刑期<span class=\"url-icon\"><img alt=\"[裂开]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/202011_liekai_mobile.png\"",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 119,
+      "attitudes_count": 366
     },
     {
       "id": "5361161157476395",
@@ -8472,6 +8496,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-03 06:00:14 UTC+8 (SCF v3)",
-  "total_count": 705
+  "last_updated": "2026-11-03 06:30:29 UTC+8 (SCF v3)",
+  "total_count": 707
 }
