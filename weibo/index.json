@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4199,
+    "statuses_count": 4198,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2074,6 +2074,30 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5361187702440422",
+      "bid": "RpFLQaeRE",
+      "created_at": "Tue Nov 03 15:16:56 +0800 2026",
+      "text_excerpt": "本来不想再说股市，看到这些不忍直视，再说下吧…… ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 235,
+      "attitudes_count": 506
+    },
+    {
+      "id": "5361186306523305",
+      "bid": "RpFJArn0B",
+      "created_at": "Tue Nov 03 15:11:23 +0800 2026",
+      "text_excerpt": "罪孽！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 157,
+      "attitudes_count": 277
     },
     {
       "id": "5361175371972835",
@@ -8496,6 +8520,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-03 06:30:29 UTC+8 (SCF v3)",
-  "total_count": 707
+  "last_updated": "2026-11-03 07:30:31 UTC+8 (SCF v3)",
+  "total_count": 709
 }
