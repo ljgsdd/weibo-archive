@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4198,
+    "statuses_count": 4197,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2074,6 +2074,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5361250383172994",
+      "bid": "RpHoWdjrk",
+      "created_at": "Tue Nov 03 19:26:01 +0800 2026",
+      "text_excerpt": "父亲说这玩意儿咋把晚饭给推到了屁股里<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 128,
+      "attitudes_count": 178
     },
     {
       "id": "5361197677545792",
@@ -8544,6 +8556,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-03 08:00:37 UTC+8 (SCF v3)",
-  "total_count": 711
+  "last_updated": "2026-11-03 11:30:22 UTC+8 (SCF v3)",
+  "total_count": 712
 }
