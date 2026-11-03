@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4198,
+    "statuses_count": 4197,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2074,6 +2074,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5361161157476395",
+      "bid": "RpF51vmX1",
+      "created_at": "Tue Nov 03 13:31:27 +0800 2026",
+      "text_excerpt": "是不是低于周五收盘指数了？喷的出来<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 217,
+      "attitudes_count": 533
     },
     {
       "id": "5361103750039605",
@@ -8460,6 +8472,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-03 02:00:14 UTC+8 (SCF v3)",
-  "total_count": 704
+  "last_updated": "2026-11-03 06:00:14 UTC+8 (SCF v3)",
+  "total_count": 705
 }
