@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4197,
+    "statuses_count": 4198,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5361475741817790",
+      "bid": "RpNgq7CTc",
+      "created_at": "Wed Nov 04 10:21:31 +0800 2026",
+      "text_excerpt": "五五开是吧 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 125,
+      "attitudes_count": 320
     },
     {
       "id": "5361344120357244",
@@ -8568,6 +8580,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-03 18:00:15 UTC+8 (SCF v3)",
-  "total_count": 713
+  "last_updated": "2026-11-04 02:30:23 UTC+8 (SCF v3)",
+  "total_count": 714
 }
