@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4197,
+    "statuses_count": 4200,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,54 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5361545624161260",
+      "bid": "RpP58hsx6",
+      "created_at": "Wed Nov 04 14:59:12 +0800 2026",
+      "text_excerpt": "第4200条微博<br />在昨夜长文直指A股诟病，再砸出动航母之际，今日市场拉出超跌反弹长阳，后面不连续，不存在踏空。空仓轻仓的应该庆幸避开了这一个月的大跌，后面别人在解套你在赚钱。重仓的也提示不要割肉，不要再清仓，都照顾到了！<br />低点出现，后面各自安好。<br />谢谢大家这段时间的相伴，发博特多，只为陪你一路艰辛。<br />重拾信心，生活依然美好，因为这道光。",
+      "is_retweet": false,
+      "pics_count": 3,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 388,
+      "attitudes_count": 767
+    },
+    {
+      "id": "5361534431658419",
+      "bid": "RpON56XqH",
+      "created_at": "Wed Nov 04 14:14:44 +0800 2026",
+      "text_excerpt": "喀嚓拍照，意味着连跌结束。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 159,
+      "attitudes_count": 587
+    },
+    {
+      "id": "5361531569048734",
+      "bid": "RpOIsBXZk",
+      "created_at": "Wed Nov 04 14:03:21 +0800 2026",
+      "text_excerpt": "被我一吓，不会去了！重仓的减点做T，轻仓空仓的后面逢跌再进，不存在踏空。暖心不？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 324,
+      "attitudes_count": 777
+    },
+    {
+      "id": "5361528557799763",
+      "bid": "RpODBwJ4D",
+      "created_at": "Wed Nov 04 13:51:23 +0800 2026",
+      "text_excerpt": "懂得感恩，是为人处事之首，否则到哪儿做什么都不会有待见。股市是一面镜子，照出人性百态，美丑尽显，源于内心，现于评论中，请对号入座。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 202,
+      "attitudes_count": 656
     },
     {
       "id": "5361507973989458",
@@ -8628,6 +8676,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-04 05:00:50 UTC+8 (SCF v3)",
-  "total_count": 718
+  "last_updated": "2026-11-04 07:30:29 UTC+8 (SCF v3)",
+  "total_count": 722
 }
