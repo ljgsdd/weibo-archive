@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4201,
+    "statuses_count": 4202,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5361572421043721",
+      "bid": "RpPMm4nwd",
+      "created_at": "Wed Nov 04 16:45:41 +0800 2026",
+      "text_excerpt": "一夜之间，冷了，明天告别短袖！回家翻衣服去穿～ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 138,
+      "attitudes_count": 325
     },
     {
       "id": "5361559473229229",
@@ -8688,6 +8700,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-04 08:00:25 UTC+8 (SCF v3)",
-  "total_count": 723
+  "last_updated": "2026-11-04 09:00:27 UTC+8 (SCF v3)",
+  "total_count": 724
 }
