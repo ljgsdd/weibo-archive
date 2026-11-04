@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4196,
+    "statuses_count": 4197,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,30 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5361507973989458",
+      "bid": "RpO6pgJQ6",
+      "created_at": "Wed Nov 04 12:29:36 +0800 2026",
+      "text_excerpt": "全球股市好像都挺听话…… ",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 101,
+      "attitudes_count": 314
+    },
+    {
+      "id": "5361503461968728",
+      "bid": "RpNZ88g9G",
+      "created_at": "Wed Nov 04 12:11:40 +0800 2026",
+      "text_excerpt": "3040是“加倍解套”战役啊，提前半个月预判在10号附近，7号盘中发博“低点到了！”（上证3040点），8号千字文写下再跌-2%加倍解套法，9号早盘真的跌了2%，千股跌停，全网恐慌，本博发出加倍仓位抄底，上千个股瞬间拉升15%以上…数百粉丝即日解套！<br />多翻以前微博呀别老问<span class=\"url-icon\"><img alt=\"[裂开]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/nor",
+      "is_retweet": false,
+      "pics_count": 4,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 139,
+      "attitudes_count": 465
     },
     {
       "id": "5361494472526380",
@@ -8604,6 +8628,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-04 04:00:40 UTC+8 (SCF v3)",
-  "total_count": 716
+  "last_updated": "2026-11-04 05:00:50 UTC+8 (SCF v3)",
+  "total_count": 718
 }
