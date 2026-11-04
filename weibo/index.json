@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4200,
+    "statuses_count": 4201,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5361559473229229",
+      "bid": "RpPrtdy4l",
+      "created_at": "Wed Nov 04 15:54:14 +0800 2026",
+      "text_excerpt": "某些大V从创业板2900点喊反弹，喊了一个月粉丝大亏50%以上，今天又封神了！脸皮有毛孔没？<span class=\"url-icon\"><img alt=\"[流汗]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/56/2025_liuhan_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 81,
+      "attitudes_count": 233
     },
     {
       "id": "5361545624161260",
@@ -8676,6 +8688,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-04 07:30:29 UTC+8 (SCF v3)",
-  "total_count": 722
+  "last_updated": "2026-11-04 08:00:25 UTC+8 (SCF v3)",
+  "total_count": 723
 }
