@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4205,
+    "statuses_count": 4204,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3946,6 +3946,18 @@
       "reposts_count": 0,
       "comments_count": 99,
       "attitudes_count": 198
+    },
+    {
+      "id": "5362041567055091",
+      "bid": "Rq1Z2tBlN",
+      "created_at": "Thu Nov 05 23:49:54 +0800 2026",
+      "text_excerpt": "嗯嗯看到粉丝留言了～<br />上月底说日台韩股市还会跌📉，本月连跌四天，真跌下去了！<br />上月中旬纳斯达克27700点的时候说先跌3000点吧，真跌了3000点！<br />你有没有在所有券商首席分析师、经济学家、全网大V博主，主播中看到过这样的预测？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/2018",
+      "is_retweet": false,
+      "pics_count": 6,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 237,
+      "attitudes_count": 474
     },
     {
       "id": "5361905369350881",
@@ -8796,6 +8808,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-05 07:00:34 UTC+8 (SCF v3)",
-  "total_count": 732
+  "last_updated": "2026-11-05 17:00:37 UTC+8 (SCF v3)",
+  "total_count": 733
 }
