@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4207,
+    "statuses_count": 4208,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8256,6 +8256,30 @@
       "attitudes_count": 73
     },
     {
+      "id": "5362337131532363",
+      "bid": "Rq9FL6qDx",
+      "created_at": "Fri Nov 06 19:24:22 +0800 2026",
+      "text_excerpt": "有纪念意义的城市，08年行业商会会长我在成都被授牌，席间端上一大盘辣椒，扒拉半天才见到盘底有条鱼<span class=\"url-icon\"><img alt=\"[裂开]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/202011_liekai_mobile.png\" style=\"width:1em; height:1em;\" /></span>那天半夜，我们十几个开发商光着上身在马路",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 97
+    },
+    {
+      "id": "5362333276704498",
+      "bid": "Rq9zxs894",
+      "created_at": "Fri Nov 06 19:09:03 +0800 2026",
+      "text_excerpt": "俺们县城普通高层的房价9万+<br />等我老了我要去重庆，西安，长沙……养老<span class=\"url-icon\"><img alt=\"[挖鼻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/201810_wabishi_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 103,
+      "attitudes_count": 198
+    },
+    {
       "id": "5362264586584513",
       "bid": "Rq7MKrCVP",
       "created_at": "Fri Nov 06 14:36:06 +0800 2026",
@@ -8940,6 +8964,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-06 07:00:35 UTC+8 (SCF v3)",
-  "total_count": 744
+  "last_updated": "2026-11-06 11:30:36 UTC+8 (SCF v3)",
+  "total_count": 746
 }
