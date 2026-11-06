@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4206,
+    "statuses_count": 4205,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8256,6 +8256,18 @@
       "attitudes_count": 73
     },
     {
+      "id": "5362217438675554",
+      "bid": "Rq6yHAoUi",
+      "created_at": "Fri Nov 06 11:28:45 +0800 2026",
+      "text_excerpt": "科技股，月初说了也会反弹，在反弹后咋样？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 73,
+      "attitudes_count": 142
+    },
+    {
       "id": "5362201047073611",
       "bid": "Rq68gtGav",
       "created_at": "Fri Nov 06 10:23:37 +0800 2026",
@@ -8832,6 +8844,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-06 02:30:29 UTC+8 (SCF v3)",
-  "total_count": 735
+  "last_updated": "2026-11-06 03:30:16 UTC+8 (SCF v3)",
+  "total_count": 736
 }
