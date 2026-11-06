@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4204,
+    "statuses_count": 4206,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8256,6 +8256,30 @@
       "attitudes_count": 73
     },
     {
+      "id": "5362201047073611",
+      "bid": "Rq68gtGav",
+      "created_at": "Fri Nov 06 10:23:37 +0800 2026",
+      "text_excerpt": "既然我说秋天到了，难道它还会酷暑严寒？还是忍不住说了<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>周一下探拉红。无需担心",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 160,
+      "attitudes_count": 353
+    },
+    {
+      "id": "5362199369615488",
+      "bid": "Rq65yElqw",
+      "created_at": "Fri Nov 06 10:16:57 +0800 2026",
+      "text_excerpt": "原来它真是中国的",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 103,
+      "attitudes_count": 304
+    },
+    {
       "id": "5278333739738047",
       "bid": "QwROJERjh",
       "created_at": "Fri Mar 20 00:04:53 +0800 2026",
@@ -8808,6 +8832,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-05 17:00:37 UTC+8 (SCF v3)",
-  "total_count": 733
+  "last_updated": "2026-11-06 02:30:29 UTC+8 (SCF v3)",
+  "total_count": 735
 }
