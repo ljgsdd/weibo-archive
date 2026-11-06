@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4209,
+    "statuses_count": 4205,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8256,6 +8256,18 @@
       "attitudes_count": 73
     },
     {
+      "id": "5362235260014574",
+      "bid": "Rq71s03N4",
+      "created_at": "Fri Nov 06 12:39:34 +0800 2026",
+      "text_excerpt": "我从来没有也不会专程去寺庙烧香求佛。九华山没去过，五台山没去过，峨眉山没去过。普陀山也是某次考察浙石化顺路去了。佛的本意在于诸恶莫作，众善奉行，自净其意。而非升官发财，一夜暴富，佛必定不予理会任何夹带私欲贪欲之心。向内善待家人，向外宽待众生，上孝父母，下慈子女，这才是自己身边的真佛和童仙。<br />捐赠寺庙，我从不留名。很多寺庙一根柱子一块匾信徒争相捐赠，刻字留名，我从不参与。十多年前老家一百年老庙，需拆建重修，开建就筹不到款，没人捐助。我让母亲转告寺庙，全部由我一人出资来",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 197,
+      "attitudes_count": 479
+    },
+    {
       "id": "5362224285877593",
       "bid": "Rq6JKoF1T",
       "created_at": "Fri Nov 06 11:55:58 +0800 2026",
@@ -8892,6 +8904,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-06 04:00:20 UTC+8 (SCF v3)",
-  "total_count": 740
+  "last_updated": "2026-11-06 05:00:11 UTC+8 (SCF v3)",
+  "total_count": 741
 }
