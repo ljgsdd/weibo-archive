@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4206,
+    "statuses_count": 4207,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8256,6 +8256,18 @@
       "attitudes_count": 73
     },
     {
+      "id": "5362256026012769",
+      "bid": "Rq7yWpec9",
+      "created_at": "Fri Nov 06 14:02:05 +0800 2026",
+      "text_excerpt": "微博搜纳斯达克，每次顶底都提前预测，哪次不准？ ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 141,
+      "attitudes_count": 398
+    },
+    {
       "id": "5362252020187929",
       "bid": "Rq7su0MT7",
       "created_at": "Fri Nov 06 13:46:10 +0800 2026",
@@ -8916,6 +8928,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-06 06:00:29 UTC+8 (SCF v3)",
-  "total_count": 742
+  "last_updated": "2026-11-06 06:30:35 UTC+8 (SCF v3)",
+  "total_count": 743
 }
