@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4205,
+    "statuses_count": 4206,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8256,6 +8256,18 @@
       "attitudes_count": 73
     },
     {
+      "id": "5362252020187929",
+      "bid": "Rq7su0MT7",
+      "created_at": "Fri Nov 06 13:46:10 +0800 2026",
+      "text_excerpt": "我干的？<span class=\"url-icon\"><img alt=\"[挖鼻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/201810_wabishi_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[挖鼻]\" src=\"https://face.t.sina",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 187,
+      "attitudes_count": 354
+    },
+    {
       "id": "5362235260014574",
       "bid": "Rq71s03N4",
       "created_at": "Fri Nov 06 12:39:34 +0800 2026",
@@ -8904,6 +8916,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-06 05:00:11 UTC+8 (SCF v3)",
-  "total_count": 741
+  "last_updated": "2026-11-06 06:00:29 UTC+8 (SCF v3)",
+  "total_count": 742
 }
