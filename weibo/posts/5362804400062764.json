@@ -1,0 +1,37 @@
+{
+  "id": "5362804400062764",
+  "mid": "5362804400062764",
+  "bid": "RqlPq0gkk",
+  "created_at": "Sun Nov 08 02:21:07 +0800 2026",
+  "text_html": "这首是我此刻复盘随手写的后面股市行情",
+  "text_raw": "这首是我此刻复盘随手写的后面股市行情",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 29,
+  "attitudes_count": 46,
+  "pic_ids": [],
+  "pics": [],
+  "local_pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5362803167724977",
+    "mid": "5362803167724977",
+    "bid": "RqlNqwpCp",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Sun Nov 08 02:16:14 +0800 2026",
+    "text_html": "昨夜寒风今夜雨，未品浓秋已入冬。<br />屏前足凉茶当酒，时节峥嵘忽已穷。 ",
+    "is_long_text": false,
+    "pics": [
+      "https://wx1.sinaimg.cn/mw2000/3bc1f9cdgy1iiu6j7tssvj20wr0amabc.jpg"
+    ],
+    "local_pics": [
+      "weibo/images/3bc1f9cdgy1iiu6j7tssvj20wr0amabc.jpg"
+    ]
+  },
+  "url": "https://weibo.com/1002568141/RqlPq0gkk"
+}
