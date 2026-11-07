@@ -5196,6 +5196,42 @@
       "attitudes_count": 95
     },
     {
+      "id": "5362805488222825",
+      "bid": "RqlRayv8d",
+      "created_at": "Sun Nov 08 02:25:27 +0800 2026",
+      "text_excerpt": "“时节峥嵘忽已穷”：时光飞逝，一年忽然到了尽头，暗指年末之前行情，难有起色。<br />我是理科生，你们比我还不如吗？<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 32,
+      "attitudes_count": 49
+    },
+    {
+      "id": "5362804400062764",
+      "bid": "RqlPq0gkk",
+      "created_at": "Sun Nov 08 02:21:07 +0800 2026",
+      "text_excerpt": "这首是我此刻复盘随手写的后面股市行情",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 29,
+      "attitudes_count": 46
+    },
+    {
+      "id": "5362803167724977",
+      "bid": "RqlNqwpCp",
+      "created_at": "Sun Nov 08 02:16:14 +0800 2026",
+      "text_excerpt": "昨夜寒风今夜雨，未品浓秋已入冬。<br />屏前足凉茶当酒，时节峥嵘忽已穷。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 21,
+      "attitudes_count": 59
+    },
+    {
       "id": "5360330416064630",
       "bid": "Rpjt7prGC",
       "created_at": "Sun Nov 01 06:30:24 +0800 2026",
@@ -8964,6 +9000,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-06 11:30:36 UTC+8 (SCF v3)",
-  "total_count": 746
+  "last_updated": "2026-11-07 18:30:19 UTC+8 (SCF v3)",
+  "total_count": 749
 }
