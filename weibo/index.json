@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4210,
+    "statuses_count": 4208,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5196,6 +5196,18 @@
       "attitudes_count": 95
     },
     {
+      "id": "5362958169541298",
+      "bid": "RqpPqE27U",
+      "created_at": "Sun Nov 08 12:32:09 +0800 2026",
+      "text_excerpt": "孩子8岁前在闽浙交界农村由外婆一手带大。这是三年前除夕前一天孩子自拍视频准备回去看外婆……",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 85,
+      "attitudes_count": 199
+    },
+    {
       "id": "5362928875212630",
       "bid": "Rqp4blS2G",
       "created_at": "Sun Nov 08 10:35:45 +0800 2026",
@@ -9024,6 +9036,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-08 03:00:10 UTC+8 (SCF v3)",
-  "total_count": 751
+  "last_updated": "2026-11-08 05:00:11 UTC+8 (SCF v3)",
+  "total_count": 752
 }
