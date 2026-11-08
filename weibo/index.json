@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4207,
+    "statuses_count": 4210,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -5196,6 +5196,18 @@
       "attitudes_count": 95
     },
     {
+      "id": "5362928875212630",
+      "bid": "Rqp4blS2G",
+      "created_at": "Sun Nov 08 10:35:45 +0800 2026",
+      "text_excerpt": "恢复昨夜微博//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:谢谢捧场<span class=\"url-icon\"><img alt=\"[嘻嘻]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8e/201810_xixi_mobile.png\" style=\"width:1em; height:1em;\" /></span>，这之前从未受过任何专业训练，纯属爱好并获7次全",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 115,
+      "attitudes_count": 267
+    },
+    {
       "id": "5362809942574130",
       "bid": "RqlYmaNEe",
       "created_at": "Sun Nov 08 02:43:09 +0800 2026",
@@ -9012,6 +9024,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-07 19:00:09 UTC+8 (SCF v3)",
-  "total_count": 750
+  "last_updated": "2026-11-08 03:00:10 UTC+8 (SCF v3)",
+  "total_count": 751
 }
