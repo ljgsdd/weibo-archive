@@ -1,0 +1,39 @@
+{
+  "id": "5363311321287456",
+  "mid": "5363311321287456",
+  "bid": "Rqz125oVq",
+  "created_at": "Mon Nov 09 11:55:27 +0800 2026",
+  "text_html": "这就是昨天微博提到的越亏越大，真的会S人的……",
+  "text_raw": "这就是昨天微博提到的越亏越大，真的会S人的……",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 44,
+  "attitudes_count": 112,
+  "pic_ids": [],
+  "pics": [],
+  "local_pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5363310897660778",
+    "mid": "5363310897660778",
+    "bid": "Rqz0lw8UW",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Mon Nov 09 11:53:46 +0800 2026",
+    "text_html": "早上敲锣打鼓，中午偃旗息鼓，下午鸣金息鼓，隔天吹唢殇鼓…… ",
+    "is_long_text": false,
+    "pics": [
+      "https://wx2.sinaimg.cn/mw2000/3bc1f9cdgy1iivsr7yzexj20wr0lqwgz.jpg",
+      "https://wx3.sinaimg.cn/mw2000/3bc1f9cdgy1iivsr8d43qj20wr0dy0tv.jpg"
+    ],
+    "local_pics": [
+      "weibo/images/3bc1f9cdgy1iivsr7yzexj20wr0lqwgz.jpg",
+      "weibo/images/3bc1f9cdgy1iivsr8d43qj20wr0dy0tv.jpg"
+    ]
+  },
+  "url": "https://weibo.com/1002568141/Rqz125oVq"
+}
