@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4208,
+    "statuses_count": 4210,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6828,6 +6828,30 @@
       "attitudes_count": 103
     },
     {
+      "id": "5363311321287456",
+      "bid": "Rqz125oVq",
+      "created_at": "Mon Nov 09 11:55:27 +0800 2026",
+      "text_excerpt": "这就是昨天微博提到的越亏越大，真的会S人的……",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 44,
+      "attitudes_count": 112
+    },
+    {
+      "id": "5363310897660778",
+      "bid": "Rqz0lw8UW",
+      "created_at": "Mon Nov 09 11:53:46 +0800 2026",
+      "text_excerpt": "早上敲锣打鼓，中午偃旗息鼓，下午鸣金息鼓，隔天吹唢殇鼓…… ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 86,
+      "attitudes_count": 220
+    },
+    {
       "id": "5363155268272326",
       "bid": "RquXkyI0C",
       "created_at": "Mon Nov 09 01:35:20 +0800 2026",
@@ -9048,6 +9072,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-08 18:00:12 UTC+8 (SCF v3)",
-  "total_count": 753
+  "last_updated": "2026-11-09 04:00:23 UTC+8 (SCF v3)",
+  "total_count": 755
 }
