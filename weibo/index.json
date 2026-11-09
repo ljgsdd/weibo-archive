@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4210,
+    "statuses_count": 4209,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6828,6 +6828,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5363334900878867",
+      "bid": "RqzD43GDh",
+      "created_at": "Mon Nov 09 13:29:09 +0800 2026",
+      "text_excerpt": "哈神了吧 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 111
+    },
+    {
       "id": "5363311321287456",
       "bid": "Rqz125oVq",
       "created_at": "Mon Nov 09 11:55:27 +0800 2026",
@@ -9072,6 +9084,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-09 04:00:23 UTC+8 (SCF v3)",
-  "total_count": 755
+  "last_updated": "2026-11-09 05:30:18 UTC+8 (SCF v3)",
+  "total_count": 756
 }
