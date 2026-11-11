@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4209,
+    "statuses_count": 4208,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5364215269560649",
+      "bid": "RqWx0E7a1",
+      "created_at": "Wed Nov 11 23:47:25 +0800 2026",
+      "text_excerpt": "如果就此不辞而别，前几天是否有些不适应？<br />过不了多久，会淡忘，会习惯的。只不过是无数个博主之一，有我不多，无我不少罢了。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 175,
+      "attitudes_count": 247
     },
     {
       "id": "5361678368899528",
@@ -9084,6 +9096,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-09 05:30:18 UTC+8 (SCF v3)",
-  "total_count": 756
+  "last_updated": "2026-11-11 16:00:11 UTC+8 (SCF v3)",
+  "total_count": 757
 }
