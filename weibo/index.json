@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4212,
+    "statuses_count": 4213,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3958,6 +3958,54 @@
       "reposts_count": 0,
       "comments_count": 99,
       "attitudes_count": 198
+    },
+    {
+      "id": "5364474687259242",
+      "bid": "Rr3hqussy",
+      "created_at": "Thu Nov 12 16:58:14 +0800 2026",
+      "text_excerpt": "不是真爱粉的体感都这样<span class=\"url-icon\"><img alt=\"[污]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e6/201810_wu_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/用户8365494778'>@用户8365494778</a>:整个人太难受了，崩溃了//<a ",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 4,
+      "attitudes_count": 8
+    },
+    {
+      "id": "5364473743281552",
+      "bid": "Rr3fUdLGg",
+      "created_at": "Thu Nov 12 16:54:30 +0800 2026",
+      "text_excerpt": "不会！明天还是五五开，指数那条微博把年前都说了//<a href='/n/缓缓拾级'>@缓缓拾级</a>:俊哥，盘面明天会更惨吗？<span class=\"url-icon\"><img alt=\"[手指比心]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2f/2025_HandHeart_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 20,
+      "attitudes_count": 60
+    },
+    {
+      "id": "5364472102519648",
+      "bid": "Rr3dgaztu",
+      "created_at": "Thu Nov 12 16:47:59 +0800 2026",
+      "text_excerpt": "病句//<a href='/n/小小周加油丫'>@小小周加油丫</a>:俊哥 今天又被打了一棍子//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:眼睁睁地看着她翻了一倍多！A股最亮的星星🌟",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 44,
+      "attitudes_count": 78
+    },
+    {
+      "id": "5364472051140080",
+      "bid": "Rr3db4MAo",
+      "created_at": "Thu Nov 12 16:47:47 +0800 2026",
+      "text_excerpt": "病句//<a href='/n/right一瞬太短'>@right一瞬太短</a>:俊哥今天被弄惨了，明天怎么办<span class=\"url-icon\"><img alt=\"[泪奔]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d6/2025_ShedTears_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 43,
+      "attitudes_count": 78
     },
     {
       "id": "5364398416986514",
@@ -9144,6 +9192,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-12 04:00:33 UTC+8 (SCF v3)",
-  "total_count": 761
+  "last_updated": "2026-11-12 09:00:48 UTC+8 (SCF v3)",
+  "total_count": 765
 }
