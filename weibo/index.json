@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4208,
+    "statuses_count": 4212,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -3958,6 +3958,54 @@
       "reposts_count": 0,
       "comments_count": 99,
       "attitudes_count": 198
+    },
+    {
+      "id": "5364398416986514",
+      "bid": "Rr1iptjvI",
+      "created_at": "Thu Nov 12 11:55:10 +0800 2026",
+      "text_excerpt": "我从来不看涨停股，从来不看涨幅榜。涨起来了大V播报了散户看到了，这就是亏损的主要原因。//<a href='/n/一蓑烟雨任犬吠'>@一蓑烟雨任犬吠</a>:俊哥怎么选的这个，我昨天才加入自选，俊哥就卖了<span class=\"url-icon\"><img alt=\"[笑cry]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f1/201810_xiaoku_mobile.png\" styl",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 24,
+      "attitudes_count": 79
+    },
+    {
+      "id": "5364397553485643",
+      "bid": "Rr1h1eCM3",
+      "created_at": "Thu Nov 12 11:51:45 +0800 2026",
+      "text_excerpt": "地震，台风不都是在半夜吗//<a href='/n/不喜社交宅家中'>@不喜社交宅家中</a>:谢谢，哥，有风险不要半夜发好吗",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 52,
+      "attitudes_count": 113
+    },
+    {
+      "id": "5364397163153402",
+      "bid": "Rr1godelk",
+      "created_at": "Thu Nov 12 11:50:12 +0800 2026",
+      "text_excerpt": "前几天没空看盘把手里股卖了，然后没有然后了……大家好好择股吧有大的风险我会提前通知 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 82,
+      "attitudes_count": 237
+    },
+    {
+      "id": "5364395414654947",
+      "bid": "Rr1dzjwXN",
+      "created_at": "Thu Nov 12 11:43:15 +0800 2026",
+      "text_excerpt": "眼睁睁地看着她翻了一倍多！A股最亮的星星🌟",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 107,
+      "attitudes_count": 226
     },
     {
       "id": "5362041567055091",
@@ -9096,6 +9144,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-11 16:00:11 UTC+8 (SCF v3)",
-  "total_count": 757
+  "last_updated": "2026-11-12 04:00:33 UTC+8 (SCF v3)",
+  "total_count": 761
 }
