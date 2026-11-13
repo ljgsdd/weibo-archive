@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4214,
+    "statuses_count": 4209,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8484,6 +8484,30 @@
       "attitudes_count": 73
     },
     {
+      "id": "5364814513966946",
+      "bid": "Rrc7xgDZ0",
+      "created_at": "Fri Nov 13 15:28:36 +0800 2026",
+      "text_excerpt": "有些人说选不好股，选不对股，其实不存在选不好，只有瞧不起，沉不下，走不远，跟大龄单身女择偶一样的道理。<br />那年元旦，中石油才3元，如今12元多，银行涨幅更加巨大，黄金这四年都上天了！那年微博提出都是在最低点，都在无人问津时，只是不信、不行、不要、不快，其实是不配。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 33,
+      "attitudes_count": 98
+    },
+    {
+      "id": "5364809480540069",
+      "bid": "RrbZq2guN",
+      "created_at": "Fri Nov 13 15:08:36 +0800 2026",
+      "text_excerpt": "我一直不建议散户去买各指数ETF，中国资本市场没有长期的牛市，微博几年前就说过，6124和5178时的牛市，一去不复返，沉淀于黄土。再加上注册制实施几年以来，指数牛基本被扑灭，这是制度设置的。然后这两年又推出量化交易，在区间方案设计下频繁交易的量化，更加助推了十大指数的分化和阻碍了指数的进程。<br />犹如那年元旦微博指出“今年是基金亏损年”一样（搜索都在），散户那年基本全部亏损。",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 133,
+      "attitudes_count": 316
+    },
+    {
       "id": "5364792652990824",
       "bid": "Rrbyhcy36",
       "created_at": "Fri Nov 13 14:01:44 +0800 2026",
@@ -9300,6 +9324,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-13 06:02:30 UTC+8 (SCF v3)",
-  "total_count": 774
+  "last_updated": "2026-11-13 07:30:21 UTC+8 (SCF v3)",
+  "total_count": 776
 }
