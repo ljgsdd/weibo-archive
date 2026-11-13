@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4212,
+    "statuses_count": 4209,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6252,6 +6252,18 @@
       "attitudes_count": 30
     },
     {
+      "id": "5364963259714804",
+      "bid": "RrfZrELgo",
+      "created_at": "Sat Nov 14 01:19:40 +0800 2026",
+      "text_excerpt": "寻香万里，千年长安。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 38,
+      "attitudes_count": 89
+    },
+    {
       "id": "5314559466538084",
       "bid": "R66L0rqQY",
       "created_at": "Sat Jun 27 23:12:59 +0800 2026",
@@ -9360,6 +9372,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-13 09:00:22 UTC+8 (SCF v3)",
-  "total_count": 779
+  "last_updated": "2026-11-13 18:00:20 UTC+8 (SCF v3)",
+  "total_count": 780
 }
