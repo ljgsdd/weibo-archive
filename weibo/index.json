@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4213,
+    "statuses_count": 4211,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8484,6 +8484,54 @@
       "attitudes_count": 73
     },
     {
+      "id": "5364784087436390",
+      "bid": "RrbksvcxM",
+      "created_at": "Fri Nov 13 13:27:42 +0800 2026",
+      "text_excerpt": "狗屎运//<a href='/n/用户6467802069'>@用户6467802069</a>:我买了俊哥卖的 今天涨停了<span class=\"url-icon\"><img alt=\"[打call]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/moren_dacall_mobile.png\" style=\"width:1em; height:1em;\" /></span><spa",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 22,
+      "attitudes_count": 61
+    },
+    {
+      "id": "5364783784398252",
+      "bid": "RrbjYisby",
+      "created_at": "Fri Nov 13 13:26:30 +0800 2026",
+      "text_excerpt": "重要的微博都会留下，再仔细阅读一遍//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:昨夜发博指出了今年剩下不到二个月的市场行情预判。那些跟着大V在创业板2900点说C4反弹抄底的散户，今年是肯定无法解套回不了本的，后面越亏越多的概率更大因为基本都满仓套死。接下去，A股市场在指数震荡整理中，个股基本会走出三类走势：一是资金不关注或基本面存在问题的个股，会严重失去流动性，继续持续走低。二是6月底被某些V大喊买入科技等的4.5.6月翻倍趋势股，市场没有2.5万",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 39,
+      "attitudes_count": 104
+    },
+    {
+      "id": "5364783151057097",
+      "bid": "RrbiX4qZX",
+      "created_at": "Fri Nov 13 13:23:59 +0800 2026",
+      "text_excerpt": "前几天不是都害怕踏空吗？//<a href='/n/蟹蟹锦123'>@蟹蟹锦123</a>:还以为这个月好点，还是这个样子<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span><span cl",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 74,
+      "attitudes_count": 138
+    },
+    {
+      "id": "5364782234337721",
+      "bid": "Rrbhticrf",
+      "created_at": "Fri Nov 13 13:20:19 +0800 2026",
+      "text_excerpt": "某广西抠脚老汉手指头写微博的大V，粉丝一片骂声，早就预言了这些散户会亏的一塌糊涂的，而大V今年收割粉丝付费阅读已近千万…… ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 78,
+      "attitudes_count": 231
+    },
+    {
       "id": "5362337131532363",
       "bid": "Rq9FL6qDx",
       "created_at": "Fri Nov 06 19:24:22 +0800 2026",
@@ -9192,6 +9240,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-12 09:00:48 UTC+8 (SCF v3)",
-  "total_count": 765
+  "last_updated": "2026-11-13 05:30:34 UTC+8 (SCF v3)",
+  "total_count": 769
 }
