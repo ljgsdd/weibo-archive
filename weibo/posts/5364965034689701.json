@@ -1,0 +1,39 @@
+{
+  "id": "5364965034689701",
+  "mid": "5364965034689701",
+  "bid": "Rrg2jjG0l",
+  "created_at": "Sat Nov 14 01:26:43 +0800 2026",
+  "text_html": "几块钱的馍，里边的肉如果在杭州至少得做三道菜卖上百元。一个肉夹馍，体现出陕西人的憨直、诚实、豪爽、大气。",
+  "text_raw": "几块钱的馍，里边的肉如果在杭州至少得做三道菜卖上百元。一个肉夹馍，体现出陕西人的憨直、诚实、豪爽、大气。",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 18,
+  "attitudes_count": 33,
+  "pic_ids": [],
+  "pics": [],
+  "local_pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5364963259714804",
+    "mid": "5364963259714804",
+    "bid": "RrfZrELgo",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Sat Nov 14 01:19:40 +0800 2026",
+    "text_html": "寻香万里，千年长安。 ",
+    "is_long_text": false,
+    "pics": [
+      "https://wx2.sinaimg.cn/mw2000/3bc1f9cdgy1ij12mbbtpfj23402c0u0x.jpg",
+      "https://wx3.sinaimg.cn/mw2000/3bc1f9cdgy1ij12m8tbsxj22c0340qv5.jpg"
+    ],
+    "local_pics": [
+      "weibo/images/3bc1f9cdgy1ij12mbbtpfj23402c0u0x.jpg",
+      "weibo/images/3bc1f9cdgy1ij12m8tbsxj22c0340qv5.jpg"
+    ]
+  },
+  "url": "https://weibo.com/1002568141/Rrg2jjG0l"
+}
