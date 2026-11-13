@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 0,
-    "statuses_count": 4210,
+    "statuses_count": 4212,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -8484,6 +8484,30 @@
       "attitudes_count": 73
     },
     {
+      "id": "5364836611656388",
+      "bid": "RrcHb6WTW",
+      "created_at": "Fri Nov 13 16:56:25 +0800 2026",
+      "text_excerpt": "不需要//<a href='/n/用户6171043018'>@用户6171043018</a>:反弹必给你助威群主大人",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 34,
+      "attitudes_count": 101
+    },
+    {
+      "id": "5364833732267031",
+      "bid": "RrcCx9vL1",
+      "created_at": "Fri Nov 13 16:44:58 +0800 2026",
+      "text_excerpt": "及时关注呀本博如流星，转瞬即逝，幸运的看到了光，后来的看到了烟<span class=\"url-icon\"><img alt=\"[污]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e6/201810_wu_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[污]\" src=",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 239,
+      "attitudes_count": 525
+    },
+    {
       "id": "5364828631203868",
       "bid": "Rrcuj53be",
       "created_at": "Fri Nov 13 16:24:41 +0800 2026",
@@ -9336,6 +9360,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-13 08:30:30 UTC+8 (SCF v3)",
-  "total_count": 777
+  "last_updated": "2026-11-13 09:00:22 UTC+8 (SCF v3)",
+  "total_count": 779
 }
