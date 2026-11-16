@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15.1万",
     "follow_count": 0,
-    "statuses_count": 4212,
+    "statuses_count": 4210,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2278,6 +2278,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5366033806264953",
+      "bid": "RrHQ8qhND",
+      "created_at": "Tue Nov 17 00:13:38 +0800 2026",
+      "text_excerpt": "我们先来回顾一下：微博在一二个月之前，外面都在说见底反弹了什么C3C4的时候，提出没有见底，而且不会踏空，只会亏的更多。<br />在一个月之前提出今年年线会收阴，仍为全球股市倒数第一！同时很多人一直问科技股，微博总是“最后一次”反复强调只有它年线还红着，意思是还会跌。也提出在6月底天津大V大喊买入科技股上热搜和某首席摇旗呐喊科技之时，6月30号及时提出科技“落幕”，而后也因粉丝评论科技太多，提过“反弹就离婚”！的确后面反弹了，的确反弹后又泄了，只是你没有“离婚”。<br /",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 95,
+      "attitudes_count": 235
     },
     {
       "id": "5361250383172994",
@@ -9432,6 +9444,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-16 15:30:51 UTC+8 (SCF v3)",
-  "total_count": 785
+  "last_updated": "2026-11-16 16:30:29 UTC+8 (SCF v3)",
+  "total_count": 786
 }
