@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15.1万",
     "follow_count": 0,
-    "statuses_count": 4210,
+    "statuses_count": 4211,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2278,6 +2278,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5366040806820501",
+      "bid": "RrI1qsCk5",
+      "created_at": "Tue Nov 17 00:41:27 +0800 2026",
+      "text_excerpt": "本博从刚开始整整一年多时间的0关注、0点赞、0评论到第二年有了三五百粉丝，直到今天虚假的十几万粉，因受益于本博的粉丝至少上万人，其中因本博对股市的每次精准预判，从中解套回本的上千人以上（八成人都有私信向我汇报）只不过至少半数人舍不得离去又套回来了。<br />今年的A股，非同寻常。其中必定有原因，资本的嗅觉是最灵敏、最真实的。听到的看到的只不过想让你看到罢了，真实的内因老百姓是绝对看不到的。<br />2026还有一个月半结束，维持上个月的预判不变。接下去，无任上证指数跌破3",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 85,
+      "attitudes_count": 176
     },
     {
       "id": "5366033806264953",
@@ -9444,6 +9456,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-16 16:30:29 UTC+8 (SCF v3)",
-  "total_count": 786
+  "last_updated": "2026-11-16 17:00:12 UTC+8 (SCF v3)",
+  "total_count": 787
 }
