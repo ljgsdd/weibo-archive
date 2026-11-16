@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15.1万",
     "follow_count": 0,
-    "statuses_count": 4210,
+    "statuses_count": 4212,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6948,6 +6948,42 @@
       "attitudes_count": 103
     },
     {
+      "id": "5366019137738688",
+      "bid": "RrHstwtby",
+      "created_at": "Mon Nov 16 23:15:21 +0800 2026",
+      "text_excerpt": "都睡吧思考，复盘后发博会有点迟，不删！//<a href='/n/八月既望嘀马小硕'>@八月既望嘀马小硕</a>:辛苦俊哥了，但是今天发了可以不删除嘛，太困了，怕等不到<span class=\"url-icon\"><img alt=\"[泪]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/87/201810_lei_mobile.png\" style=\"width:1em; height:1em",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 101,
+      "attitudes_count": 213
+    },
+    {
+      "id": "5366018739279640",
+      "bid": "RrHrPCW3C",
+      "created_at": "Mon Nov 16 23:13:46 +0800 2026",
+      "text_excerpt": "不！人家活1年我们至少活了一年半～//<a href='/n/再也不买白酒'>@再也不买白酒</a>:跟随俊哥的多少都有点内分泌紊乱<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 47,
+      "attitudes_count": 139
+    },
+    {
+      "id": "5366017804471319",
+      "bid": "RrHqkiLc3",
+      "created_at": "Mon Nov 16 23:10:03 +0800 2026",
+      "text_excerpt": "当其他博主都进入梦想的时候，我基本都是刚坐下，泡上茶，点上烟，打开电脑，这个世界便属于我一个人了<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 4,
+      "comments_count": 150,
+      "attitudes_count": 361
+    },
+    {
       "id": "5365950348267262",
       "bid": "RrFFwyGGW",
       "created_at": "Mon Nov 16 18:42:00 +0800 2026",
@@ -9396,6 +9432,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-16 11:30:24 UTC+8 (SCF v3)",
-  "total_count": 782
+  "last_updated": "2026-11-16 15:30:51 UTC+8 (SCF v3)",
+  "total_count": 785
 }
