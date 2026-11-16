@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15.1万",
     "follow_count": 0,
-    "statuses_count": 4211,
+    "statuses_count": 4213,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2278,6 +2278,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5366060720324631",
+      "bid": "RrIxy1mrZ",
+      "created_at": "Tue Nov 17 02:00:34 +0800 2026",
+      "text_excerpt": "不知道有粉丝注意到了吗微博用词是“惊畏A股”，用一句“股市有风险投资需谨慎”来推脱应承担的责任与担当，任凭股市乌烟瘴气、腥风血雨、惨无人性地残害中国数亿中产！因此，A股不配用“敬”，只令人“惊”。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 27,
+      "attitudes_count": 74
     },
     {
       "id": "5366040806820501",
@@ -9456,6 +9468,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-16 17:00:12 UTC+8 (SCF v3)",
-  "total_count": 787
+  "last_updated": "2026-11-16 18:30:12 UTC+8 (SCF v3)",
+  "total_count": 788
 }
