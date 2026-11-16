@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15.1万",
     "follow_count": 0,
-    "statuses_count": 4209,
+    "statuses_count": 4210,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6948,6 +6948,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5365950348267262",
+      "bid": "RrFFwyGGW",
+      "created_at": "Mon Nov 16 18:42:00 +0800 2026",
+      "text_excerpt": "今天市场反常未红，失误，继续接近2300，待迟点复盘再说～不会删 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 274,
+      "attitudes_count": 729
+    },
+    {
       "id": "5365946668811668",
       "bid": "RrFzAAYjG",
       "created_at": "Mon Nov 16 18:27:23 +0800 2026",
@@ -9384,6 +9396,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-16 10:30:38 UTC+8 (SCF v3)",
-  "total_count": 781
+  "last_updated": "2026-11-16 11:30:24 UTC+8 (SCF v3)",
+  "total_count": 782
 }
