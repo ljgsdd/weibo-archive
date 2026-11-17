@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4209,
+    "statuses_count": 4210,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5366396143276082",
+      "bid": "RrRgydKg2",
+      "created_at": "Wed Nov 18 00:13:26 +0800 2026",
+      "text_excerpt": "亚太股市——日韩台也逃不出这里的预判。 ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 60,
+      "attitudes_count": 171
     },
     {
       "id": "5364215269560649",
@@ -2278,6 +2290,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5366392090264271",
+      "bid": "RrRa116Kr",
+      "created_at": "Tue Nov 17 23:57:20 +0800 2026",
+      "text_excerpt": "10月17号纳斯达克在27700点，本博发出第一步先跌3000点吧，已经被验证！<br />既然说第一步，必然有第二步，目前进入第二步。 ",
+      "is_retweet": false,
+      "pics_count": 2,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 94,
+      "attitudes_count": 247
     },
     {
       "id": "5366278137316317",
@@ -9624,6 +9648,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-17 08:30:26 UTC+8 (SCF v3)",
-  "total_count": 801
+  "last_updated": "2026-11-17 17:00:35 UTC+8 (SCF v3)",
+  "total_count": 803
 }
