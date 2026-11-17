@@ -2280,6 +2280,42 @@
       "attitudes_count": 64
     },
     {
+      "id": "5366196054789626",
+      "bid": "RrM3Pk602",
+      "created_at": "Tue Nov 17 10:58:21 +0800 2026",
+      "text_excerpt": "周五发博的那个要不要干它，昨天今天十几个点了…… ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 53,
+      "attitudes_count": 131
+    },
+    {
+      "id": "5366186738974844",
+      "bid": "RrLONBELy",
+      "created_at": "Tue Nov 17 10:21:19 +0800 2026",
+      "text_excerpt": "不会做T？把鞋子往墙上踢！说的这么清楚了呀离2300越远就买，拉起来就卖，目前不是底。累啊",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 85,
+      "attitudes_count": 336
+    },
+    {
+      "id": "5366181834786888",
+      "bid": "RrLGTk5hS",
+      "created_at": "Tue Nov 17 10:01:51 +0800 2026",
+      "text_excerpt": "2300来回诱惑，周五买的今天做T，不要加仓 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 177,
+      "attitudes_count": 595
+    },
+    {
       "id": "5366163703596181",
       "bid": "RrLdEf5wV",
       "created_at": "Tue Nov 17 08:49:48 +0800 2026",
@@ -9492,6 +9528,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-17 01:00:30 UTC+8 (SCF v3)",
-  "total_count": 790
+  "last_updated": "2026-11-17 03:00:18 UTC+8 (SCF v3)",
+  "total_count": 793
 }
