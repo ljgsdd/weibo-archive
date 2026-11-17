@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4212,
+    "statuses_count": 4209,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2278,6 +2278,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5366278137316317",
+      "bid": "RrOcduHj7",
+      "created_at": "Tue Nov 17 16:24:31 +0800 2026",
+      "text_excerpt": "居然有人在公开出售我删除的那些微博……这是穷疯了啊<span class=\"url-icon\"><img alt=\"[怒]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/90/201810_nu_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 115,
+      "attitudes_count": 187
     },
     {
       "id": "5366256670870350",
@@ -9612,6 +9624,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-17 07:00:43 UTC+8 (SCF v3)",
-  "total_count": 800
+  "last_updated": "2026-11-17 08:30:26 UTC+8 (SCF v3)",
+  "total_count": 801
 }
