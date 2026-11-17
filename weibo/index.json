@@ -3,9 +3,9 @@
     "id": 1002568141,
     "screen_name": "菩提树下那道光",
     "description": "",
-    "followers_count": "15.1万",
-    "follow_count": 0,
-    "statuses_count": 4216,
+    "followers_count": "15万",
+    "follow_count": 1,
+    "statuses_count": 4212,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2278,6 +2278,54 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5366256670870350",
+      "bid": "RrNDB3EpU",
+      "created_at": "Tue Nov 17 14:59:13 +0800 2026",
+      "text_excerpt": "4个小时交易时间我最多看半小时盘面，没法盯着～但看盘一般都会发个微博，盘面根据发博拉升只是概率，大多数都这样，纯属巧合。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 32,
+      "attitudes_count": 135
+    },
+    {
+      "id": "5366252868733712",
+      "bid": "RrNxsAE2k",
+      "created_at": "Tue Nov 17 14:44:07 +0800 2026",
+      "text_excerpt": "气得我逆回购一天按成了4天……错过抄底谁负责？？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 178,
+      "attitudes_count": 323
+    },
+    {
+      "id": "5366252136565061",
+      "bid": "RrNwhrxS5",
+      "created_at": "Tue Nov 17 14:41:12 +0800 2026",
+      "text_excerpt": "都看看自己是不是真爱粉？不是真爱粉的收盘后广场上排队<span class=\"url-icon\"><img alt=\"[怒]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/90/201810_nu_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[怒]\" src=\"http",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 189,
+      "attitudes_count": 324
+    },
+    {
+      "id": "5366250928866106",
+      "bid": "RrNukBctI",
+      "created_at": "Tue Nov 17 14:36:24 +0800 2026",
+      "text_excerpt": "有些人是选择性看博？今天振幅较大适合T，早盘就说了，中午拉高大V加菜加肉又说了2800不是底，还要咋样？最后一条说股市！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 142,
+      "attitudes_count": 453
     },
     {
       "id": "5366207274289164",
@@ -9564,6 +9612,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-17 04:00:15 UTC+8 (SCF v3)",
-  "total_count": 796
+  "last_updated": "2026-11-17 07:00:43 UTC+8 (SCF v3)",
+  "total_count": 800
 }
