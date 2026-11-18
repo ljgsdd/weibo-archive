@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4210,
+    "statuses_count": 4211,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5366551119397539",
+      "bid": "RrVivDqJd",
+      "created_at": "Wed Nov 18 10:29:14 +0800 2026",
+      "text_excerpt": "原来我写了这么多<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>这个粉丝用心了//<a href='/n/东运dongyun'>@东运dongyun</a>:回复<a href='/n/富",
+      "is_retweet": true,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 2,
+      "attitudes_count": 10
     },
     {
       "id": "5366396143276082",
@@ -9648,6 +9660,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-17 17:00:35 UTC+8 (SCF v3)",
-  "total_count": 803
+  "last_updated": "2026-11-18 02:30:19 UTC+8 (SCF v3)",
+  "total_count": 804
 }
