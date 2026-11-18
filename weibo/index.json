@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4215,
+    "statuses_count": 4212,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5366577991519494",
+      "bid": "RrVZR6nhY",
+      "created_at": "Wed Nov 18 12:16:02 +0800 2026",
+      "text_excerpt": "开盘做个T吧不加仓，午安 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 107,
+      "attitudes_count": 280
     },
     {
       "id": "5366563662201570",
@@ -9708,6 +9720,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-18 03:30:36 UTC+8 (SCF v3)",
-  "total_count": 808
+  "last_updated": "2026-11-18 04:30:25 UTC+8 (SCF v3)",
+  "total_count": 809
 }
