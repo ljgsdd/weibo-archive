@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4213,
+    "statuses_count": 4215,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,30 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5366563662201570",
+      "bid": "RrVCK9eJc",
+      "created_at": "Wed Nov 18 11:19:05 +0800 2026",
+      "text_excerpt": "C3是什么哪位大神教教我？车牌号吗？//<a href='/n/招财猫ZCC'>@招财猫ZCC</a>:讲真，还不如一下子到底，解脱了，都不要救<span class=\"url-icon\"><img alt=\"[呵呵]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d4/2025_hehe_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 58,
+      "attitudes_count": 107
+    },
+    {
+      "id": "5366560942194970",
+      "bid": "RrVym9d0K",
+      "created_at": "Wed Nov 18 11:08:16 +0800 2026",
+      "text_excerpt": "有一条微博说的是三类股，非常有价值。目前市场的根源就在这里，也就是说这个底部不是绝对的，因为一些股一直在上涨，一些股已经反弹，一些股连续下跌，走势完全不一样，那么底部到了，个股也会产生分化，因为市场没有那么多的资金，外部资金也不可能进来，散户资金都被套着，靠监管层喊话一点用都没有，没有资金的市场反弹不持续，这就是底部反弹的逻辑思维。",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 86,
+      "attitudes_count": 275
     },
     {
       "id": "5366558638473575",
@@ -9684,6 +9708,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-18 03:00:16 UTC+8 (SCF v3)",
-  "total_count": 806
+  "last_updated": "2026-11-18 03:30:36 UTC+8 (SCF v3)",
+  "total_count": 808
 }
