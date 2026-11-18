@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4212,
+    "statuses_count": 4213,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,18 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5366597258577294",
+      "bid": "RrWuVzZls",
+      "created_at": "Wed Nov 18 13:32:36 +0800 2026",
+      "text_excerpt": "舒服吧？我不会被量化监管其实量化听我的！点个赞助个威如何？<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[哈哈]\" sr",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 174,
+      "attitudes_count": 614
     },
     {
       "id": "5366577991519494",
@@ -9720,6 +9732,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-18 04:30:25 UTC+8 (SCF v3)",
-  "total_count": 809
+  "last_updated": "2026-11-18 06:00:36 UTC+8 (SCF v3)",
+  "total_count": 810
 }
