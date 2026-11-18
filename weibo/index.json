@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4211,
+    "statuses_count": 4213,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,30 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5366558638473575",
+      "bid": "RrVuDzymz",
+      "created_at": "Wed Nov 18 10:59:07 +0800 2026",
+      "text_excerpt": "这是大V为自己开脱的借口！量化从来不看任何散户任何博主，只看数据！//<a href='/n/江水映长天'>@江水映长天</a>:俊哥也是量化暗中监控的对象之一<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\"",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 24,
+      "attitudes_count": 98
+    },
+    {
+      "id": "5366557781789756",
+      "bid": "RrVtg7vB2",
+      "created_at": "Wed Nov 18 10:55:44 +0800 2026",
+      "text_excerpt": "一发博市场就反弹点……砸透吧不发了<span class=\"url-icon\"><img alt=\"[允悲]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/65/201810_ybnew_mobile.png\" style=\"width:1em; height:1em;\" /></span> ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 2,
+      "comments_count": 105,
+      "attitudes_count": 264
     },
     {
       "id": "5366551119397539",
@@ -9660,6 +9684,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-18 02:30:19 UTC+8 (SCF v3)",
-  "total_count": 804
+  "last_updated": "2026-11-18 03:00:16 UTC+8 (SCF v3)",
+  "total_count": 806
 }
