@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4213,
+    "statuses_count": 4214,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,30 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5366633175715866",
+      "bid": "RrXqRnYXo",
+      "created_at": "Wed Nov 18 15:55:19 +0800 2026",
+      "text_excerpt": "公款不能私吞！助威除了平台和税拿走50%外，剩下每一分钱都用作慈善纳福！//<a href='/n/刘灰灰_'>@刘灰灰_</a>:奶茶好喝吗",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 32,
+      "attitudes_count": 114
+    },
+    {
+      "id": "5366632110097145",
+      "bid": "RrXp90pgR",
+      "created_at": "Wed Nov 18 15:51:05 +0800 2026",
+      "text_excerpt": "啊呀看了下微博第一“财经”大V评论区里，水军和粉丝们掐得头破血流面目全非……可怜了那些散户多年辛苦的血汗钱付之东流一去不再回！<br />同样地被市场肆孽，这里抱团取暖互助互慰。人以群分这就是，为你们点赞👍 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 113,
+      "attitudes_count": 305
     },
     {
       "id": "5366597258577294",
@@ -9732,6 +9756,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-18 06:00:36 UTC+8 (SCF v3)",
-  "total_count": 810
+  "last_updated": "2026-11-18 08:00:12 UTC+8 (SCF v3)",
+  "total_count": 812
 }
