@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4216,
+    "statuses_count": 4212,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4294,6 +4294,30 @@
       "reposts_count": 0,
       "comments_count": 99,
       "attitudes_count": 198
+    },
+    {
+      "id": "5366942678387666",
+      "bid": "Rs5u3zc0W",
+      "created_at": "Thu Nov 19 12:25:10 +0800 2026",
+      "text_excerpt": "发了这么多博为了今天拉点指数，散户不易少亏点吧。下周见～ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 68,
+      "attitudes_count": 219
+    },
+    {
+      "id": "5366940231011641",
+      "bid": "Rs5q74faN",
+      "created_at": "Thu Nov 19 12:15:27 +0800 2026",
+      "text_excerpt": "很多人问黄金跌到多少啊给家人买个手镯啥的，黄金最高位的时候我记得发过博，中间也说过还会跌。不过，你要晓得，给家人给亲人买个饰品，不要等，价格等下来了或许再等不回此刻的感受和暖意。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 108,
+      "attitudes_count": 282
     },
     {
       "id": "5366936277880543",
@@ -9840,6 +9864,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-19 04:00:14 UTC+8 (SCF v3)",
-  "total_count": 819
+  "last_updated": "2026-11-19 04:30:11 UTC+8 (SCF v3)",
+  "total_count": 821
 }
