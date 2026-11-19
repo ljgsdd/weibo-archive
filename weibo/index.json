@@ -4296,6 +4296,18 @@
       "attitudes_count": 198
     },
     {
+      "id": "5366964165543826",
+      "bid": "Rs62Ingcy",
+      "created_at": "Thu Nov 19 13:50:33 +0800 2026",
+      "text_excerpt": "今天再来读，都读懂了～",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 123,
+      "attitudes_count": 333
+    },
+    {
       "id": "5366942678387666",
       "bid": "Rs5u3zc0W",
       "created_at": "Thu Nov 19 12:25:10 +0800 2026",
@@ -9864,6 +9876,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-19 04:30:11 UTC+8 (SCF v3)",
-  "total_count": 821
+  "last_updated": "2026-11-19 07:00:23 UTC+8 (SCF v3)",
+  "total_count": 822
 }
