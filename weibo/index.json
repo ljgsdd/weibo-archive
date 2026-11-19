@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4210,
+    "statuses_count": 4211,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4294,6 +4294,18 @@
       "reposts_count": 0,
       "comments_count": 99,
       "attitudes_count": 198
+    },
+    {
+      "id": "5366927418722729",
+      "bid": "Rs55rABbb",
+      "created_at": "Thu Nov 19 11:24:32 +0800 2026",
+      "text_excerpt": "外面寒风呼啸，这里抱团取暖。散户与散户之间也是对手盘，市值不会蒸发，只会从一群人手中转移到另一群人口袋中。目前大V散户哀嚎不止，等尸横遍野时，不战而胜。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 130,
+      "attitudes_count": 333
     },
     {
       "id": "5364474687259242",
@@ -9768,6 +9780,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-18 09:00:19 UTC+8 (SCF v3)",
-  "total_count": 813
+  "last_updated": "2026-11-19 03:30:09 UTC+8 (SCF v3)",
+  "total_count": 814
 }
