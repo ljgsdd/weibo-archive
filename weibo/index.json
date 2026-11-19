@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4211,
+    "statuses_count": 4216,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4294,6 +4294,66 @@
       "reposts_count": 0,
       "comments_count": 99,
       "attitudes_count": 198
+    },
+    {
+      "id": "5366936277880543",
+      "bid": "Rs5jJx45x",
+      "created_at": "Thu Nov 19 11:59:44 +0800 2026",
+      "text_excerpt": "这些天短线一开始都是赚的因为没法看盘，没及时卖出就吐回去了，也说明前段时间没到底//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:有呢，这段时间的历程是赚了～吐回去～不服～再干～亏了～服了！//<a href='/n/潮汐向明生'>@潮汐向明生</a>:俊哥手上有仓位吗",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 0,
+      "attitudes_count": 9
+    },
+    {
+      "id": "5366934682208103",
+      "bid": "Rs5ha9gqz",
+      "created_at": "Thu Nov 19 11:53:24 +0800 2026",
+      "text_excerpt": "有呢，这段时间的历程是赚了～吐回去～不服～再干～亏了～服了！//<a href='/n/潮汐向明生'>@潮汐向明生</a>:俊哥手上有仓位吗",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 84,
+      "attitudes_count": 158
+    },
+    {
+      "id": "5366933660632939",
+      "bid": "Rs5fw2EEH",
+      "created_at": "Thu Nov 19 11:49:20 +0800 2026",
+      "text_excerpt": "我知道，可我实在难忍，就像此刻//<a href='/n/招财猫ZCC'>@招财猫ZCC</a>:俊哥，别说话了，我正等着它砸到5800呢，也奇怪了，您一发博他就拉<span class=\"url-icon\"><img alt=\"[嘘]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/35/201810_xu_mobile.png\" style=\"width:1em; height:1em;\" ",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 70,
+      "attitudes_count": 168
+    },
+    {
+      "id": "5366932859781855",
+      "bid": "Rs5edF2HR",
+      "created_at": "Thu Nov 19 11:46:09 +0800 2026",
+      "text_excerpt": "市场有点磨磨蹭蹭，A股30岁软而不举、举而不坚、坚而不久，让陪着它的人也学会了阉割！<br />上次说再来一根多少的跌幅忘了～加速下去就会探底成功，出去几天下周见，都帮我盯着别偷袭哈 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 4,
+      "comments_count": 102,
+      "attitudes_count": 313
+    },
+    {
+      "id": "5366929683644514",
+      "bid": "Rs596fi6u",
+      "created_at": "Thu Nov 19 11:33:31 +0800 2026",
+      "text_excerpt": "市场永远是对的，自己错了不要去找任何外部理由，那样只会更无耻。“惊畏”之惊，提出已久，本来就不值得敬。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 91,
+      "attitudes_count": 344
     },
     {
       "id": "5366927418722729",
@@ -9780,6 +9840,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-19 03:30:09 UTC+8 (SCF v3)",
-  "total_count": 814
+  "last_updated": "2026-11-19 04:00:14 UTC+8 (SCF v3)",
+  "total_count": 819
 }
