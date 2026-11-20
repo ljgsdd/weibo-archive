@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4213,
+    "statuses_count": 4214,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -9000,6 +9000,18 @@
       "attitudes_count": 73
     },
     {
+      "id": "5367278339623246",
+      "bid": "RsedrEnrE",
+      "created_at": "Fri Nov 20 10:38:58 +0800 2026",
+      "text_excerpt": "民间传说，那天就是白云为驾从而降～<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span><br />东方航空有心了<span class=\"url-icon\"><img alt=\"[心]\" sr",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 594,
+      "attitudes_count": 737
+    },
+    {
       "id": "5367133796303702",
       "bid": "RsasjqrSC",
       "created_at": "Fri Nov 20 01:04:36 +0800 2026",
@@ -9888,6 +9900,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-19 17:30:17 UTC+8 (SCF v3)",
-  "total_count": 823
+  "last_updated": "2026-11-20 03:00:12 UTC+8 (SCF v3)",
+  "total_count": 824
 }
