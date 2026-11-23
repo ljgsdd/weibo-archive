@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4217,
+    "statuses_count": 4219,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -7392,6 +7392,30 @@
       "attitudes_count": 103
     },
     {
+      "id": "5368412303788468",
+      "bid": "RsHIqfTyk",
+      "created_at": "Mon Nov 23 13:44:56 +0800 2026",
+      "text_excerpt": "谢谢继续助威者，俊哥会为你祈福家庭幸福，早日回本<span class=\"url-icon\"><img alt=\"[祈祷]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/2025_pray_mobile.png\" style=\"width:1em; height:1em;\" /></span>//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:言出必法随！明后两天上山",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 132,
+      "attitudes_count": 307
+    },
+    {
+      "id": "5368411086390529",
+      "bid": "RsHGsqOt3",
+      "created_at": "Mon Nov 23 13:40:06 +0800 2026",
+      "text_excerpt": "早盘各指数翻绿，是短线买入的机会，只在于信与不信之间。",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 86,
+      "attitudes_count": 287
+    },
+    {
       "id": "5368406686826544",
       "bid": "RsHzmsDTy",
       "created_at": "Mon Nov 23 13:22:36 +0800 2026",
@@ -9960,6 +9984,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-23 05:30:11 UTC+8 (SCF v3)",
-  "total_count": 829
+  "last_updated": "2026-11-23 06:00:32 UTC+8 (SCF v3)",
+  "total_count": 831
 }
