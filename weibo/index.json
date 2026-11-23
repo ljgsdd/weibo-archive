@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4220,
+    "statuses_count": 4219,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -7392,6 +7392,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5368556126209623",
+      "bid": "RsLsoq3pd",
+      "created_at": "Mon Nov 23 23:16:26 +0800 2026",
+      "text_excerpt": "奇怪了！全网都在热议英伟达事宜，都认为跟股市有关！那么请问：<br />纳斯达克在27700点，还没有黄仁勋事件，我凭什么发博判断先跌3000点？<br />今天上午盘10:30各指数全绿最低点，还没有黄仁勋回归新闻，我又凭什么发博判断反弹？<br />请你回答根据什么判断？<br />一群大韭菜带领一群老嫩黄韭菜，天天看着新闻来炒股，亏光家底，是早晚的事。",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 171,
+      "attitudes_count": 498
+    },
+    {
       "id": "5368420281353870",
       "bid": "RsHVi5GcC",
       "created_at": "Mon Nov 23 14:16:38 +0800 2026",
@@ -9996,6 +10008,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-23 06:30:18 UTC+8 (SCF v3)",
-  "total_count": 832
+  "last_updated": "2026-11-23 18:00:15 UTC+8 (SCF v3)",
+  "total_count": 833
 }
