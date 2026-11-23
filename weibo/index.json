@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4215,
+    "statuses_count": 4216,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -7392,6 +7392,18 @@
       "attitudes_count": 103
     },
     {
+      "id": "5368353829948431",
+      "bid": "RsGc6FK2z",
+      "created_at": "Mon Nov 23 09:52:35 +0800 2026",
+      "text_excerpt": "本周应是反弹周，大部分个股会反弹。昨夜回浙连夜写博以慰我粉，这几天无法看盘祝你好运。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 199,
+      "attitudes_count": 503
+    },
+    {
       "id": "5368219793622179",
       "bid": "RsCHVfcif",
       "created_at": "Mon Nov 23 00:59:58 +0800 2026",
@@ -9924,6 +9936,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-22 17:00:38 UTC+8 (SCF v3)",
-  "total_count": 826
+  "last_updated": "2026-11-23 02:00:19 UTC+8 (SCF v3)",
+  "total_count": 827
 }
