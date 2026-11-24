@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4219,
+    "statuses_count": 4218,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2410,6 +2410,18 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5368746484434928",
+      "bid": "RsQpqiBJ6",
+      "created_at": "Tue Nov 24 11:52:51 +0800 2026",
+      "text_excerpt": "周日说了本周反弹周，到周五来看各指数是不是周阳线？也说了反弹不会连续持续，昨日指数最低点又说了“短线”买入……<br />哪里还可以看到如此精准的预测？都喜欢到处张望看各种消息看各类博主，你们昨晚说的今天千股涨停呢，难道我看的B股？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 94,
+      "attitudes_count": 253
     },
     {
       "id": "5366392090264271",
@@ -10008,6 +10020,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-23 18:00:15 UTC+8 (SCF v3)",
-  "total_count": 833
+  "last_updated": "2026-11-24 04:00:20 UTC+8 (SCF v3)",
+  "total_count": 834
 }
