@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4218,
+    "statuses_count": 4219,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -2410,6 +2410,30 @@
       "reposts_count": 0,
       "comments_count": 29,
       "attitudes_count": 64
+    },
+    {
+      "id": "5368812903859491",
+      "bid": "RsS8ygc1R",
+      "created_at": "Tue Nov 24 16:16:47 +0800 2026",
+      "text_excerpt": "市场永远是对的！如果市场错了它错了几十年了你为啥一直跟随？<br />只有那些牛鬼蛇神和无能之辈，把责备市场作为自己猜错的借口和带节奏转移粉丝情绪。<br />要么适应环境，要么改变环境，要么离开环境。呼吸着空气骂氧离子太低，憋着不就完了么？<br />昨晚评论区喊千股涨停的人呢出来爬几圈 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 165,
+      "attitudes_count": 464
+    },
+    {
+      "id": "5368767716262518",
+      "bid": "RsQXFqham",
+      "created_at": "Tue Nov 24 13:17:13 +0800 2026",
+      "text_excerpt": "<span class=\"url-icon\"><img alt=\"[祈祷]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/2025_pray_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[祈祷]\" src=\"https://face.t.sinajs.cn/t4/",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 427,
+      "attitudes_count": 1047
     },
     {
       "id": "5368746484434928",
@@ -10020,6 +10044,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-24 04:00:20 UTC+8 (SCF v3)",
-  "total_count": 834
+  "last_updated": "2026-11-24 09:00:15 UTC+8 (SCF v3)",
+  "total_count": 836
 }
