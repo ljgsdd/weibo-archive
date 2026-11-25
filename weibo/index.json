@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4219,
+    "statuses_count": 4220,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -502,6 +502,30 @@
       "reposts_count": 0,
       "comments_count": 77,
       "attitudes_count": 173
+    },
+    {
+      "id": "5369181403089918",
+      "bid": "Rt1IUcXPo",
+      "created_at": "Wed Nov 25 16:41:04 +0800 2026",
+      "text_excerpt": "本博说的基本都是趋势，准确率99.9999%至于第二天的涨跌，纯属瞎蒙，明天指数又都涨了<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>好了，停更一个月，有人不信，看吧！",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 120,
+      "attitudes_count": 331
+    },
+    {
+      "id": "5369180001930208",
+      "bid": "Rt1GE868o",
+      "created_at": "Wed Nov 25 16:35:30 +0800 2026",
+      "text_excerpt": "二天不看股市，市场又面目全非了。<br />还记得上证指数在3700多点的时候，微博说过“如果外围不稳，上证会跌向3400点”吗？那时候没人会信，如今可能会信，不久果真要信！<br />那时纳斯达克27700，微博预判“第一步跌3000点”；那时日、韩、台市场稳的很，微博预判会补跌，“还会下跌”；那时创业板2800多点，微博提出某大V带领粉丝C抄底，今年不可能再回本；月初微博发出“忽已穷”评论区指出“年内不会有行情”；中间无数提出“不会踏空，不会持续”周末提出会有反弹但不是触",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 148,
+      "attitudes_count": 451
     },
     {
       "id": "5366635394761419",
@@ -10056,6 +10080,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-24 17:00:13 UTC+8 (SCF v3)",
-  "total_count": 837
+  "last_updated": "2026-11-25 09:00:21 UTC+8 (SCF v3)",
+  "total_count": 839
 }
