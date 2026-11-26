@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4220,
+    "statuses_count": 4221,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -4366,6 +4366,30 @@
       "reposts_count": 0,
       "comments_count": 99,
       "attitudes_count": 198
+    },
+    {
+      "id": "5369650967742419",
+      "bid": "RtdWgwu9J",
+      "created_at": "Thu Nov 26 23:46:57 +0800 2026",
+      "text_excerpt": "调查一下：<br />你有在看19:00的新闻联播吗？<a  href=\"https://m.weibo.cn/p/index?extparam=%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5&containerid=100808859b34629da8586933fb94038a80a4b5&luicode=20000174&launchid=10000360-page_H5\" data-hide=\"\"><span class='url-icon'",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 191,
+      "attitudes_count": 253
+    },
+    {
+      "id": "5369644937642934",
+      "bid": "RtdMxw4h8",
+      "created_at": "Thu Nov 26 23:22:59 +0800 2026",
+      "text_excerpt": "根据预判，全球股市本周全部上涨收阳！<br />唯一大A，别具一格。一个声称全球第二大经济体、拥有全世界最庞大人群参与的市场，连续收割投资者30余年！ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 144,
+      "attitudes_count": 461
     },
     {
       "id": "5369589273729354",
@@ -9204,6 +9228,30 @@
       "attitudes_count": 73
     },
     {
+      "id": "5369660545697833",
+      "bid": "RtebInUgx",
+      "created_at": "Fri Nov 27 00:25:00 +0800 2026",
+      "text_excerpt": "调查一结果：99%的人不看新闻联播<br />新闻，已经离老百姓生活太远。<br />调查二结果：90%的人不认识父母官<br />你的孩子，叫不出爹妈的名字。 ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 39,
+      "attitudes_count": 138
+    },
+    {
+      "id": "5369656554817922",
+      "bid": "Rte5hkdmq",
+      "created_at": "Fri Nov 27 00:09:09 +0800 2026",
+      "text_excerpt": "调查二：<br />你是否知道自己所属地的县（市）长、县（市）委书记的名字吗？ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 112,
+      "attitudes_count": 124
+    },
+    {
       "id": "5367278339623246",
       "bid": "RsedrEnrE",
       "created_at": "Fri Nov 20 10:38:58 +0800 2026",
@@ -10104,6 +10152,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-26 13:00:16 UTC+8 (SCF v3)",
-  "total_count": 841
+  "last_updated": "2026-11-26 17:00:30 UTC+8 (SCF v3)",
+  "total_count": 845
 }
