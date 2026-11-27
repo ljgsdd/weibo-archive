@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4221,
+    "statuses_count": 4219,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -9228,6 +9228,30 @@
       "attitudes_count": 73
     },
     {
+      "id": "5369816835952089",
+      "bid": "RtifNoYpr",
+      "created_at": "Fri Nov 27 10:46:03 +0800 2026",
+      "text_excerpt": "如果有，那么前几天那些质疑我的几十人，趁今天太阳好都拉出去🔫了//<a href='/n/我就是吉祥宝宝'>@我就是吉祥宝宝</a>:应该超了//<a href='/n/菩提树下那道光'>@菩提树下那道光</a>:这周不知道有没有半数个股周线收阳？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 91,
+      "attitudes_count": 225
+    },
+    {
+      "id": "5369816111909021",
+      "bid": "RtieD80CF",
+      "created_at": "Fri Nov 27 10:43:10 +0800 2026",
+      "text_excerpt": "这周不知道有没有半数个股周线收阳？",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 80,
+      "attitudes_count": 258
+    },
+    {
       "id": "5369660545697833",
       "bid": "RtebInUgx",
       "created_at": "Fri Nov 27 00:25:00 +0800 2026",
@@ -10152,6 +10176,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-26 17:00:30 UTC+8 (SCF v3)",
-  "total_count": 845
+  "last_updated": "2026-11-27 03:00:12 UTC+8 (SCF v3)",
+  "total_count": 847
 }
