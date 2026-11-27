@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4220,
+    "statuses_count": 4221,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -9228,6 +9228,18 @@
       "attitudes_count": 73
     },
     {
+      "id": "5369889787480893",
+      "bid": "Rtk9svo7z",
+      "created_at": "Fri Nov 27 15:35:56 +0800 2026",
+      "text_excerpt": "下周复下周，下周何其多！可否知道预判股市的一条微博需要耗尽多少个拂晓？ ",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 288,
+      "attitudes_count": 540
+    },
+    {
       "id": "5369852057094121",
       "bid": "RtjaBtLvj",
       "created_at": "Fri Nov 27 13:06:00 +0800 2026",
@@ -10236,6 +10248,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-27 05:30:13 UTC+8 (SCF v3)",
-  "total_count": 852
+  "last_updated": "2026-11-27 08:00:16 UTC+8 (SCF v3)",
+  "total_count": 853
 }
