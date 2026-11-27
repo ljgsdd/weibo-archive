@@ -1,0 +1,33 @@
+{
+  "id": "5369863787776112",
+  "mid": "5369863787776112",
+  "bid": "RtjtwwCVa",
+  "created_at": "Fri Nov 27 13:52:37 +0800 2026",
+  "text_html": "中午这条微博把指数都拉了一倍！没人敢这么坚定说吧<span class=\"url-icon\"><img alt=\"[污]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e6/201810_wu_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+  "text_raw": "中午这条微博把指数都拉了一倍！没人敢这么坚定说吧[污]",
+  "source": "",
+  "region_name": "发布于 浙江",
+  "reposts_count": 0,
+  "comments_count": 109,
+  "attitudes_count": 324,
+  "pic_ids": [],
+  "pics": [],
+  "local_pics": [],
+  "video_url": "",
+  "video_cover": "",
+  "is_long_text": false,
+  "is_retweet": true,
+  "retweeted": {
+    "id": "5369845822522983",
+    "mid": "5369845822522983",
+    "bid": "Rtj0yaAlh",
+    "user_name": "菩提树下那道光",
+    "user_id": 1002568141,
+    "created_at": "Fri Nov 27 12:41:14 +0800 2026",
+    "text_html": "今天下午不会再跳水！ ",
+    "is_long_text": false,
+    "pics": [],
+    "local_pics": []
+  },
+  "url": "https://weibo.com/1002568141/RtjtwwCVa"
+}
