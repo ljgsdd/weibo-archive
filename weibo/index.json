@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4221,
+    "statuses_count": 4220,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -9228,6 +9228,30 @@
       "attitudes_count": 73
     },
     {
+      "id": "5369852057094121",
+      "bid": "RtjaBtLvj",
+      "created_at": "Fri Nov 27 13:06:00 +0800 2026",
+      "text_excerpt": "周线全部收阳！！预判验证亚历山大，周末愉快<span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c8/201810_xianhua_mobile.png\" style=\"width:1em; height:1em;\" /></span><span class=\"url-icon\"><img alt=\"[鲜花]\" src=\"ht",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 239,
+      "attitudes_count": 547
+    },
+    {
+      "id": "5369845822522983",
+      "bid": "Rtj0yaAlh",
+      "created_at": "Fri Nov 27 12:41:14 +0800 2026",
+      "text_excerpt": "今天下午不会再跳水！ ",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 0,
+      "comments_count": 184,
+      "attitudes_count": 563
+    },
+    {
       "id": "5369833126364612",
       "bid": "RtiG4qHJ2",
       "created_at": "Fri Nov 27 11:50:47 +0800 2026",
@@ -10212,6 +10236,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-27 04:00:35 UTC+8 (SCF v3)",
-  "total_count": 850
+  "last_updated": "2026-11-27 05:30:13 UTC+8 (SCF v3)",
+  "total_count": 852
 }
