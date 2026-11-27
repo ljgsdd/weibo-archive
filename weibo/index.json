@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4219,
+    "statuses_count": 4221,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -9228,6 +9228,42 @@
       "attitudes_count": 73
     },
     {
+      "id": "5369833126364612",
+      "bid": "RtiG4qHJ2",
+      "created_at": "Fri Nov 27 11:50:47 +0800 2026",
+      "text_excerpt": "当年微博。我妈从小告诉我：建庙、修桥、铺路功德无量<span class=\"url-icon\"><img alt=\"[哈哈]\" src=\"https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c5/201810_haha_mobile.png\" style=\"width:1em; height:1em;\" /></span>",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 68,
+      "attitudes_count": 204
+    },
+    {
+      "id": "5369831354532791",
+      "bid": "RtiDdj1bx",
+      "created_at": "Fri Nov 27 11:43:44 +0800 2026",
+      "text_excerpt": "只因人间缺少温暖！//<a href='/n/forBF'>@forBF</a>:感谢俊哥。实在是想不通俊哥为啥这么爱粉丝",
+      "is_retweet": true,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 86,
+      "attitudes_count": 211
+    },
+    {
+      "id": "5369829915624479",
+      "bid": "RtiATnBbp",
+      "created_at": "Fri Nov 27 11:38:01 +0800 2026",
+      "text_excerpt": "粉丝们助威6元，平台和税拿走3元。剩下所有的助威款俊哥全部用作捐助中国少儿基金、受灾地区（微博都有截图）和祈愿纳福，一分不留自己再掏腰包（个人掏腰包捐赠少儿基金5万广西灾区8千本次纳福2万）<br />这祈愿纳福啊从早上8点拜到下午五点，起身跪拜至少上万次，睡觉浑身酸痛，第二天腿都在抖，要不是为了大家，给我多少钱一天我都不干<span class=\"url-icon\"><img alt=\"[污]\" src=\"https://face.t.sinajs.cn/t4/appsty",
+      "is_retweet": false,
+      "pics_count": 1,
+      "has_video": false,
+      "reposts_count": 3,
+      "comments_count": 241,
+      "attitudes_count": 424
+    },
+    {
       "id": "5369816835952089",
       "bid": "RtifNoYpr",
       "created_at": "Fri Nov 27 10:46:03 +0800 2026",
@@ -10176,6 +10212,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-27 03:00:12 UTC+8 (SCF v3)",
-  "total_count": 847
+  "last_updated": "2026-11-27 04:00:35 UTC+8 (SCF v3)",
+  "total_count": 850
 }
