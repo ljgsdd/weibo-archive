@@ -5,7 +5,7 @@
     "description": "",
     "followers_count": "15万",
     "follow_count": 1,
-    "statuses_count": 4221,
+    "statuses_count": 4222,
     "verified": false,
     "verified_reason": "",
     "avatar_hd": "https://wx4.sinaimg.cn/orj480/3bc1f9cdly8huxibsrjmcj20e80e874j.jpg"
@@ -6816,6 +6816,18 @@
       "attitudes_count": 30
     },
     {
+      "id": "5370019106260029",
+      "bid": "Rtnw2qgwd",
+      "created_at": "Sat Nov 28 00:09:48 +0800 2026",
+      "text_excerpt": "谢谢大家的关心，只是劳累过度，无大碍。<br />因这几天事情太多，无法看盘，但总体的预判符合预期——也就是上周末发博的“下周反弹周，大部分个股会反弹”！所谓的会议或消息，只不过一些博主主播借题发挥的噱头罢了，股市有其自身的走势。官场最不缺会议，如果会议有用，如今上证应该在360000点。<br />昨天如果看盘，俊哥应该会发出全体都有！很明显昨天市场情绪已经到位，本博出现了首次吐槽。不过没看盘在祈福纳福，才有了今天反弹～周线收阳，不是吗？<br />26号的低点，是今年A股",
+      "is_retweet": false,
+      "pics_count": 0,
+      "has_video": false,
+      "reposts_count": 1,
+      "comments_count": 182,
+      "attitudes_count": 432
+    },
+    {
       "id": "5364963259714804",
       "bid": "RrfZrELgo",
       "created_at": "Sat Nov 14 01:19:40 +0800 2026",
@@ -10248,6 +10260,6 @@
       "attitudes_count": 1534
     }
   ],
-  "last_updated": "2026-11-27 08:00:16 UTC+8 (SCF v3)",
-  "total_count": 853
+  "last_updated": "2026-11-27 18:00:13 UTC+8 (SCF v3)",
+  "total_count": 854
 }
